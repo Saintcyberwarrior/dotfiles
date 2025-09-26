@@ -1,0 +1,2 @@
+[START][2025-09-04 16:16:23] LSP logging initiated
+[ERROR][2025-09-04 16:16:23] ...lsp/handlers.lua:562	"Your workspace is set to `/Users/gravity`. Lua language server refused to load this directory. Please check your configuration.[learn more here](https://luals.github.io/wiki/faq#why-is-the-server-scanning-the-wrong-folder)"

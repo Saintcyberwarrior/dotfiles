@@ -1,0 +1,57 @@
+{
+  "mode": "tile",
+  "native-fullscreen": false,
+
+  "gaps": {
+    "inner": 10,
+    "outer": 10
+  },
+
+  "padding": {
+    "top": 30,
+    "bottom": 10,
+    "left": 10,
+    "right": 10
+  },
+
+  "floating": {
+    "border": {
+      "width": 2,
+      "color": "0xffff0000"
+    }
+  },
+
+  "tiling": {
+    "border": {
+      "width": 2,
+      "color": "0x555555",
+      "active-color": "0xffff0000"
+    }
+  },
+
+  "window-rules": [
+    {
+      "app-id": "org.mozilla.firefox",
+      "workspace": "1"
+    },
+    {
+      "app-id": "com.googlecode.iterm2",
+      "workspace": "2"
+    },
+    {
+      "app-id": "com.microsoft.VSCode",
+      "workspace": "1"
+    }
+  ],
+
+  "keybindings": {
+    "alt-h": "focus left",
+    "alt-j": "focus down",
+    "alt-k": "focus up",
+    "alt-l": "focus right",
+
+    "alt-1": "workspace 1",
+    "alt-2": "workspace 2",
+    "alt-3": "workspace 3"
+  }
+}

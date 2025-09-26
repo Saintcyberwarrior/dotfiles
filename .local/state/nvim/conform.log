@@ -1,0 +1,24 @@
+2025-09-25 19:39:01[WARN] Formatter 'prettierd' timeout
+2025-09-25 19:39:02[WARN] Formatter 'prettierd' timeout
+2025-09-25 19:39:02[ERROR] Formatter 'prettierd' error: SyntaxError: The input should contain exactly one expression, but the first expression is followed by the unexpected character `"`. (55:1)
+[0m [90m 53 |[39m }
+ [90m 54 |[39m
+[31m[1m>[22m[39m[90m 55 |[39m [32m"window-rules"[39m[33m:[39m [
+ [90m    |[39m [31m[1m^[22m[39m
+ [90m 56 |[39m   {
+ [90m 57 |[39m     [32m"app-id"[39m[33m:[39m [32m"com.googlecode.iterm2"[39m[33m,[39m
+ [90m 58 |[39m     [32m"workspace"[39m[33m:[39m [32m"term"[39m[33m,[39m[0m
+
+2025-09-25 19:39:02[ERROR] Formatter 'prettierd' error: SyntaxError: The input should contain exactly one expression, but the first expression is followed by the unexpected character `"`. (55:1)
+[0m [90m 53 |[39m }
+ [90m 54 |[39m
+[31m[1m>[22m[39m[90m 55 |[39m [32m"window-rules"[39m[33m:[39m [
+ [90m    |[39m [31m[1m^[22m[39m
+ [90m 56 |[39m   {
+ [90m 57 |[39m     [32m"app-id"[39m[33m:[39m [32m"com.googlecode.iterm2"[39m[33m,[39m
+ [90m 58 |[39m     [32m"workspace"[39m[33m:[39m [32m"term"[39m[33m,[39m[0m
+
+2025-09-25 20:23:38[ERROR] Formatter 'shfmt' error: /Users/gravity/.config/borders/bordersrc:5:10: array element values must be words
+
+2025-09-25 20:23:38[ERROR] Formatter 'shfmt' error: /Users/gravity/.config/borders/bordersrc:5:10: array element values must be words
+

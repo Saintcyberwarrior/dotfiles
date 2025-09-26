@@ -1,0 +1,551 @@
+[INFO  Tue Sep  2 20:32:29 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=stylua) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:32:29 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=shfmt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:32:29 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=hadolint) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:32:29 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=goimports) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:32:29 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gofumpt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:32:29 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=delve) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:32:29 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=markdownlint-cli2) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:32:29 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=markdown-toc) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue Sep  2 20:32:29 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:32:31 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:32:31 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=hadolint) error="The current platform is unsupported."
+[ERROR Tue Sep  2 20:32:31 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:32:31 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:32:31 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:32:31 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=delve) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:32:31 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:32:31 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:32:31 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 20:32:31 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Tue Sep  2 20:32:31 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=stylua)
+[INFO  Tue Sep  2 20:32:31 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=shfmt)
+[INFO  Tue Sep  2 20:36:20 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=hadolint) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:36:20 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=goimports) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:36:20 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gofumpt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:36:20 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=delve) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:36:20 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=markdownlint-cli2) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:36:20 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=markdown-toc) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue Sep  2 20:36:21 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:36:21 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=hadolint) error="The current platform is unsupported."
+[ERROR Tue Sep  2 20:36:21 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:36:21 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:36:21 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:36:21 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:36:21 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=delve) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:36:21 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:36:21 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:36:21 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 20:36:21 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=hadolint) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=goimports) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gofumpt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=delve) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=markdownlint-cli2) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=markdown-toc) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue Sep  2 20:45:12 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:45:12 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=delve) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:45:12 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=hadolint) error="The current platform is unsupported."
+[ERROR Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:45:12 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:45:12 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 20:45:12 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=rust-analyzer) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=typescript-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tailwindcss-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=css-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=prettierd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gofumpt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=goimports-reviser) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=golines) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=golangci-lint) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=eslint_d) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue Sep  2 20:52:08 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:52:08 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 20:52:08 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tailwindcss-language-server) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 20:52:08 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=css-lsp) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 20:52:08 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=prettierd) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 20:52:08 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 20:52:08 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:52:08 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=golines) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[INFO  Tue Sep  2 20:52:09 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=goimports-reviser)
+[ERROR Tue Sep  2 20:52:09 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 20:52:09 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=eslint_d) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Tue Sep  2 20:52:10 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=rust-analyzer)
+[INFO  Tue Sep  2 20:52:10 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=lua-language-server)
+[INFO  Tue Sep  2 20:52:10 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=golangci-lint)
+[INFO  Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=typescript-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tailwindcss-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=css-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=prettierd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gofumpt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=golines) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=eslint_d) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue Sep  2 21:15:03 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:03 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:15:03 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tailwindcss-language-server) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:15:03 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=css-lsp) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:15:03 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:03 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=prettierd) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:15:03 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=golines) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:15:03 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=eslint_d) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=typescript-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tailwindcss-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=css-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=prettierd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gofumpt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=golines) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=eslint_d) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue Sep  2 21:15:46 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:46 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:15:46 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tailwindcss-language-server) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:15:46 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=css-lsp) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:15:46 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=prettierd) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:15:46 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:15:46 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:46 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=eslint_d) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:15:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=golines) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:17:35 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:17:35 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:17:35 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="cargo", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:17:35 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="luarocks", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:17:35 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="composer", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:17:35 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="php", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:17:35 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:17:35 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="node", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:17:35 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="julia", err="ENOENT: no such file or directory"
+[INFO  Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=typescript-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tailwindcss-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=css-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=prettierd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gofumpt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=golines) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=eslint_d) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue Sep  2 21:21:13 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:21:13 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:21:13 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tailwindcss-language-server) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:21:13 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=css-lsp) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:21:13 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:21:13 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=prettierd) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:21:13 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=golines) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:21:13 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:21:13 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=eslint_d) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=typescript-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tailwindcss-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=css-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=prettierd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gofumpt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=golines) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=eslint_d) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue Sep  2 21:23:48 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:23:48 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tailwindcss-language-server) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:23:48 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=css-lsp) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:23:48 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:23:48 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:23:48 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=prettierd) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:23:48 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:23:48 2025] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=golines) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue Sep  2 21:23:48 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=eslint_d) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Tue Sep  2 21:25:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:25:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=typescript-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:25:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tailwindcss-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:25:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=css-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:25:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=prettierd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:25:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gofumpt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:25:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=golines) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:25:46 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=eslint_d) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue Sep  2 21:25:52 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=tailwindcss-language-server)
+[INFO  Tue Sep  2 21:25:53 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=typescript-language-server)
+[INFO  Tue Sep  2 21:25:56 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=css-lsp)
+[INFO  Tue Sep  2 21:25:59 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=prettierd)
+[INFO  Tue Sep  2 21:26:03 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=eslint_d)
+[INFO  Tue Sep  2 21:26:09 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=gofumpt)
+[INFO  Tue Sep  2 21:26:15 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=golines)
+[INFO  Tue Sep  2 21:26:18 2025] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=gopls)
