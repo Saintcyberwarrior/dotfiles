@@ -1,13 +1,15 @@
 # dotfiles
 
-# Instrcutions
+# Instructions
 
-# Install git and stow
+    Install git and stow
 
-# Do all this in home folder
+    Do all this in home folder
 
-git clone git@github.com/Saintcyberwarrior/dotfiles.git
-cd dotfiles
+'''
+$ git clone git@github.com/Saintcyberwarrior/dotfiles.git
 
-stow .
+$ cd dotfiles
 
+$ stow .
+'''
