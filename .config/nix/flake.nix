@@ -62,6 +62,7 @@
     pkgs.jankyborders
  #   pkgs.yabai
     pkgs.stow
+  #  pkgs.ghostty
         ];
 
 	system.primaryUser = "gravity";
@@ -78,11 +79,12 @@
  			 ];
   		casks = [
   		  "hammerspoon"
- 		   "notion"
+# 		   "notion"
   		  "firefox"
 		  "font-sf-pro"
 		  "sf-symbols"
       "mactex"
+      "ghostty"
  		 ];
  		 taps = [
  		 ];
