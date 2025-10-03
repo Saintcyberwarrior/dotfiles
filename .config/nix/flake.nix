@@ -62,6 +62,7 @@
     pkgs.jankyborders
  #   pkgs.yabai
     pkgs.stow
+    pkgs.yazi
   #  pkgs.ghostty
         ];
 
