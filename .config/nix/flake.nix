@@ -39,7 +39,7 @@
     pkgs.wget
     pkgs.raycast
     pkgs.iterm2
-    pkgs.ranger
+#    pkgs.ranger
     pkgs.lua
     pkgs.btop
     pkgs.cmus
@@ -47,19 +47,19 @@
     pkgs.mpv
     pkgs.transmission_4
     pkgs.skimpdf
-    pkgs.imgcat  # This is a script that comes with iTerm2
+#    pkgs.imgcat  # This is a script that comes with iTerm2
   # Other preview tools
-    pkgs.bat
-    pkgs.poppler_utils
-    pkgs.ffmpegthumbnailer
-    pkgs.pandoc
-    pkgs.atool
-    pkgs.file
-    pkgs.mediainfo
-    pkgs.coreutils
-    pkgs.chafa
-    pkgs.fastfetchMinimal
-    pkgs.jankyborders
+ #   pkgs.bat
+ #   pkgs.poppler_utils
+#    pkgs.ffmpegthumbnailer
+ #   pkgs.pandoc
+ #   pkgs.atool
+ #   pkgs.file
+ #   pkgs.mediainfo
+ #   pkgs.coreutils
+ #   pkgs.chafa
+    pkgs.fastfetch
+ #   pkgs.jankyborders
  #   pkgs.yabai
     pkgs.stow
     pkgs.yazi
