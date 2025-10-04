@@ -38,7 +38,7 @@
     pkgs.nodejs
     pkgs.wget
     pkgs.raycast
-    pkgs.iterm2
+#    pkgs.iterm2
 #    pkgs.ranger
     pkgs.lua
     pkgs.btop
@@ -63,6 +63,7 @@
  #   pkgs.yabai
     pkgs.stow
     pkgs.yazi
+    pkgs.zoxide
   #  pkgs.ghostty
         ];
 
