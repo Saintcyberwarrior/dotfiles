@@ -22,6 +22,8 @@ setopt inc_append_history
 # Basic auto/tab complete:
 #autoload -U compinit
 #zstyle ':completion:*' menu select
+export EDITOR="nvim"
+export VISUAL="nvim"
 
 # Enable completion system
 autoload -Uz compinit && compinit
@@ -33,6 +35,7 @@ zmodload zsh/complist
 compinit
 _comp_options+=(globdots)		# Include hidden files.
 
+eval "$(zoxide init zsh --cmd cd)"
 # vi mode
 bindkey -v
 export KEYTIMEOUT=1
@@ -45,9 +48,7 @@ alias ll='ls -lG'          # Long listing with color
 alias la='ls -laG'         # List all with color
 alias v='nvim'
 
-# Use vim keys in tab complete menu:
-bindkey -M menuselect 'h' vi-backward-char
-bindkey -M menuselect 'k' vi-up-line-or-history
+
 bindkey -M menuselect 'l' vi-forward-char
 bindkey -M menuselect 'j' vi-down-line-or-history
 bindkey -v '^?' backward-delete-char
