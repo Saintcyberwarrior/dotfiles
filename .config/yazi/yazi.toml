@@ -1,0 +1,4 @@
+[mgr]
+linemode = "size"
+sort_by = "size"  # optional: computes folder sizes
+
