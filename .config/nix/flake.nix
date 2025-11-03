@@ -52,18 +52,22 @@
  #   pkgs.bat
  #   pkgs.poppler_utils
 #    pkgs.ffmpegthumbnailer
- #   pkgs.pandoc
+    pkgs.pandoc
  #   pkgs.atool
  #   pkgs.file
  #   pkgs.mediainfo
  #   pkgs.coreutils
  #   pkgs.chafa
     pkgs.fastfetch
+    pkgs.fzf
+    pkgs.fd
  #   pkgs.jankyborders
  #   pkgs.yabai
     pkgs.stow
     pkgs.yazi
     pkgs.zoxide
+#    pkgs.zathura
+ #   pkgs.zathura-pdf-poppler
   #  pkgs.ghostty
         ];
 
@@ -87,6 +91,7 @@
 		  "sf-symbols"
       "mactex"
       "ghostty"
+      "zotero"
  		 ];
  		 taps = [
  		 ];
