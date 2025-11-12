@@ -108,3 +108,12 @@ function y() {
 	rm -f -- "$tmp"
 }
 
+export ZOTERO_API_KEY="MAKZxlmcNDamICB3h5GBjYVt"
+#export ZOTERO_READER=zreader
+
+# open any Zotero attachment in zathura
+#alias zread='zotcli query "$1" | jq -r '.[0].data.filename' | xargs -I {} nohup zathura "$HOME/Zotero/storage/{}" >/dev/null 2>&1 &'
+
+# open first matching PDF in zathura
+# open first matching PDF in zathura (requires research venv)
+

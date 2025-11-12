@@ -47,6 +47,7 @@
     pkgs.mpv
     pkgs.transmission_4
     pkgs.skimpdf
+    pkgs.gsl
 #    pkgs.imgcat  # This is a script that comes with iTerm2
   # Other preview tools
  #   pkgs.bat
@@ -66,7 +67,8 @@
     pkgs.stow
     pkgs.yazi
     pkgs.zoxide
-#    pkgs.zathura
+    pkgs.zathura
+    pkgs.gdb-dashboard
  #   pkgs.zathura-pdf-poppler
   #  pkgs.ghostty
         ];
@@ -106,7 +108,8 @@
   		nerd-fonts.jetbrains-mono
   		nerd-fonts.droid-sans-mono
 	];
-	
+#--------------------------
+#---------------------------------
 	system.activationScripts.applications.text = let
   		env = pkgs.buildEnv {
     			name = "system-applications";
