@@ -47,6 +47,7 @@ alias ls='ls -G'           # Use -G to enable color output with ls
 alias ll='ls -lG'          # Long listing with color
 alias la='ls -laG'         # List all with color
 alias v='nvim'
+alias gdb='gdb-dashboard'
 
 
 bindkey -M menuselect 'l' vi-forward-char

@@ -69,6 +69,7 @@
     pkgs.zoxide
     pkgs.zathura
     pkgs.gdb-dashboard
+    pkgs.codex
  #   pkgs.zathura-pdf-poppler
   #  pkgs.ghostty
         ];
@@ -84,16 +85,19 @@
   		enable = true;
   		brews = [
  			   "mas"
+         "check"
  			 ];
   		casks = [
   		  "hammerspoon"
 # 		   "notion"
+        "orion"
   		  "firefox"
 		  "font-sf-pro"
 		  "sf-symbols"
       "mactex"
       "ghostty"
       "zotero"
+      "nordvpn"
  		 ];
  		 taps = [
  		 ];
