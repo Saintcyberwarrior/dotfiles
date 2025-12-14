@@ -38,6 +38,7 @@
     pkgs.nodejs
     pkgs.wget
     pkgs.raycast
+    pkgs.gemini-cli
 #    pkgs.iterm2
 #    pkgs.ranger
     pkgs.lua
@@ -48,6 +49,8 @@
     pkgs.transmission_4
     pkgs.skimpdf
     pkgs.gsl
+    pkgs.gnuplot
+    pkgs.typst
 #    pkgs.imgcat  # This is a script that comes with iTerm2
   # Other preview tools
  #   pkgs.bat
@@ -70,6 +73,7 @@
     pkgs.zathura
     pkgs.gdb-dashboard
     pkgs.codex
+    pkgs.darktable
  #   pkgs.zathura-pdf-poppler
   #  pkgs.ghostty
         ];
