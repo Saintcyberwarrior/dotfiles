@@ -1,0 +1,3 @@
+module: /Applications/darktable.app/Contents/Resources/lib/pkcs11/p11-kit-trust.so
+trust-policy: yes
+x-init-reserved: paths=/Applications/darktable.app/Contents/Resources/share/curl/curl-ca-bundle.crt

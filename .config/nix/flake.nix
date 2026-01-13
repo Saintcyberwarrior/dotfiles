@@ -1,165 +1,204 @@
 {
-  description = "Gravity nix-darwin system flake";
+  description = "Gravity hardened nix-darwin system";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
+
     nix-darwin.url = "github:nix-darwin/nix-darwin/master";
     nix-darwin.inputs.nixpkgs.follows = "nixpkgs";
-
-    #HOME MANAGER
-    home-manager.url = "github:nix-community/home-manager/release-24.05";
-    home-manager.inputs.nixpkgs.follows = "nixpkgs";
-
-
   };
 
-  outputs = inputs@{ self, nix-darwin, nixpkgs, home-manager, ...}:
+  outputs = inputs@{ self, nixpkgs, nix-darwin, ... }:
   let
+    system = "aarch64-darwin";
     username = "gravity";
-    configuration = { pkgs, config, ... }: {
-      # List packages installed in system profile. To search by name, run:
-      # $ nix-env -qaP | grep wget
-      nixpkgs.config.allowUnfree = true;
-      services.sketchybar.enable = true;
-
-
-      environment.systemPackages =
-        [ pkgs.neovim
-	  pkgs.tmux
-	  pkgs.mkalias
-	  pkgs.git
-	  pkgs.ripgrep
-	  pkgs.lua-language-server
-	  pkgs.stylua
-	  pkgs.ffmpeg
-#	  pkgs.sketchybar
-	  pkgs.aerospace
-    pkgs.go
-    pkgs.nodejs
-    pkgs.wget
-    pkgs.raycast
-    pkgs.gemini-cli
-#    pkgs.iterm2
-#    pkgs.ranger
-    pkgs.lua
-    pkgs.btop
-    pkgs.cmus
-    pkgs.cava
-    pkgs.mpv
-    pkgs.transmission_4
-    pkgs.skimpdf
-    pkgs.gsl
-    pkgs.gnuplot
-    pkgs.typst
-#    pkgs.imgcat  # This is a script that comes with iTerm2
-  # Other preview tools
- #   pkgs.bat
- #   pkgs.poppler_utils
-#    pkgs.ffmpegthumbnailer
-    pkgs.pandoc
- #   pkgs.atool
- #   pkgs.file
- #   pkgs.mediainfo
- #   pkgs.coreutils
- #   pkgs.chafa
-    pkgs.fastfetch
-    pkgs.fzf
-    pkgs.fd
- #   pkgs.jankyborders
- #   pkgs.yabai
-    pkgs.stow
-    pkgs.yazi
-    pkgs.zoxide
-    pkgs.zathura
-    pkgs.gdb-dashboard
-    pkgs.codex
-    pkgs.darktable
- #   pkgs.zathura-pdf-poppler
-  #  pkgs.ghostty
-        ];
-
-	system.primaryUser = "gravity";
-
-	users.users.gravity = {
-		name = username;
-		home = "/Users/gravity";
-	};
-
-	homebrew = {
-  		enable = true;
-  		brews = [
- 			   "mas"
-         "check"
- 			 ];
-  		casks = [
-  		  "hammerspoon"
-# 		   "notion"
-        "orion"
-  		  "firefox"
-		  "font-sf-pro"
-		  "sf-symbols"
-      "mactex"
-      "ghostty"
-      "zotero"
-      "nordvpn"
- 		 ];
- 		 taps = [
- 		 ];
- 		 masApps = {
-		  };
-	};
-
-
-	 fonts.packages = with pkgs; [
-	 	nerd-fonts.hack
-		sketchybar-app-font
-  		nerd-fonts.jetbrains-mono
-  		nerd-fonts.droid-sans-mono
-	];
-#--------------------------
-#---------------------------------
-	system.activationScripts.applications.text = let
-  		env = pkgs.buildEnv {
-    			name = "system-applications";
-    			paths = config.environment.systemPackages;
-    			pathsToLink = "/Applications";
-  		};
-	in
-  		pkgs.lib.mkForce ''
-  		# Set up applications.
-  		echo "setting up /Applications..." >&2
-  		rm -rf /Applications/Nix\ Apps
-  		mkdir -p /Applications/Nix\ Apps
-  		find ${env}/Applications -maxdepth 1 -type l -exec readlink '{}' + |
-  		while read -r src; do
-    			app_name=$(basename "$src")
-    			echo "copying $src" >&2
-    			${pkgs.mkalias}/bin/mkalias "$src" "/Applications/Nix Apps/$app_name"
-  		done
-      			'';
-
-      # Necessary for using flakes on this system.
-      nix.settings.experimental-features = "nix-command flakes";
-
-      # Enable alternative shell support in nix-darwin.
-      # programs.fish.enable = true;
-
-      # Set Git commit hash for darwin-version.
-      system.configurationRevision = self.rev or self.dirtyRev or null;
-
-      # Used for backwards compatibility, please read the changelog before changing.
-      # $ darwin-rebuild changelog
-      system.stateVersion = 6;
-
-      # The platform the configuration will be used on.
-      nixpkgs.hostPlatform = "aarch64-darwin";
-    };
   in
   {
-    # Build darwin flake using:
-    # $ darwin-rebuild build --flake .#air
     darwinConfigurations."air" = nix-darwin.lib.darwinSystem {
-      modules = [ configuration ];
+      inherit system;
+      specialArgs = { inherit self; };
+
+      modules = [
+        ({ pkgs, config, ... }: {
+
+          ############################
+          # Nix & system hardening
+          ############################
+
+          nixpkgs.config.allowUnfree = true;
+          services.sketchybar.enable = true;
+
+          nix.settings = {
+            experimental-features = "nix-command flakes";
+          };
+
+          nix.enable = true;
+
+          system.stateVersion = 6;
+          system.configurationRevision = self.rev or self.dirtyRev or null;
+
+          system.primaryUser = username;
+          users.users.${username} = {
+            name = username;
+            home = "/Users/${username}";
+          };
+
+          nixpkgs.hostPlatform = system;
+
+          ############################
+          # CLI / TUI packages ONLY
+          ############################
+
+          environment.systemPackages = with pkgs; [
+            # Core
+            neovim
+            git
+            ripgrep
+            fd
+            fzf
+            zoxide
+            stow
+
+            # Terminal / TUI
+            zellij
+            btop
+            fastfetch
+            yazi
+            cmus
+            cava
+            mpd
+            rmpc
+
+            # Dev
+            go
+            nodejs
+            lua
+            lua-language-server
+            stylua
+            gdb-dashboard
+            codex
+            gemini-cli
+            android-tools
+
+            # Python Stack (ADDED)
+            python3
+            python3Full
+            python312
+            poetry
+            pipx
+            python3Packages.pip
+            python3Packages.virtualenv
+            python3Packages.ipython
+            python3Packages.black
+            python3Packages.flake8
+
+            # Media / Docs (CLI)
+            ffmpeg
+            mpv
+            pandoc
+            typst
+            zathura
+            gnuplot
+            gsl
+            transmission_4
+
+            # Utils
+            mkalias
+            yabai
+            skhd
+            sketchybar
+          ];
+
+          ############################
+          # Fonts
+          ############################
+
+          fonts.packages = with pkgs; [
+            nerd-fonts.jetbrains-mono
+            nerd-fonts.hack
+            nerd-fonts.droid-sans-mono
+            sketchybar-app-font
+          ];
+
+          ############################
+          # Homebrew (GUI ONLY)
+          ############################
+
+          homebrew = {
+            enable = true;
+
+            brews = [
+              "mas"
+              "check"
+              "gsl"
+              "media-control"
+            ];
+
+            casks = [
+              # Browsers
+              "firefox"
+              "orion"
+
+              # Terminal
+              "ghostty"
+
+              # Automation / tiling-safe
+              "hammerspoon"
+
+              # Productivity
+              "raycast"
+              "zotero"
+
+              # Media / GUI
+              "darktable"
+              "transmission"
+
+              # System
+              "mactex"
+              "nordvpn"
+
+              # Fonts
+              "font-sf-pro"
+              "sf-symbols"
+            ];
+
+            masApps = { };
+          };
+
+          ############################
+          # /Applications/Nix Apps
+          ############################
+
+          system.activationScripts.applications.text =
+            let
+              env = pkgs.buildEnv {
+                name = "system-applications";
+                paths = config.environment.systemPackages;
+                pathsToLink = "/Applications";
+              };
+            in
+            pkgs.lib.mkForce ''
+              echo "Setting up /Applications/Nix Apps..." >&2
+              rm -rf /Applications/Nix\ Apps
+              mkdir -p /Applications/Nix\ Apps
+              find ${env}/Applications -maxdepth 1 -type l -exec readlink '{}' + |
+              while read -r src; do
+                app_name=$(basename "$src")
+                ${pkgs.mkalias}/bin/mkalias "$src" "/Applications/Nix Apps/$app_name"
+              done
+            '';
+
+          ############################
+          # HARDENING RULES (IMPORTANT)
+          ############################
+          services.yabai = {
+            enable = true;
+            enableScriptingAddition = false; # IMPORTANT: keep false
+          };
+          services.skhd.enable = true;
+
+        })
+      ];
     };
   };
 }

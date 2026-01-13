@@ -26,3 +26,8 @@
 2025-11-04 00:43:45[WARN] Formatter 'prettierd' timeout
 2025-11-05 12:54:02[WARN] Formatter 'prettierd' timeout
 2025-11-05 12:54:03[WARN] Formatter 'prettierd' timeout
+2025-12-03 13:55:00[ERROR] Formatter 'prettierd' error: UndefinedParserError: No parser could be inferred for file "/Users/gravity/Documents/mirror/Work/Semester_3/Advanced_Simulation_machinelearning/tif345/assignments/project-2a/project2a_clean.ipynb".
+
+2025-12-03 13:55:00[ERROR] Formatter 'prettierd' error: UndefinedParserError: No parser could be inferred for file "/Users/gravity/Documents/mirror/Work/Semester_3/Advanced_Simulation_machinelearning/tif345/assignments/project-2a/project2a_clean.ipynb".
+
+2025-12-18 01:35:22[WARN] Formatter 'prettierd' timeout

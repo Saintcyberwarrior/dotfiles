@@ -1,0 +1,32 @@
+#!/usr/bin/env sh
+
+# ---------------------------------
+# BASIC, SAFE YABAI CONFIG
+# ---------------------------------
+
+# Layout
+yabai -m config layout bsp
+yabai -m config window_placement second_child
+
+# Focus behavior
+yabai -m config mouse_follows_focus off
+yabai -m config focus_follows_mouse off
+
+# Gaps (matching your AeroSpace values)
+yabai -m config top_padding 50
+yabai -m config bottom_padding 10
+yabai -m config left_padding 10
+yabai -m config right_padding 10
+yabai -m config window_gap 10
+
+# Safety
+yabai -m config auto_balance off
+yabai -m config split_ratio 0.50
+
+yabai -m rule --add space=1 display=1
+yabai -m rule --add space=2 display=1
+yabai -m rule --add space=3 display=1
+
+yabai -m rule --add space=4 display=2
+yabai -m rule --add space=5 display=2
+yabai -m rule --add space=6 display=2

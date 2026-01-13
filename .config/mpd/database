@@ -1,0 +1,5646 @@
+info_begin
+format: 2
+mpd_version: 0.24.5
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumSort
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: TitleSort
+tag: Track
+tag: Name
+tag: Genre
+tag: Mood
+tag: Date
+tag: OriginalDate
+tag: Composer
+tag: ComposerSort
+tag: Performer
+tag: Conductor
+tag: Work
+tag: Movement
+tag: MovementNumber
+tag: ShowMovement
+tag: Ensemble
+tag: Location
+tag: Grouping
+tag: Disc
+tag: Label
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+tag: MUSICBRAINZ_RELEASETRACKID
+tag: MUSICBRAINZ_WORKID
+tag: MUSICBRAINZ_RELEASEGROUPID
+info_end
+directory: Classical_villian
+mtime: 1766680176
+begin: Classical_villian
+song_begin: A Playlist to feel like a ＂Villain＂ plotting his revenge. [dzCuwjHFd7M].opus
+Time: 3989.087
+Format: 48000:16:2
+mtime: 1739715742
+added: 1766680097
+song_end
+song_begin: Classical Music for the Villains out there ✦ Epic Music ✦ [-ZWwmVDQ20Q].opus
+Time: 3600.067
+Format: 48000:16:2
+mtime: 1731915325
+added: 1766680097
+song_end
+song_begin: Classical Music for When You’re on a Deadline [QjkaWADdU9w].opus
+Time: 7800.027
+Format: 48000:16:2
+mtime: 1738257586
+added: 1766680097
+song_end
+song_begin: Classical Villain - Classical Music For Villains [B8vtnVWrR64].opus
+Time: 8134.0470000000005
+Format: 48000:16:2
+mtime: 1740230196
+added: 1766680097
+song_end
+end: Classical_villian
+directory: Italian_cafe
+mtime: 1764589254
+begin: Italian_cafe
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-01 Dolce Amore (BGM).m4a
+Time: 156.62800000000001
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Dolce Amore (BGM)
+Track: 1
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585189
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-02 Sogno d'Italia.m4a
+Time: 128.92000000000002
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Sogno d'Italia
+Track: 2
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585193
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-03 Amore Infinito.m4a
+Time: 134.993
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Amore Infinito
+Track: 3
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585196
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-04 Bella Serenade.m4a
+Time: 164.454
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Bella Serenade
+Track: 4
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585200
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-05 Nostalgia Italiana.m4a
+Time: 146.333
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Nostalgia Italiana
+Track: 5
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585203
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-06 Italiano Serenade.m4a
+Time: 160.842
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Italiano Serenade
+Track: 6
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585207
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-07 Notti d'Estate.m4a
+Time: 149.125
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Notti d'Estate
+Track: 7
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585210
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-08 Notte di Vino.m4a
+Time: 163.691
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Notte di Vino
+Track: 8
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585212
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-09 Baci al Cioccolato (BGM).m4a
+Time: 160.701
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Baci al Cioccolato (BGM)
+Track: 9
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585216
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-10 Caffè Italiano.m4a
+Time: 136.341
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Caffè Italiano
+Track: 10
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585219
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-11 Cena Romantica.m4a
+Time: 123.194
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Cena Romantica
+Track: 11
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585222
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-12 Dolce Melodia.m4a
+Time: 82.2
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Dolce Melodia
+Track: 12
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585226
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-13 Sol y Soul.m4a
+Time: 120.657
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Sol y Soul
+Track: 13
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585229
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-14 Vino e Stelle.m4a
+Time: 157.333
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Vino e Stelle
+Track: 14
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585233
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-15 Caffè e Luna.m4a
+Time: 133.867
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Caffè e Luna
+Track: 15
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585236
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-16 Baci Sotto la Luna.m4a
+Time: 114.42
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Baci Sotto la Luna
+Track: 16
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585240
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-17 Serenata di Vino.m4a
+Time: 113.932
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Serenata di Vino
+Track: 17
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585243
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-18 Whispered Parole.m4a
+Time: 156.102
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Whispered Parole
+Track: 18
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585247
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-19 Incanto Italiano.m4a
+Time: 141.66400000000002
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Incanto Italiano
+Track: 19
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585250
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-20 Enchanted Noche.m4a
+Time: 158.911
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Enchanted Noche
+Track: 20
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585254
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-21 Sinfonia del Gusto.m4a
+Time: 150.023
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Sinfonia del Gusto
+Track: 21
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585257
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-22 Pasticceria d'Amore (BGM).m4a
+Time: 154.006
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Pasticceria d'Amore (BGM)
+Track: 22
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585260
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-23 Caffè con Te.m4a
+Time: 144.1
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Caffè con Te
+Track: 23
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585264
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-24 Bailando in the Moonlight.m4a
+Time: 128.333
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Bailando in the Moonlight
+Track: 24
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585267
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-25 Strade Infiniti.m4a
+Time: 139.20000000000002
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Strade Infiniti
+Track: 25
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585271
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-26 Caffè e Amore.m4a
+Time: 94.971
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Caffè e Amore
+Track: 26
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585274
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-27 Ode al Vino Rosso.m4a
+Time: 127.035
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Ode al Vino Rosso
+Track: 27
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585277
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-28 Lost in Venezia.m4a
+Time: 141.611
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Lost in Venezia
+Track: 28
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585281
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-29 Bossa of the Heart.m4a
+Time: 146.28900000000002
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Bossa of the Heart
+Track: 29
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585284
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-30 Dolce Serata.m4a
+Time: 152.125
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Dolce Serata
+Track: 30
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585288
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-31 Bella Notte.m4a
+Time: 124.557
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Bella Notte
+Track: 31
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585292
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-32 Sotto il Sole.m4a
+Time: 149.111
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Sotto il Sole
+Track: 32
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585295
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-33 Roma Moon (BGM).m4a
+Time: 126.965
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Roma Moon (BGM)
+Track: 33
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585300
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-34 Dolci Mattini.m4a
+Time: 156.026
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Dolci Mattini
+Track: 34
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585303
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-35 Gelateria.m4a
+Time: 92.108
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Gelateria
+Track: 35
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585306
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-36 Mundo Loco (Short Mix).m4a
+Time: 142.641
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Mundo Loco (Short Mix)
+Track: 36
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585310
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-37 Cornetto Romantico.m4a
+Time: 91.305
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Cornetto Romantico
+Track: 37
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585313
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-38 Felice (Short Mix).m4a
+Time: 141.06900000000002
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Felice (Short Mix)
+Track: 38
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585316
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-39 Santa Clarita (Short Mix).m4a
+Time: 134.912
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Santa Clarita (Short Mix)
+Track: 39
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585319
+added: 1766294900
+song_end
+song_begin: Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-40 Baton Rouge (Short Mix).m4a
+Time: 131.186
+Artist: Salina Cruz
+Album: Caffè Italiano - Romantic Italian Jazz
+Title: Baton Rouge (Short Mix)
+Track: 40
+Date: 2023
+Disc: 1
+AlbumArtist: Salina Cruz
+Format: 44100:f:2
+mtime: 1764585324
+added: 1766294900
+song_end
+song_begin: Cafe Aurora - Italia - 01-01 Рим.m4a
+Time: 267.8
+Artist: Cafe Aurora
+Album: Italia
+Title: Рим
+Track: 1
+Date: 2025
+Disc: 1
+AlbumArtist: Cafe Aurora
+Format: 44100:f:2
+mtime: 1764584543
+added: 1766294900
+song_end
+song_begin: Cafe Aurora - Italia - 01-02 Неаполь.m4a
+Time: 236.96
+Artist: Cafe Aurora
+Album: Italia
+Title: Неаполь
+Track: 2
+Date: 2025
+Disc: 1
+AlbumArtist: Cafe Aurora
+Format: 44100:f:2
+mtime: 1764584546
+added: 1766294900
+song_end
+song_begin: Cafe Aurora - Italia - 01-03 Капри.m4a
+Time: 219.92000000000002
+Artist: Cafe Aurora
+Album: Italia
+Title: Капри
+Track: 3
+Date: 2025
+Disc: 1
+AlbumArtist: Cafe Aurora
+Format: 44100:f:2
+mtime: 1764584550
+added: 1766294900
+song_end
+song_begin: Cafe Aurora - Italia - 01-04 Сицилия.m4a
+Time: 193.68
+Artist: Cafe Aurora
+Album: Italia
+Title: Сицилия
+Track: 4
+Date: 2025
+Disc: 1
+AlbumArtist: Cafe Aurora
+Format: 44100:f:2
+mtime: 1764584554
+added: 1766294900
+song_end
+song_begin: Cafe Aurora - Italia - 01-05 Римини.m4a
+Time: 235.008
+Artist: Cafe Aurora
+Album: Italia
+Title: Римини
+Track: 5
+Date: 2025
+Disc: 1
+AlbumArtist: Cafe Aurora
+Format: 44100:f:2
+mtime: 1764584557
+added: 1766294900
+song_end
+song_begin: Cafe Aurora - Italia - 01-06 Венеция.m4a
+Time: 283.52
+Artist: Cafe Aurora
+Album: Italia
+Title: Венеция
+Track: 6
+Date: 2025
+Disc: 1
+AlbumArtist: Cafe Aurora
+Format: 44100:f:2
+mtime: 1764584566
+added: 1766294900
+song_end
+song_begin: Cafe Aurora - Italia - 01-07 Флоренция.m4a
+Time: 287.40000000000003
+Artist: Cafe Aurora
+Album: Italia
+Title: Флоренция
+Track: 7
+Date: 2025
+Disc: 1
+AlbumArtist: Cafe Aurora
+Format: 44100:f:2
+mtime: 1764584570
+added: 1766294900
+song_end
+song_begin: Cafe Aurora - Italia - 01-08 Милан.m4a
+Time: 197
+Artist: Cafe Aurora
+Album: Italia
+Title: Милан
+Track: 8
+Date: 2025
+Disc: 1
+AlbumArtist: Cafe Aurora
+Format: 44100:f:2
+mtime: 1764584578
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-01 Accoglienti giornate autunnali.m4a
+Time: 208.872
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Accoglienti giornate autunnali
+Track: 1
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585297
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-02 Tempo di cambiamento.m4a
+Time: 197.788
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Tempo di cambiamento
+Track: 2
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585301
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-03 Perso nei tuoi occhi.m4a
+Time: 196.949
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Perso nei tuoi occhi
+Track: 3
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585304
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-04 Fuori controllo.m4a
+Time: 189.236
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Fuori controllo
+Track: 4
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585308
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-05 Vola con me.m4a
+Time: 176.904
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Vola con me
+Track: 5
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585311
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-06 Una notte perfetta.m4a
+Time: 205.93
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Una notte perfetta
+Track: 6
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585315
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-07 Goditi questo momento.m4a
+Time: 205.752
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Goditi questo momento
+Track: 7
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585319
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-08 Giorno pigro.m4a
+Time: 206.965
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Giorno pigro
+Track: 8
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585322
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-09 Atmosfera dolce.m4a
+Time: 210.714
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Atmosfera dolce
+Track: 9
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585326
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-10 Cielo notturno.m4a
+Time: 195.395
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Cielo notturno
+Track: 10
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585329
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-11 Parlare a me stesso.m4a
+Time: 201.642
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Parlare a me stesso
+Track: 11
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585333
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-12 Un altro.m4a
+Time: 195.97
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Un altro
+Track: 12
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585336
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-13 Corpo e anima.m4a
+Time: 205.678
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Corpo e anima
+Track: 13
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585340
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-14 Ricordi estivi.m4a
+Time: 196.109
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Ricordi estivi
+Track: 14
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585344
+added: 1766294900
+song_end
+song_begin: Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-15 Look of Love.m4a
+Time: 186.43800000000002
+Artist: Caffè italiano lounge
+Album: Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana
+Title: Look of Love
+Track: 15
+Date: 2020
+Disc: 1
+AlbumArtist: Caffè italiano lounge
+Format: 44100:f:2
+mtime: 1764585348
+added: 1766294900
+song_end
+end: Italian_cafe
+song_begin: 01. Jagjit Singh - Hothon Se Chhu Lo Tum (Live In India-2001).flac
+Time: 218.053
+Format: 44100:16:2
+mtime: 1743514604
+added: 1766680097
+song_end
+song_begin: 02. Jagjit Singh - Woh Kaghaz Ki Kashti.flac
+Time: 389.8
+Format: 44100:16:2
+mtime: 1743514614
+added: 1766680097
+song_end
+song_begin: 03. Jagjit Singh - Bahut Khoobsurat (Vadh - Soundtrack Version).flac
+Time: 332.466
+Format: 44100:16:2
+mtime: 1743514636
+added: 1766680097
+song_end
+song_begin: 04. Jagjit Singh - Tera Chehra Hai Aaeene Jaisa (Album Version).flac
+Time: 294.693
+Format: 44100:16:2
+mtime: 1743514655
+added: 1766680097
+song_end
+song_begin: 05. Jagjit Singh - Muskurakar Mila Karo Humse (Album Version).flac
+Time: 298.226
+Format: 44100:16:2
+mtime: 1743514666
+added: 1766680097
+song_end
+song_begin: 06. Jagjit Singh - Mujhko Yakeen Hai (Edited) (Live).flac
+Time: 265.08
+Format: 44100:16:2
+mtime: 1743514673
+added: 1766680097
+song_end
+song_begin: 07. Jagjit Singh - Ghar Se Nikle The Hausala Karke (Album Version).flac
+Time: 361.586
+Format: 44100:16:2
+mtime: 1743514697
+added: 1766680097
+song_end
+song_begin: 08. Jagjit Singh - Gum Soom Yeh Jahan Hai (Album Version).flac
+Time: 300.746
+Format: 44100:16:2
+mtime: 1743514722
+added: 1766680097
+song_end
+song_begin: 09. Jagjit Singh - Kanton Se Daaman Uljhana (Album Version).flac
+Time: 336.44
+Format: 44100:16:2
+mtime: 1743514731
+added: 1766680097
+song_end
+song_begin: 1. Ghulam Ali - Apni Dhun Mein Rehta Hoon Main Bhi Terey Jaisa Hoon.flac
+Time: 296.493
+Format: 48000:24:2
+mtime: 1743512984
+added: 1766680097
+song_end
+song_begin: 10. Jagjit Singh - Uski Baten To Phool Hon Jaise (Album Version).flac
+Time: 335.45300000000003
+Format: 44100:16:2
+mtime: 1743514756
+added: 1766680097
+song_end
+song_begin: 2. Ghulam Ali - Dil Waan Se Jo Kal Shataab Aaya Bar Ko Bohat Ataab Aaya.flac
+Time: 229.647
+Format: 48000:24:2
+mtime: 1743512993
+added: 1766680097
+song_end
+song_begin: 3. Ghulam Ali - Gham Ki Baarish Ne Bhi Terey Naqsh Ko Dhoya Nahin Tu Ne Mujh Ko Kho Diya.flac
+Time: 267
+Format: 48000:24:2
+mtime: 1743513004
+added: 1766680097
+song_end
+song_begin: 4. Ghulam Ali - Ham Ashk-e-Gham Hain Agar Tham Rahey Rahey Na Rahey.flac
+Time: 238.565
+Format: 48000:24:2
+mtime: 1743513037
+added: 1766680097
+song_end
+song_begin: 5. Ghulam Ali - Jagg Mein Koyi Na Tukk Hansa Hoga Ke Na Hansney Mein Ro Diya Hoga.flac
+Time: 234.58
+Format: 48000:24:2
+mtime: 1743513046
+added: 1766680097
+song_end
+song_begin: 6. Ghulam Ali - Khumaar-e-Shab Mein Ussey Main Salaam Kar Baitha Jo Kaam Karna Tha.flac
+Time: 244.821
+Format: 48000:24:2
+mtime: 1743513060
+added: 1766680097
+song_end
+song_begin: 7. Ghulam Ali - Wo Jo Merey Paas Se Ho Kar Kisi Kay Ghar Gaya Reshmi Malboos Ki Khushbu Se.flac
+Time: 281.685
+Format: 48000:24:2
+mtime: 1743513075
+added: 1766680097
+song_end
+song_begin: 8. Ghulam Ali - Yaad Kar Wo Din Ke Tera Koyi Saudaayi Na Tha Ba-Wujood-e-Husn Tu.flac
+Time: 278.641
+Format: 48000:24:2
+mtime: 1743513085
+added: 1766680097
+song_end
+song_begin: Lata Mangeshkar - Luka Chuppi.flac
+Time: 396.50600000000003
+Format: 44100:16:2
+mtime: 1743512622
+added: 1766294900
+song_end
+song_begin: Phil Collins - That's Just the Way It Is (2016 Remaster).m4a
+Time: 320.307
+Artist: Phil Collins
+Album: ...But Seriously (2016 Remaster)
+Title: That's Just the Way It Is (2016 Remaster)
+Track: 2
+Date: 2016
+Disc: 1
+AlbumArtist: Phil Collins
+Format: 44100:f:2
+mtime: 1766681128
+added: 1766682184
+song_end
+song_begin: 014. The Script - Hall of Fame (feat. will.i.am).flac
+Time: 202.53
+Album: #3
+AlbumArtist: The Script
+Artist: The Script; will.i.am
+Composer: James Barry; Mark Sheehan; Daniel O'Donoghue; William Adams
+Date: 2012-09-10
+Disc: 1
+Title: Hall of Fame (feat. will.i.am)
+Track: 3
+Format: 44100:24:2
+mtime: 1766779295
+added: 1766808271
+song_end
+song_begin: 002. Mahalakshmi Iyer - Khud Ko Tere.flac
+Time: 306.921
+Album: 1920 Evil Returns
+AlbumArtist: Chirrantan Bhatt
+Artist: Mahalakshmi Iyer; Chirrantan Bhatt
+Composer: Chirrantan Bhatt; Shakeel Azmi
+Date: 2012-10-09
+Disc: 1
+Title: Khud Ko Tere
+Track: 4
+Format: 44100:16:2
+mtime: 1766777833
+added: 1766808271
+song_end
+song_begin: Brad Paisley - Letter to Me.m4a
+Time: 281.572
+Artist: Brad Paisley
+Album: 5th Gear
+Title: Letter to Me
+Track: 4
+Date: 2008
+Disc: 1
+AlbumArtist: Brad Paisley
+Format: 44100:f:2
+mtime: 1766680988
+added: 1766682184
+song_end
+song_begin: Mehdi Hassan - Mujhe Tum Nazar Se Gira To Rahe Ho.m4a
+Time: 230.853
+Artist: Mehdi Hassan
+Album: 65 Years of A Pakistani Musical Journey
+Title: Mujhe Tum Nazar Se Gira To Rahe Ho
+Track: 5
+Date: 2012
+Disc: 1
+AlbumArtist: Mehdi Hassan
+Format: 44100:f:2
+mtime: 1766682043
+added: 1766682184
+song_end
+song_begin: 099. Baani Sandhu - 8 Parche.flac
+Time: 210
+Album: 8 Parche
+AlbumArtist: Baani Sandhu; Gur Sidhu
+Artist: Baani Sandhu; Gur Sidhu
+Composer: Gur Sidhu
+Date: 2019-09-12
+Disc: 1
+Title: 8 Parche
+Track: 1
+Format: 44100:16:2
+mtime: 1767142237
+added: 1767383086
+song_end
+song_begin: 008. Ninja - Aadat.flac
+Time: 247.954
+Album: Aadat
+AlbumArtist: Ninja
+Artist: Ninja
+Composer: Goldboy
+Date: 2015-07-22
+Disc: 1
+Title: Aadat
+Track: 1
+Format: 44100:16:2
+mtime: 1766779880
+added: 1766808271
+song_end
+song_begin: 012. Ananya Prakash - Aaj Mangalvaar Hai Mahaveer Ka Vaar.flac
+Time: 537.6
+Album: Aaj Mangalvaar Hai Mahaveer Ka Vaar
+AlbumArtist: Ananya Prakash
+Artist: Ananya Prakash
+Composer: Tarjan Kumar
+Date: 2025-05-05
+Disc: 1
+Title: Aaj Mangalvaar Hai Mahaveer Ka Vaar
+Track: 1
+Format: 44100:24:2
+mtime: 1766777803
+added: 1766808271
+song_end
+song_begin: Brodha V - Aathma Raama - 01-01 Aathma Raama.m4a
+Time: 234.863
+Artist: Brodha V
+Album: Aathma Raama
+Title: Aathma Raama
+Track: 1
+Date: 2022
+Disc: 1
+AlbumArtist: Brodha V
+Format: 44100:f:2
+mtime: 1766679805
+added: 1766680225
+song_end
+song_begin: Pritam, Amit Mishra & Shilpa Rao - Bulleya.m4a
+Time: 348.96500000000003
+Artist: Pritam; Amit Mishra; Shilpa Rao
+Album: Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)
+Title: Bulleya
+Track: 2
+Date: 2016
+Disc: 1
+AlbumArtist: Pritam
+Format: 44100:f:2
+mtime: 1766680450
+added: 1766682184
+song_end
+song_begin: 009. Pritam - Channa Mereya.flac
+Time: 289.333
+Album: Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)
+AlbumArtist: Pritam
+Artist: Pritam; Arijit Singh
+Composer: Pritam Chakraborty
+Date: 2016-10-26
+Disc: 1
+Title: Channa Mereya
+Track: 3
+Format: 96000:24:2
+mtime: 1766779112
+added: 1766808271
+song_end
+song_begin: 086. Jass Manak - Viah.flac
+Time: 162.441
+Album: Age 19
+AlbumArtist: Jass Manak
+Artist: Jass Manak
+Composer: Jass Manak
+Date: 2019-02-19
+Disc: 1
+Title: Viah
+Track: 3
+Format: 48000:24:2
+mtime: 1767141900
+added: 1767383086
+song_end
+song_begin: Paolo Conte - Jimmy, ballando.flac
+Time: 262.373
+Album: Aguaplano
+AlbumArtist: Paolo Conte
+Artist: Paolo Conte
+Composer: Paolo Conte
+Date: 1987-10-06
+Disc: 1
+Title: Jimmy, ballando
+Track: 3
+Format: 44100:16:2
+mtime: 1767877142
+added: 1768312177
+song_end
+song_begin: Paolo Conte - Blu notte.m4a
+Time: 287.293
+Artist: Paolo Conte
+Album: Aguaplano
+Title: Blu notte
+Track: 7
+Date: 1987-10-06
+Composer: Paolo Conte
+Disc: 1
+AlbumArtist: Paolo Conte
+Format: 44100:f:2
+mtime: 1767943271
+added: 1768312177
+song_end
+song_begin: Paolo Conte - Aguaplano - 01-12 Midnight's Knock Out.m4a
+Time: 271.533
+Artist: Paolo Conte
+Album: Aguaplano
+Title: Midnight's Knock Out
+Track: 12
+Date: 2020
+Disc: 1
+AlbumArtist: Paolo Conte
+Format: 44100:f:2
+mtime: 1767944409
+added: 1768312176
+song_end
+song_begin: Paolo Conte - Aguaplano - 01-13 Anni.m4a
+Time: 208.53300000000002
+Artist: Paolo Conte
+Album: Aguaplano
+Title: Anni
+Track: 13
+Date: 2020
+Disc: 1
+AlbumArtist: Paolo Conte
+Format: 44100:f:2
+mtime: 1767944729
+added: 1768312176
+song_end
+song_begin: 030. Diljit Dosanjh - Akhiri Salaam (From Jodi).flac
+Time: 244.613
+Album: Akhiri Salaam (From "Jodi")
+AlbumArtist: Diljit Dosanjh
+Artist: Diljit Dosanjh
+Date: 2023-05-07
+Disc: 1
+Title: Akhiri Salaam (From "Jodi")
+Track: 1
+Format: 44100:16:2
+mtime: 1766780181
+added: 1768312176
+song_end
+song_begin: 12. B Praak - Ammi (From Sufna).flac
+Time: 288.29200000000003
+Album: Ammi (From "Sufna") - Single
+AlbumArtist: Kamal Khan; B Praak
+Artist: B Praak; Kamal Khan
+Composer: B Praak
+Date: 2020-02-05
+Disc: 1
+Title: Ammi (From "Sufna")
+Track: 1
+Format: 44100:24:2
+mtime: 1767040191
+added: 1768312176
+song_end
+song_begin: 13. Imran Khan - Amplifier.flac
+Time: 232.906
+Album: Amplifier
+AlbumArtist: Imran Khan
+Artist: Imran Khan
+Composer: Eren. E
+Date: 2009-07-27
+Disc: 1
+Title: Amplifier
+Track: 1
+Format: 44100:16:2
+mtime: 1767039501
+added: 1767383086
+song_end
+song_begin: Anand Bakshi - Duniya Mein Kitna Gham Hai.flac
+Time: 360.141
+Album: Amrit
+AlbumArtist: Laxmikant-Pyarelal, Laxmikant - Pyarelal
+Artist: Mohammed Aziz; Anand Bakshi
+Date: 1986-06-27
+Genre: Bollywood, Soundtracks, Indian Soundtracks
+Label: Saregama India Ltd
+Title: Duniya Mein Kitna Gham Hai
+Track: 1
+Format: 44100:16:2
+mtime: 1744152402
+added: 1766294900
+song_end
+song_begin: Lata Mangeshkar - Bahon Mein Chale Aao.m4a
+Time: 241.72
+Artist: Lata Mangeshkar
+Album: Anamika (Original Motion Picture Soundtrack)
+Title: Bahon Mein Chale Aao
+Track: 3
+Date: 2018
+Disc: 1
+AlbumArtist: Lata Mangeshkar
+Format: 44100:f:2
+mtime: 1766681995
+added: 1766682184
+song_end
+song_begin: 009. Amrinder Gill - Kurta Suha.flac
+Time: 193.187
+Album: Angrej (Original Motion Picture Soundtrack)
+AlbumArtist: Amrinder Gill
+Artist: Amrinder Gill
+Composer: Jatinder Shah
+Date: 2015-07-23
+Disc: 1
+Title: Kurta Suha
+Track: 2
+Format: 44100:16:2
+mtime: 1766777468
+added: 1766808271
+song_end
+song_begin: 006. Amrinder Gill - Family Di Member.flac
+Time: 155.118
+Album: Angrej (Original Motion Picture Soundtrack)
+AlbumArtist: Amrinder Gill
+Artist: Amrinder Gill
+Composer: Jatinder Shah
+Date: 2015-07-23
+Disc: 1
+Title: Family Di Member
+Track: 3
+Format: 44100:16:2
+mtime: 1766777040
+added: 1766808271
+song_end
+song_begin: 03. Anirudh Ravichander - Arabic Kuthu - Halamithi Habibo (From Beast).flac
+Time: 279.677
+Album: Arabic Kuthu - Halamithi Habibo (From "Beast")
+AlbumArtist: Anirudh Ravichander; Jonita Gandhi
+Artist: Anirudh Ravichander; Jonita Gandhi
+Composer: Anirudh Ravichander; Sivakarthikeyan
+Date: 2022-02-14
+Disc: 1
+Title: Arabic Kuthu - Halamithi Habibo (From "Beast")
+Track: 1
+Format: 48000:24:2
+mtime: 1767034003
+added: 1768312176
+song_end
+song_begin: 15. Jeet Gannguli - Muskurane [From Citylights] (Romantic).flac
+Time: 334.331
+Album: Arijit Singh - Ultimate Love Songs
+AlbumArtist: Arijit Singh
+Artist: Jeet Gannguli; Arijit Singh; Rashmi Virag
+Composer: Jeet Gannguli
+Date: 2016-02-05
+Disc: 1
+Title: Muskurane [From "Citylights"] (Romantic)
+Track: 8
+Format: 44100:16:2
+mtime: 1767036229
+added: 1768312177
+song_end
+song_begin: 046. Mithoon - Sanam Re (From Sanam Re).flac
+Time: 308.714
+Album: Arijit's Aura
+AlbumArtist: Arijit Singh
+Artist: Mithoon; Arijit Singh
+Composer: Mithoon
+Date: 2024-11-05
+Disc: 1
+Title: Sanam Re (From "Sanam Re")
+Track: 25
+Format: 44100:16:2
+mtime: 1767139646
+added: 1768312176
+song_end
+song_begin: 002. Arijit Singh - Bekhayali (Arijit Singh Version) [From Kabir Singh].flac
+Time: 370.444
+Album: Arijit's Aura
+AlbumArtist: Arijit Singh
+Artist: Arijit Singh; Sachet-Parampara
+Composer: Sachet-Parampara; IRSHAD KAMIL
+Date: 2024-11-05
+Disc: 1
+Title: Bekhayali (Arijit Singh Version) [From "Kabir Singh"]
+Track: 40
+Format: 44100:16:2
+mtime: 1767129746
+added: 1768312177
+song_end
+song_begin: Jagjit Singh - Koi Yeh Kaise Bataye.m4a
+Time: 197.834
+Artist: Jagjit Singh
+Album: Arth (Original Motion Picture Soundtrack)
+Title: Koi Yeh Kaise Bataye
+Track: 5
+Date: 2018
+Disc: 1
+AlbumArtist: Jagjit Singh
+Format: 44100:f:2
+mtime: 1766681978
+added: 1766682184
+song_end
+song_begin: 024. Pritam - Tera Mera Rishta.flac
+Time: 347.04
+Album: Awarapan (Original Motion Picture Soundtrack)
+AlbumArtist: Pritam; Mustafa Zahid; Annie; Rafaqat Ali Khan
+Artist: Pritam; Mustafa Zahid; Sayeed Quadri
+Composer: Mustafa Zahid; Pritam Chakraborty
+Date: 2007-01-01
+Disc: 1
+Title: Tera Mera Rishta
+Track: 2
+Format: 44100:16:2
+mtime: 1766779051
+added: 1766808271
+song_end
+song_begin: 011. Armaan Malik - Bol Do Na Zara.flac
+Time: 292.826
+Album: Azhar
+AlbumArtist: Amaal Mallik; Pritam; Kalyanji-Anandji; Dj Chetas
+Artist: Armaan Malik; Amaal Mallik
+Composer: Amaal Mallik; Rashmi Virag
+Date: 2016-04-07
+Disc: 1
+Title: Bol Do Na Zara
+Track: 1
+Format: 44100:16:2
+mtime: 1766779179
+added: 1766808271
+song_end
+song_begin: 083. Bilal Saeed - Baari.flac
+Time: 235.297
+Album: Baari
+AlbumArtist: Bilal Saeed; Momina Mustehsan
+Artist: Bilal Saeed; Momina Mustehsan
+Composer: Bilal Saeed
+Date: 2021-07-12
+Disc: 1
+Title: Baari
+Track: 1
+Format: 44100:16:2
+mtime: 1767141842
+added: 1767383086
+song_end
+song_begin: 08. Anuv Jain - Baarishein.flac
+Time: 207.312
+Album: Baarishein
+AlbumArtist: Anuv Jain
+Artist: Anuv Jain
+Composer: Anuv Jain
+Date: 2023-07-14
+Disc: 1
+Title: Baarishein
+Track: 1
+Format: 96000:24:2
+mtime: 1767034958
+added: 1767383086
+song_end
+song_begin: 013. Darshan Raval - Baarishon Mein.flac
+Time: 224.666
+Album: Baarishon Mein
+AlbumArtist: Darshan Raval
+Artist: Darshan Raval
+Composer: Darshan Raval
+Date: 2022-07-08
+Disc: 1
+Title: Baarishon Mein
+Track: 1
+Format: 96000:24:2
+mtime: 1766781797
+added: 1766808271
+song_end
+song_begin: 052. Akhil - Bachalo.flac
+Time: 165.108
+Album: Bachalo
+AlbumArtist: Akhil
+Artist: Akhil
+Composer: Enzo
+Date: 2020-10-27
+Disc: 1
+Title: Bachalo
+Track: 1
+Format: 44100:16:2
+mtime: 1767139981
+added: 1767383086
+song_end
+song_begin: 003. Vishal-Shekhar - Khuda Jaane.flac
+Time: 333.583
+Album: Bachna Ae Haseeno
+AlbumArtist: Vishal-Shekhar
+Artist: Vishal-Shekhar; KK; Shilpa Rao; Anvita Dutt Guptan
+Composer: Vishal - Shekhar
+Date: 2008-07-05
+Disc: 1
+Title: Khuda Jaane
+Track: 1
+Format: 44100:16:2
+mtime: 1766777881
+added: 1766808271
+song_end
+song_begin: 004. RAHAT FATEH ALI KHAN - Zaroori Tha.flac
+Time: 342.023
+Album: Back 2 Love
+AlbumArtist: RAHAT FATEH ALI KHAN
+Artist: RAHAT FATEH ALI KHAN
+Composer: Sahir Ali Bagga
+Date: 2014-06-10
+Disc: 1
+Title: Zaroori Tha
+Track: 4
+Format: 44100:16:2
+mtime: 1766777960
+added: 1766808271
+song_end
+song_begin: 002. Krakota - Back To Me.flac
+Time: 255.172
+Album: Back To Me
+AlbumArtist: Krakota; Fred V; Tudor
+Artist: Krakota; Fred V; Tudor
+Composer: Sebastian Inwood; Frederick Vahrman
+Date: 2022-01-14
+Disc: 1
+Title: Back To Me
+Track: 1
+Format: 44100:16:2
+mtime: 1766778822
+added: 1766808271
+song_end
+song_begin: 032. Harrdy Sandhu - Backbone.flac
+Time: 175.058
+Album: Backbone
+AlbumArtist: Harrdy Sandhu; Jaani
+Artist: Harrdy Sandhu; Jaani
+Composer: B Praak
+Date: 2017-01-06
+Disc: 1
+Title: Backbone
+Track: 1
+Format: 44100:24:2
+mtime: 1766782005
+added: 1766808271
+song_end
+song_begin: 01. Mankirt Aulakh - Badnam.flac
+Time: 203.65
+Album: Badnam - Single
+AlbumArtist: Mankirt Aulakh; DJ Flow
+Artist: Mankirt Aulakh; DJ Flow
+Composer: Singga
+Date: 2017-09-21
+Disc: 1
+Title: Badnam
+Track: 1
+Format: 44100:16:2
+mtime: 1767033934
+added: 1767383086
+song_end
+song_begin: 105. K.K. - Tu Jo Mila.flac
+Time: 242.864
+Album: Bajrangi Bhaijaan
+AlbumArtist: Pritam
+Artist: K.K.; Pritam
+Composer: Pritam; Kausar Munir
+Date: 2015-07-07
+Disc: 1
+Title: Tu Jo Mila
+Track: 7
+Format: 44100:16:2
+mtime: 1767144238
+added: 1767383086
+song_end
+song_begin: 033. Parmish Verma - Meri Marzi.flac
+Time: 155.4
+Album: Balle Te Balle
+AlbumArtist: Various Artists
+Artist: Parmish Verma
+Composer: Homeboy
+Date: 2024-04-18
+Disc: 1
+Title: Meri Marzi
+Track: 4
+Format: 44100:16:2
+mtime: 1766781561
+added: 1766808271
+song_end
+song_begin: 015. Hemant Kumar - Beqarar Karke Hamen Yun Na Jaiye.flac
+Time: 189.88
+Album: Bees Saal Baad (Original Motion Picture Soundtrack)
+AlbumArtist: Hemant Kumar
+Artist: Hemant Kumar
+Composer: Hemant Kumar
+Date: 1961-12-01
+Disc: 1
+Title: Beqarar Karke Hamen Yun Na Jaiye
+Track: 2
+Format: 44100:16:2
+mtime: 1766779345
+added: 1766808271
+song_end
+song_begin: Lynyrd Skynyrd - Simple Man.m4a
+Time: 359.236
+Artist: Lynyrd Skynyrd
+Album: Best Of
+Title: Simple Man
+Track: 5
+Date: 2018
+Disc: 1
+AlbumArtist: Lynyrd Skynyrd
+Format: 44100:f:2
+mtime: 1766681092
+added: 1766682184
+song_end
+song_begin: Nusrat Fateh Ali Khan - Best Of Ustad Nusrat Fateh Ali Khan - 01-23 Ja Dil Tenoon De Chadya.m4a
+Time: 1562.375
+Artist: Nusrat Fateh Ali Khan
+Album: Best Of Ustad Nusrat Fateh Ali Khan
+Title: Ja Dil Tenoon De Chadya
+Track: 23
+Date: 2024
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1767736265
+added: 1768312177
+song_end
+song_begin: Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-10 Aisa Bana Sanwarna Mubarik Tumhen.m4a
+Time: 1043.529
+Artist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Title: Aisa Bana Sanwarna Mubarik Tumhen
+Track: 10
+Date: 2024
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1766678784
+added: 1766680097
+song_end
+song_begin: Nusrat Fateh Ali Khan - Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai.m4a
+Time: 1731.131
+Artist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Title: Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai
+Track: 14
+Date: 2024
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1766681865
+added: 1766682184
+song_end
+song_begin: 008. Shankar Ehsaan Loy - Zinda.flac
+Time: 210.857
+Album: Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)
+AlbumArtist: Shankar Ehsaan Loy
+Artist: Shankar Ehsaan Loy; Siddharth Mahadevan
+Composer: Ehsaan Noorani; Loy Mendonsa; Shankar Mahadevan
+Date: 2013-06-14
+Disc: 1
+Title: Zinda
+Track: 2
+Format: 44100:24:2
+mtime: 1766779056
+added: 1766808271
+song_end
+song_begin: 23. Kaka WRLD - Bholenath 2 (The Destroyer).flac
+Time: 304.5
+Album: Bholenath 2 (The Destroyer)
+AlbumArtist: Kaka WRLD
+Artist: Kaka WRLD
+Composer: Kaka WRLD
+Date: 2022-03-31
+Disc: 1
+Title: Bholenath 2 (The Destroyer)
+Track: 1
+Format: 48000:24:2
+mtime: 1767039677
+added: 1767383086
+song_end
+song_begin: Black Pumas - Black Pumas (Deluxe Edition) - 01-01 Black Moon Rising.m4a
+Time: 221.947
+Artist: Black Pumas
+Album: Black Pumas (Deluxe Edition)
+Title: Black Moon Rising
+Track: 1
+Date: 2020
+Disc: 1
+AlbumArtist: Black Pumas
+Format: 44100:f:2
+mtime: 1767955009
+added: 1768312176
+song_end
+song_begin: Black Pumas - Black Pumas (Deluxe Edition) - 01-02 Colors.m4a
+Time: 246.58700000000002
+Artist: Black Pumas
+Album: Black Pumas (Deluxe Edition)
+Title: Colors
+Track: 2
+Date: 2020
+Disc: 1
+AlbumArtist: Black Pumas
+Format: 44100:f:2
+mtime: 1767955278
+added: 1768312176
+song_end
+song_begin: Black Pumas - Black Pumas (Deluxe Edition) - 01-04 Fire.m4a
+Time: 246.12
+Artist: Black Pumas
+Album: Black Pumas (Deluxe Edition)
+Title: Fire
+Track: 4
+Date: 2020
+Disc: 1
+AlbumArtist: Black Pumas
+Format: 44100:f:2
+mtime: 1767955820
+added: 1768312177
+song_end
+song_begin: Black Pumas - Black Pumas (Deluxe Edition) - 01-05 OCT 33.m4a
+Time: 289.707
+Artist: Black Pumas
+Album: Black Pumas (Deluxe Edition)
+Title: OCT 33
+Track: 5
+Date: 2020
+Disc: 1
+AlbumArtist: Black Pumas
+Format: 44100:f:2
+mtime: 1767955941
+added: 1768312177
+song_end
+song_begin: Black Pumas - Black Pumas (Deluxe Edition) - 02-05 Politicians In My Eyes.m4a
+Time: 232.227
+Artist: Black Pumas
+Album: Black Pumas (Deluxe Edition)
+Title: Politicians In My Eyes
+Track: 5
+Date: 2020
+Disc: 2
+AlbumArtist: Black Pumas
+Format: 44100:f:2
+mtime: 1767961407
+added: 1768312177
+song_end
+song_begin: Black Pumas - Black Pumas (Deluxe Edition) - 02-09 Know You Better (Live At C-Boys).m4a
+Time: 357.2
+Artist: Black Pumas
+Album: Black Pumas (Deluxe Edition)
+Title: Know You Better
+Track: 9
+Date: 2020
+Disc: 2
+AlbumArtist: Black Pumas
+Format: 44100:f:2
+mtime: 1767963701
+added: 1768312176
+song_end
+song_begin: Black Pumas - Black Pumas (Deluxe Edition) - 02-11 Ain't No Love In The Heart of The City.m4a
+Time: 258.067
+Artist: Black Pumas
+Album: Black Pumas (Deluxe Edition)
+Title: Ain't No Love In The Heart of The City
+Track: 11
+Date: 2020
+Disc: 2
+AlbumArtist: Black Pumas
+Format: 44100:f:2
+mtime: 1767964691
+added: 1768312176
+song_end
+song_begin: 028. Shailendra Singh - Main Shair To Nahin.flac
+Time: 333.746
+Album: Bobby (Original Motion Picture Soundtrack)
+AlbumArtist: Laxmikant - Pyarelal
+Artist: Shailendra Singh
+Composer: Laxmikant - Pyarelal
+Date: 1973-12-01
+Disc: 1
+Title: Main Shair To Nahin
+Track: 6
+Format: 44100:16:2
+mtime: 1766781779
+added: 1766808271
+song_end
+song_begin: Ishq Sufiyana (Male).flac
+Time: 325.257
+Album: Bollywood Beats By Vishal-Shekhar
+AlbumArtist: Vishal-Shekhar
+Artist: Kamal Khan; Vishal-Shekhar
+Composer: Vishal-Shekhar; Rajat Arora
+Date: 2024-11-08
+Disc: 1
+Title: Ishq Sufiyana (Male) [From "The Dirty Picture"]
+Track: 18
+Format: 44100:16:2
+mtime: 1766779578
+added: 1768312176
+song_end
+song_begin: 17. RAHAT FATEH ALI KHAN - Jag Soona Soona Lage (From Om Shanti Om).flac
+Time: 329.42900000000003
+Album: Bollywood Beats By Vishal-Shekhar
+AlbumArtist: Vishal-Shekhar
+Artist: RAHAT FATEH ALI KHAN; Richa Sharma; Vishal-Shekhar
+Composer: Vishal-Shekhar; Kumaar
+Date: 2024-11-08
+Disc: 1
+Title: Jag Soona Soona Lage (From "Om Shanti Om")
+Track: 22
+Format: 44100:16:2
+mtime: 1767036405
+added: 1768312177
+song_end
+song_begin: 010. Akhil - Duniyaa (From Luka Chuppi).flac
+Time: 222.5
+Album: Candid With Kriti
+AlbumArtist: Kriti Sanon
+Artist: Akhil; Dhvani Bhanushali
+Composer: Abhijit Vaghani; Bob; Raja; Kunaal Vermaa
+Date: 2024-11-30
+Disc: 1
+Title: Duniyaa (From "Luka Chuppi")
+Track: 3
+Format: 44100:16:2
+mtime: 1767130721
+added: 1768312176
+song_end
+song_begin: 027. Gippy Grewal - Car Nachdi.flac
+Time: 205.30100000000002
+Album: Car Nachdi
+AlbumArtist: Gippy Grewal; Bohemia
+Artist: Gippy Grewal; Bohemia
+Composer: B Praak; Jaani
+Date: 2017-06-13
+Disc: 1
+Title: Car Nachdi
+Track: 1
+Format: 44100:16:2
+mtime: 1766781666
+added: 1766808271
+song_end
+song_begin: denny, Rahul Mishra & Kunaal Vermaa - Chale Jaana Phir (Humko Tere Bina) - 01-01 Chale Jaana Phir (Humko Tere Bina).m4a
+Time: 208.933
+Artist: denny; Rahul Mishra; Kunaal Vermaa
+Album: Chale Jaana Phir (Humko Tere Bina)
+Title: Chale Jaana Phir (Humko Tere Bina)
+Track: 1
+Date: 2024
+Disc: 1
+AlbumArtist: denny
+Format: 44100:f:2
+mtime: 1766677783
+added: 1766680097
+song_end
+song_begin: 051. Vilen - Chidiya.flac
+Time: 253.333
+Album: Chidiya
+AlbumArtist: Vilen
+Artist: Vilen
+Composer: Vilen
+Date: 2023-04-14
+Disc: 1
+Title: Chidiya
+Track: 1
+Format: 44100:16:2
+mtime: 1766782682
+added: 1766808271
+song_end
+song_begin: 027. Ankush Raja - Chithiyaan.flac
+Time: 198.119
+Album: Chithiyaan
+AlbumArtist: Ankush Raja; Khushi Kakkar; Elly Mangat
+Artist: Ankush Raja; Khushi Kakkar; Elly Mangat
+Composer: Ankush Raja; Khushi Kakkar; Elly Mangat
+Date: 2020-11-12
+Disc: 1
+Title: Chithiyaan
+Track: 1
+Format: 44100:24:2
+mtime: 1767132681
+added: 1767383086
+song_end
+song_begin: 27. Ninja - Chor.flac
+Time: 200.167
+Album: Chor
+AlbumArtist: Ninja
+Artist: Ninja
+Composer: Nirman
+Date: 2020-03-09
+Disc: 1
+Title: Chor
+Track: 1
+Format: 44100:16:2
+mtime: 1767040228
+added: 1767383086
+song_end
+song_begin: Ghulam Ali - Musafir Chalte Chalte Thak Gaya Hai.m4a
+Time: 314.212
+Artist: Ghulam Ali
+Album: Chupke Chupke Raat Din and Other Hits
+Title: Musafir Chalte Chalte Thak Gaya Hai
+Track: 14
+Date: 2018
+Disc: 1
+AlbumArtist: Ghulam Ali
+Format: 44100:f:2
+mtime: 1766680664
+added: 1766682184
+song_end
+song_begin: 024. Sukh-E Muzical Doctorz - Coka.flac
+Time: 141.861
+Album: Coka
+AlbumArtist: Sukh-E Muzical Doctorz
+Artist: Sukh-E Muzical Doctorz
+Composer: Sukh-E Muzical Doctorz
+Date: 2020-08-04
+Disc: 1
+Title: Coka
+Track: 1
+Format: 44100:16:2
+mtime: 1767131640
+added: 1767383086
+song_end
+song_begin: 088. Sukh-E Muzical Doctorz - Coka.flac
+Time: 141.861
+Album: Coka
+AlbumArtist: Sukh-E Muzical Doctorz
+Artist: Sukh-E Muzical Doctorz
+Composer: Sukh-E Muzical Doctorz
+Date: 2020-08-04
+Disc: 1
+Title: Coka
+Track: 1
+Format: 44100:16:2
+mtime: 1767141931
+added: 1767383086
+song_end
+song_begin: John Mayer - Continuum - 01-01 Waiting On the World to Change.m4a
+Time: 200.667
+Artist: John Mayer
+Album: Continuum
+Title: Waiting On the World to Change
+Track: 1
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297593
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-02 I Don't Trust Myself (With Loving You).m4a
+Time: 292.133
+Artist: John Mayer
+Album: Continuum
+Title: I Don't Trust Myself (With Loving You)
+Track: 2
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297596
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-03 Belief.m4a
+Time: 242.36
+Artist: John Mayer
+Album: Continuum
+Title: Belief
+Track: 3
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297598
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-04 Gravity.m4a
+Time: 245.773
+Artist: John Mayer
+Album: Continuum
+Title: Gravity
+Track: 4
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297601
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-05 The Heart of Life.m4a
+Time: 199.08
+Artist: John Mayer
+Album: Continuum
+Title: The Heart of Life
+Track: 5
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297603
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-06 Vultures.m4a
+Time: 251.8
+Artist: John Mayer
+Album: Continuum
+Title: Vultures
+Track: 6
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297606
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-07 Stop This Train.m4a
+Time: 285.133
+Artist: John Mayer
+Album: Continuum
+Title: Stop This Train
+Track: 7
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297610
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-08 Slow Dancing in a Burning Room.m4a
+Time: 241.947
+Artist: John Mayer
+Album: Continuum
+Title: Slow Dancing in a Burning Room
+Track: 8
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297614
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-09 Bold as Love.m4a
+Time: 258.147
+Artist: John Mayer
+Album: Continuum
+Title: Bold as Love
+Track: 9
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297617
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-10 Dreaming with a Broken Heart.m4a
+Time: 247.84
+Artist: John Mayer
+Album: Continuum
+Title: Dreaming with a Broken Heart
+Track: 10
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297624
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-11 In Repair.m4a
+Time: 369.827
+Artist: John Mayer
+Album: Continuum
+Title: In Repair
+Track: 11
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297627
+added: 1766297787
+song_end
+song_begin: John Mayer - Continuum - 01-12 I'm Gonna Find Another You.m4a
+Time: 162.92000000000002
+Artist: John Mayer
+Album: Continuum
+Title: I'm Gonna Find Another You
+Track: 12
+Date: 2006
+Disc: 1
+AlbumArtist: John Mayer
+Format: 44100:f:2
+mtime: 1766297629
+added: 1766297787
+song_end
+song_begin: 021. Millind Gaba - Daaru Party.flac
+Time: 208.483
+Album: Daaru Party - Single
+AlbumArtist: Millind Gaba
+Artist: Millind Gaba
+Date: 2015-11-29
+Disc: 1
+Title: Daaru Party
+Track: 1
+Format: 44100:16:2
+mtime: 1766780152
+added: 1766808271
+song_end
+song_begin: 090. Harrdy Sandhu - Dance Like.flac
+Time: 171.6
+Album: Dance Like
+AlbumArtist: Harrdy Sandhu; Jaani
+Artist: Harrdy Sandhu; Jaani
+Composer: B Praak
+Date: 2019-11-30
+Disc: 1
+Title: Dance Like
+Track: 1
+Format: 96000:24:2
+mtime: 1767141984
+added: 1767383086
+song_end
+song_begin: 14. Tones and I - Dance Monkey.flac
+Time: 209.43800000000002
+Album: Dance Monkey - Pop Favorites
+AlbumArtist: Various Artists
+Artist: Tones and I
+Composer: Toni Watson
+Date: 2022-06-24
+Disc: 1
+Title: Dance Monkey
+Track: 1
+Format: 44100:16:2
+mtime: 1767040274
+added: 1767383086
+song_end
+song_begin: 078. Param Singh - Daru Badnaam.flac
+Time: 185.333
+Album: Daru Badnaam
+AlbumArtist: Param Singh; Kamal Kahlon; Pratik Studio
+Artist: Param Singh; Kamal Kahlon; Pratik Studio
+Composer: Param Singh; Kamal Kahlon
+Date: 2016-12-24
+Disc: 1
+Title: Daru Badnaam
+Track: 1
+Format: 44100:16:2
+mtime: 1767141701
+added: 1767383086
+song_end
+song_begin: 19. The Minions - I Swear.flac
+Time: 98.211
+Album: Despicable Me 2 (Original Motion Picture Soundtrack)
+AlbumArtist: Various Artists
+Artist: The Minions
+Date: 2013-06-18
+Disc: 1
+Title: I Swear
+Track: 5
+Format: 44100:16:2
+mtime: 1767039476
+added: 1767383086
+song_end
+song_begin: 027. Anand Raaj Anand - Dil De Diya (From Thank God).flac
+Time: 274.088
+Album: Dil De Diya (From "Thank God")
+AlbumArtist: Anand Raaj Anand
+Artist: Anand Raaj Anand
+Composer: Rochak Kohli; Sameer; Anand Raaj Anand; Rashmi Virag
+Date: 2022-10-17
+Disc: 1
+Title: Dil De Diya (From "Thank God")
+Track: 1
+Format: 44100:16:2
+mtime: 1766779351
+added: 1768312177
+song_end
+song_begin: 011. Maninder Buttar - Dil Main Nahi Laona (From Laiye Je Yaarian Soundtrack).flac
+Time: 169.558
+Album: Dil Main Nahi Laona (From "Laiye Je Yaarian" Soundtrack)
+AlbumArtist: Maninder Buttar; Mixsingh
+Artist: Maninder Buttar; Mixsingh
+Composer: Mixsingh
+Date: 2019-06-04
+Disc: 1
+Title: Dil Main Nahi Laona (From "Laiye Je Yaarian" Soundtrack)
+Track: 1
+Format: 44100:16:2
+mtime: 1766780546
+added: 1768312177
+song_end
+song_begin: 010. Satbir Aujla - Dil Todya.flac
+Time: 152.833
+Album: Dil Todya
+AlbumArtist: Satbir Aujla
+Artist: Satbir Aujla
+Composer: Satbir Aujla
+Date: 2020-05-18
+Disc: 1
+Title: Dil Todya
+Track: 1
+Format: 48000:24:2
+mtime: 1766780298
+added: 1766808271
+song_end
+song_begin: 004. Garry Sandhu - Do Gallan (Let's Talk).flac
+Time: 251.142
+Album: Do Gallan (Let's Talk)
+AlbumArtist: Garry Sandhu; Rahul Sathu
+Artist: Garry Sandhu; Rahul Sathu
+Composer: Rahul Sathu
+Date: 2018-11-09
+Disc: 1
+Title: Do Gallan (Let's Talk)
+Track: 1
+Format: 44100:16:2
+mtime: 1766779351
+added: 1766808271
+song_end
+song_begin: 13. Bruno Mars - Just the Way You Are.flac
+Time: 220.734
+Album: Doo-Wops & Hooligans
+AlbumArtist: Bruno Mars
+Artist: Bruno Mars
+Date: 2010-10-05
+Disc: 1
+Title: Just the Way You Are
+Track: 2
+Format: 44100:24:2
+mtime: 1767040228
+added: 1767383086
+song_end
+song_begin: 032. Deep Jandu - Bombay To Punjab.flac
+Time: 243.297
+Album: Down to Earth
+AlbumArtist: Deep Jandu
+Artist: Deep Jandu; DiVine
+Composer: Deep Jandu
+Date: 2019-12-13
+Disc: 1
+Title: Bombay To Punjab
+Track: 2
+Format: 48000:24:2
+mtime: 1766780686
+added: 1766808271
+song_end
+song_begin: 019. Various Artists - My Eyes.flac
+Time: 167.874
+Album: Dr. Horrible's Sing-Along Blog (Motion Picture Soundtrack)
+AlbumArtist: Various Artists
+Artist: Various Artists
+Date: 2008-09-02
+Disc: 1
+Title: My Eyes
+Track: 6
+Format: 44100:16:2
+mtime: 1766778212
+added: 1766808271
+song_end
+song_begin: 061. Sanam - Ek Ladki Ko Dekha To Asia Laga.flac
+Time: 216
+Album: Ek Ladki Ko Dekha To Asia Laga - Single
+AlbumArtist: Sanam
+Artist: Sanam
+Date: 2014-08-19
+Disc: 1
+Title: Ek Ladki Ko Dekha To Asia Laga
+Track: 1
+Format: 44100:16:2
+mtime: 1767140814
+added: 1767383086
+song_end
+song_begin: 060. Sanam - Ek Pyar Ka Nagma Hai.flac
+Time: 277.137
+Album: Ek Pyar Ka Nagma Hai - Single
+AlbumArtist: Sanam
+Artist: Sanam
+Date: 2018-11-15
+Disc: 1
+Title: Ek Pyar Ka Nagma Hai
+Track: 1
+Format: 44100:16:2
+mtime: 1767140765
+added: 1767383086
+song_end
+song_begin: 052. Darshan Raval - Ek Tarfa.flac
+Time: 234.374
+Album: Ek Tarfa
+AlbumArtist: Darshan Raval
+Artist: Darshan Raval
+Composer: Darshan Raval
+Date: 2020-07-16
+Disc: 1
+Title: Ek Tarfa
+Track: 1
+Format: 44100:16:2
+mtime: 1766782730
+added: 1766808271
+song_end
+song_begin: 023. Mustafa Zahid - Zaroorat.flac
+Time: 368.85200000000003
+Album: Ek Villain
+AlbumArtist: Ankit Tiwari; Mithoon; Rabi Ahmed; Adnan Dhool
+Artist: Mustafa Zahid; Mithoon
+Composer: Mithoon
+Date: 2014-05-28
+Disc: 1
+Title: Zaroorat
+Track: 3
+Format: 44100:16:2
+mtime: 1766778896
+added: 1766808271
+song_end
+song_begin: Elvis Presley - (You're The) Devil in Disguise.flac
+Time: 140.42600000000002
+Album: Elvis 30 #1 Hits
+AlbumArtist: Elvis Presley
+Artist: Elvis Presley
+Composer: Giant; BAUM; Kaye
+Date: 2002-09-23
+Label: RCA Records Label
+Title: (You're The) Devil in Disguise
+Track: 24
+Format: 44100:16:2
+mtime: 1736461948
+added: 1766294900
+song_end
+song_begin: 025. Mika Singh - Mast Kalander.flac
+Time: 270.524
+Album: End and Other Hits
+AlbumArtist: Various Artists
+Artist: Mika Singh; Yo Yo Honey Singh
+Composer: Mika Singh; Yo Yo Honey Singh
+Date: 2022-10-12
+Disc: 1
+Title: Mast Kalander
+Track: 10
+Format: 44100:16:2
+mtime: 1767132443
+added: 1767383086
+song_end
+song_begin: 033. Bilal Saeed - 12 Saal.flac
+Time: 193.854
+Album: End Of The World -  Heartbreak Hits
+AlbumArtist: Various Artists
+Artist: Bilal Saeed
+Date: 2020-05-13
+Disc: 1
+Title: 12 Saal
+Track: 6
+Format: 44100:16:2
+mtime: 1767133455
+added: 1767383086
+song_end
+song_begin: 059. Imagine Dragons - Whatever It Takes.flac
+Time: 201.24
+Album: Evolve
+AlbumArtist: Imagine Dragons
+Artist: Imagine Dragons
+Composer: Joel Little; Dan Reynolds; Ben McKee; Daniel Platzman; Wayne Sermon
+Date: 2017-06-23
+Disc: 1
+Title: Whatever It Takes
+Track: 3
+Format: 44100:16:2
+mtime: 1767140732
+added: 1767383086
+song_end
+song_begin: 058. Imagine Dragons - Thunder.flac
+Time: 187.14600000000002
+Album: Evolve
+AlbumArtist: Imagine Dragons
+Artist: Imagine Dragons
+Composer: Dan Reynolds; Ben McKee; Daniel Platzman; Wayne Sermon; A. Grant; Jayson DeZuzio
+Date: 2017-06-23
+Disc: 1
+Title: Thunder
+Track: 10
+Format: 44100:16:2
+mtime: 1767140699
+added: 1767383086
+song_end
+song_begin: 036. Nawab - Expert Jatt.flac
+Time: 199.534
+Album: Expert Jatt
+AlbumArtist: Nawab
+Artist: Nawab
+Composer: Mista Baaz
+Date: 2018-01-18
+Disc: 1
+Title: Expert Jatt
+Track: 1
+Format: 44100:16:2
+mtime: 1767136203
+added: 1767383086
+song_end
+song_begin: 004. Aditya Rikhari - Faasle.flac
+Time: 221.988
+Album: Faasle
+AlbumArtist: Aditya Rikhari
+Artist: Aditya Rikhari
+Composer: Aditya Rikhari
+Date: 2021-07-31
+Disc: 1
+Title: Faasle
+Track: 1
+Format: 44100:24:2
+mtime: 1766776952
+added: 1766808271
+song_end
+song_begin: 003. Jatin-Lalit - Chand Sifarish.flac
+Time: 275.931
+Album: Fanaa
+AlbumArtist: Jatin-Lalit
+Artist: Jatin-Lalit; SHAAN; Kailash Kher; Prasoon Joshi
+Disc: 1
+Title: Chand Sifarish
+Track: 1
+Format: 44100:16:2
+mtime: 1766776889
+added: 1766808271
+song_end
+song_begin: 07. Jatin-Lalit - Mere Haath Mein.flac
+Time: 285.857
+Album: Fanaa
+AlbumArtist: Jatin-Lalit
+Artist: Jatin-Lalit; Sonu Nigam; Sunidhi Chauhan; Prasoon Joshi
+Disc: 1
+Title: Mere Haath Mein
+Track: 2
+Format: 44100:16:2
+mtime: 1767034872
+added: 1767383086
+song_end
+song_begin: 013. Sumit Goswami - Feelings.flac
+Time: 224.805
+Album: Feelings
+AlbumArtist: Sumit Goswami
+Artist: Sumit Goswami
+Composer: Sumit Goswami
+Date: 2020-07-07
+Disc: 1
+Title: Feelings
+Track: 1
+Format: 44100:24:2
+mtime: 1767131163
+added: 1767383086
+song_end
+song_begin: 018. B Praak - Filhaal2 Mohabbat.flac
+Time: 300.196
+Album: Filhaal2 Mohabbat
+AlbumArtist: B Praak; Akshay Kumar; Nupur Sanon; Ammy Virk
+Artist: B Praak; Akshay Kumar; Nupur Sanon; Ammy Virk
+Composer: Jaani
+Date: 2021-07-06
+Disc: 1
+Title: Filhaal2 Mohabbat
+Track: 1
+Format: 44100:16:2
+mtime: 1766779931
+added: 1766808271
+song_end
+song_begin: 019. B Praak - Filhall.flac
+Time: 255
+Album: Filhall
+AlbumArtist: B Praak; Akshay Kumar; Nupur Sanon
+Artist: B Praak; Akshay Kumar; Nupur Sanon
+Composer: B Praak
+Date: 2020-07-27
+Disc: 1
+Title: Filhall
+Track: 1
+Format: 44100:16:2
+mtime: 1766779970
+added: 1766808271
+song_end
+song_begin: 082. B Praak - Filhall.flac
+Time: 255
+Album: Filhall
+AlbumArtist: B Praak; Akshay Kumar; Nupur Sanon
+Artist: B Praak; Akshay Kumar; Nupur Sanon
+Composer: B Praak
+Date: 2020-07-27
+Disc: 1
+Title: Filhall
+Track: 1
+Format: 44100:16:2
+mtime: 1767141820
+added: 1767383086
+song_end
+song_begin: 034. Laddi Chahal - Rubicon Drill.flac
+Time: 188.571
+Album: Forever
+AlbumArtist: Laddi Chahal; Parmish Verma; Gurlej Akhtar
+Artist: Laddi Chahal; Parmish Verma; Gurlej Akhtar
+Composer: Starboy X
+Date: 2022-11-16
+Disc: 1
+Title: Rubicon Drill
+Track: 1
+Format: 44100:24:2
+mtime: 1766781610
+added: 1766808271
+song_end
+song_begin: 033. Garry Sandhu - Banda Ban Ja.flac
+Time: 237.23000000000002
+Album: Fresh All the Way
+AlbumArtist: Garry Sandhu
+Artist: Garry Sandhu
+Composer: Beat Minister
+Date: 2014-10-31
+Disc: 1
+Title: Banda Ban Ja
+Track: 1
+Format: 44100:16:2
+mtime: 1766782065
+added: 1766808271
+song_end
+song_begin: 09. Marshmello - FRIENDS.flac
+Time: 201.733
+Album: FRIENDS
+AlbumArtist: Marshmello; Anne-Marie
+Artist: Marshmello; Anne-Marie
+Composer: Jasmine Thompson; Marshmello; Anne-Marie Nicholson; Eden Anderson; Natalie Dunn; Pablo Bowman; Richard Boardman; Sarah Blanchard
+Date: 2018-02-09
+Disc: 1
+Title: FRIENDS
+Track: 1
+Format: 44100:16:2
+mtime: 1767035606
+added: 1767383086
+song_end
+song_begin: 100. Diljit Dosanjh - Born to Shine.flac
+Time: 213.333
+Album: G.O.A.T.
+AlbumArtist: Diljit Dosanjh
+Artist: Diljit Dosanjh
+Composer: Amrit Maan
+Date: 2020-07-30
+Disc: 1
+Title: Born to Shine
+Track: 16
+Format: 44100:24:2
+mtime: 1767142259
+added: 1767383086
+song_end
+song_begin: 053. Khan Bhaini - Gaddi Pichhe Naa.flac
+Time: 166.042
+Album: Gaddi Pichhe Naa
+AlbumArtist: Khan Bhaini; Shipra Goyal
+Artist: Khan Bhaini; Shipra Goyal
+Composer: Sycostyle
+Date: 2019-11-29
+Disc: 1
+Title: Gaddi Pichhe Naa
+Track: 1
+Format: 44100:16:2
+mtime: 1767140014
+added: 1767383086
+song_end
+song_begin: 080. Inder Chahal - Gal Karke.flac
+Time: 173.381
+Album: Gal Karke
+AlbumArtist: Inder Chahal; Rajat Nagpal
+Artist: Inder Chahal; Rajat Nagpal
+Composer: Preetinder; Rajat Nagpal
+Date: 2019-04-15
+Disc: 1
+Title: Gal Karke
+Track: 1
+Format: 44100:16:2
+mtime: 1767141753
+added: 1767383086
+song_end
+song_begin: 094. Jass Manak - Gal Sun (From Shooter).flac
+Time: 192.631
+Album: Gal Sun (From "Shooter")
+AlbumArtist: Jass Manak
+Artist: Jass Manak
+Composer: Jass Manak
+Date: 2020-02-05
+Disc: 1
+Title: Gal Sun (From "Shooter")
+Track: 1
+Format: 48000:24:2
+mtime: 1767142092
+added: 1768312177
+song_end
+song_begin: 016. Cheetah - Get Loose.flac
+Time: 156
+Album: Get Loose
+AlbumArtist: Cheetah; Nia Archives
+Artist: Cheetah; Nia Archives
+Composer: Dehaney Hunt; Michael McCormick
+Date: 2025-04-23
+Disc: 1
+Title: Get Loose
+Track: 1
+Format: 44100:16:2
+mtime: 1766779364
+added: 1766808271
+song_end
+song_begin: 017. AGNEZ MO - Get Loose (Remix).flac
+Time: 148.696
+Album: Get Loose (Remix)
+AlbumArtist: AGNEZ MO; Spice
+Artist: AGNEZ MO; Spice
+Composer: Theron Thomas; Grace Hamilton; Agnez Monika
+Date: 2023-08-23
+Disc: 1
+Title: Get Loose (Remix)
+Track: 1
+Format: 44100:24:2
+mtime: 1766779419
+added: 1766808271
+song_end
+song_begin: 014. Jaan Nissar Lone - Rubaru.flac
+Time: 242.181
+Album: Ginny Weds Sunny (Original Motion Picture Soundtrack)
+AlbumArtist: Payal Dev; Gaurav Chatterji; Jaan Nissar Lone
+Artist: Jaan Nissar Lone; Kamal Khan
+Composer: Jaan Nissar Lone
+Date: 2020-09-28
+Disc: 1
+Title: Rubaru
+Track: 5
+Format: 96000:24:2
+mtime: 1767131227
+added: 1767383086
+song_end
+song_begin: 21. Joji - Glimpse of Us.flac
+Time: 233.453
+Album: Glimpse of Us
+AlbumArtist: Joji
+Artist: Joji
+Composer: Riley McDonough; Alexis Kesselman; Castle; Connor McDonough
+Date: 2022-06-10
+Disc: 1
+Title: Glimpse of Us
+Track: 1
+Format: 44100:24:2
+mtime: 1767039585
+added: 1767383086
+song_end
+song_begin: Bill Withers - Lean on Me.m4a
+Time: 257.24
+Artist: Bill Withers
+Album: God Bless America
+Title: Lean on Me
+Track: 15
+Date: 2001
+Disc: 1
+AlbumArtist: Bill Withers
+Format: 44100:f:2
+mtime: 1766680955
+added: 1766682184
+song_end
+song_begin: 04. Green Day - Boulevard of Broken Dreams.flac
+Time: 262.333
+Album: Greatest Hits: God's Favorite Band
+AlbumArtist: Green Day
+Artist: Green Day
+Date: 2017-11-17
+Disc: 1
+Title: Boulevard of Broken Dreams
+Track: 14
+Format: 44100:16:2
+mtime: 1767034039
+added: 1767383086
+song_end
+song_begin: 072. Guru Randhawa - Ishare Tere (From Ishare Tere).flac
+Time: 189.151
+Album: Groove With Guru
+AlbumArtist: Guru Randhawa
+Artist: Guru Randhawa; Dhvani Bhanushali
+Composer: Guru Randhawa
+Date: 2024-11-05
+Disc: 1
+Title: Ishare Tere (From "Ishare Tere")
+Track: 27
+Format: 44100:16:2
+mtime: 1767141545
+added: 1768312176
+song_end
+song_begin: 089. Guru Randhawa - Surma Surma (From Surma Surma).flac
+Time: 215.95000000000002
+Album: Groove With Guru
+AlbumArtist: Guru Randhawa
+Artist: Guru Randhawa; Jay Sean
+Composer: Guru Randhawa; Jay Sean
+Date: 2024-11-05
+Disc: 1
+Title: Surma Surma (From "Surma Surma")
+Track: 37
+Format: 44100:16:2
+mtime: 1767141949
+added: 1768312177
+song_end
+song_begin: 039. Piyush Mishra - Aarambh.flac
+Time: 295.866
+Album: Gulaal
+AlbumArtist: Piyush Mishra
+Artist: Piyush Mishra
+Composer: Piyush Mishra
+Date: 2009-02-27
+Disc: 1
+Title: Aarambh
+Track: 3
+Format: 44100:16:2
+mtime: 1766781991
+added: 1766808271
+song_end
+song_begin: 009. Lakhwinder Wadali - Gulabi.flac
+Time: 277.647
+Album: Gulabi
+AlbumArtist: Lakhwinder Wadali; Neha Malik
+Artist: Lakhwinder Wadali; Neha Malik
+Composer: Aar Bee
+Date: 2020-10-11
+Disc: 1
+Title: Gulabi
+Track: 1
+Format: 44100:16:2
+mtime: 1767130504
+added: 1767383086
+song_end
+song_begin: 035. Pemaram Jat - Juban Jaisi Mithi Jagat Marwadi Desi Bhajan.flac
+Time: 423.993
+Album: Guru Mahima Bhajan Marwadi Desi Bhajan
+AlbumArtist: Pemaram Jat
+Artist: Pemaram Jat
+Composer: Ganesh Puri Goswami
+Date: 2005-08-25
+Disc: 1
+Title: Juban Jaisi Mithi Jagat Marwadi Desi Bhajan
+Track: 1
+Format: 44100:16:2
+mtime: 1767134692
+added: 1767383086
+song_end
+song_begin: 084. Ammy Virk - Haaye Ve.flac
+Time: 215.59300000000002
+Album: Haaye Ve
+AlbumArtist: Ammy Virk
+Artist: Ammy Virk
+Composer: Sunny Vik
+Date: 2022-04-21
+Disc: 1
+Title: Haaye Ve
+Track: 1
+Format: 44100:24:2
+mtime: 1767141860
+added: 1767383086
+song_end
+song_begin: 038. Parvathy kapoor - Hai Katha Sangram Ki.flac
+Time: 153.225
+Album: Hai Katha Sangram Ki
+AlbumArtist: Parvathy kapoor
+Artist: Parvathy kapoor
+Composer: Parvathy  Kapoor
+Date: 2013-05-10
+Disc: 1
+Title: Hai Katha Sangram Ki
+Track: 1
+Format: 44100:16:2
+mtime: 1766781879
+added: 1766808271
+song_end
+song_begin: 01. Saaj Bhatt - Halki Si Barsaat.flac
+Time: 212.56
+Album: Halki Si Barsaat
+AlbumArtist: Saaj Bhatt
+Artist: Saaj Bhatt
+Composer: Ajay; Sanjeev Chaturvedi
+Date: 2022-06-08
+Disc: 1
+Title: Halki Si Barsaat
+Track: 1
+Format: 44100:16:2
+mtime: 1767033898
+added: 1767383086
+song_end
+song_begin: 14. Mithoon - Humnava.flac
+Time: 328.854
+Album: Hamari Adhuri Kahani (Original Motion Picture Soundtrack)
+AlbumArtist: Jeet Gannguli; Mithoon; Ami Mishra
+Artist: Mithoon; Papon; Sayeed Quadri
+Composer: Mithoon
+Date: 2015-05-20
+Disc: 1
+Title: Humnava
+Track: 2
+Format: 44100:24:2
+mtime: 1767036183
+added: 1767383086
+song_end
+song_begin: 13. Ami Mishra - Hasi (Male Version).flac
+Time: 272.668
+Album: Hamari Adhuri Kahani (Original Motion Picture Soundtrack)
+AlbumArtist: Jeet Gannguli; Mithoon; Ami Mishra
+Artist: Ami Mishra; Kunaal Vermaa
+Composer: Ami Mishra
+Date: 2015-05-20
+Disc: 1
+Title: Hasi (Male Version)
+Track: 3
+Format: 44100:24:2
+mtime: 1767035726
+added: 1767383086
+song_end
+song_begin: 043. Tapas Relia - The War Begins (Background Music).flac
+Time: 68
+Album: Hanuman (Original Motion Picture Soundtrack)
+AlbumArtist: Tapas Relia
+Artist: Tapas Relia
+Composer: Tapas Relia
+Date: 2013-02-15
+Disc: 1
+Title: The War Begins (Background Music)
+Track: 9
+Format: 44100:16:2
+mtime: 1766782209
+added: 1766808271
+song_end
+song_begin: 26. Brijesh Shandilya - Hanuman Chalisa Superfast.flac
+Time: 256.052
+Album: Hanuman Chalisa Superfast
+AlbumArtist: Brijesh Shandilya
+Artist: Brijesh Shandilya
+Date: 2015-05-14
+Disc: 1
+Title: Hanuman Chalisa Superfast
+Track: 1
+Format: 44100:16:2
+mtime: 1767040180
+added: 1767383086
+song_end
+song_begin: 001. Shravan - Dhishum Dhishum.flac
+Time: 249.429
+Album: Hanuman Returns
+AlbumArtist: Daler Mehndi; Samantha; Hrishikesh; Neuman; franco; Shazneen Arethna; Sunayana; Tapas Relia; Shravan; Sneha; Aparna; Armaan; ADNAN SAMI; Mangal Mishra; Vijay Prakash
+Artist: Shravan; Tapas Relia
+Composer: Tapas Relia; Satish Mutatkar
+Date: 2007-12-15
+Disc: 1
+Title: Dhishum Dhishum
+Track: 4
+Format: 44100:16:2
+mtime: 1766777716
+added: 1766808271
+song_end
+song_begin: 010. B Praak - Jhaanjar.flac
+Time: 235.264
+Album: Honeymoon
+AlbumArtist: B Praak
+Artist: B Praak
+Composer: B Praak; Jaani
+Date: 2022-10-28
+Disc: 1
+Title: Jhaanjar
+Track: 1
+Format: 44100:16:2
+mtime: 1766777540
+added: 1766808271
+song_end
+song_begin: 05. Sharry Mann - Hostel.flac
+Time: 322.954
+Album: Hostel
+AlbumArtist: Sharry Mann
+Artist: Sharry Mann
+Composer: Mista Baaz; Jassi Lohka
+Date: 2017-06-06
+Disc: 1
+Title: Hostel
+Track: 1
+Format: 44100:16:2
+mtime: 1767034122
+added: 1767383086
+song_end
+song_begin: 045. Shaggy - Angel.flac
+Time: 235.133
+Album: Hot Shot
+AlbumArtist: Shaggy
+Artist: Shaggy; Rayvon
+Composer: Ahmet Ertegun; Chip Taylor; Steve Miller; Eddie Curtis
+Date: 2000-08-08
+Disc: 1
+Title: Angel
+Track: 6
+Format: 44100:16:2
+mtime: 1766782318
+added: 1766808271
+song_end
+song_begin: Asha Bhosle - Jahan Mein Aesa Kaun Hai.m4a
+Time: 164.90800000000002
+Artist: Asha Bhosle
+Album: Hum Dono (Original Motion Picture Soundtrack)
+Title: Jahan Mein Aesa Kaun Hai
+Track: 6
+Date: 2018
+Disc: 1
+AlbumArtist: Asha Bhosle
+Format: 44100:f:2
+mtime: 1766682030
+added: 1766682184
+song_end
+song_begin: ELLIOT JAMES REAY - I Think They Call This Love.m4a
+Time: 193.573
+Artist: ELLIOT JAMES REAY
+Album: I Think They Call This Love
+Title: I Think They Call This Love
+Track: 1
+Date: 2024
+Disc: 1
+AlbumArtist: ELLIOT JAMES REAY
+Format: 44100:f:2
+mtime: 1766681885
+added: 1766682184
+song_end
+song_begin: Thomas Benjamin Wild Esq - I've No More Fucks To Give - 01-02 I've No More Fucks To Give.m4a
+Time: 185.739
+Artist: Thomas Benjamin Wild Esq
+Album: I've No More Fucks To Give
+Title: I've No More Fucks To Give
+Track: 2
+Date: 2019
+Disc: 1
+AlbumArtist: Thomas Benjamin Wild Esq
+Format: 44100:f:2
+mtime: 1766677737
+added: 1766680097
+song_end
+song_begin: 012. Halsey - Nightmare.flac
+Time: 231.99800000000002
+Album: If I Can’t Have Love, I Want Power (Deluxe)
+AlbumArtist: Halsey
+Artist: Halsey
+Composer: Magnus Hoiberg; Valerij Valentinovich Polienko; Nathan Perez; Ivan Nikolaevich Shapovalov; Elena Kiper; Benjamin Levin; Sergio Galoyan; Ashley Frangipane; Trevor Horn; Martin Kierszenbaum
+Date: 2021-08-27
+Disc: 1
+Title: Nightmare
+Track: 14
+Format: 44100:24:2
+mtime: 1766779206
+added: 1766808271
+song_end
+song_begin: 011. B Praak - Galib.flac
+Time: 245.142
+Album: Ik Sandhu Hunda Si (Original Motion Picture Soundtrack)
+AlbumArtist: Happy Raikoti; Jaani; Desi Crew; Akashdeep Sandhu; Sandeep Thulewal; Jay K; Nick D
+Artist: B Praak
+Composer: Jaani
+Date: 2022-09-12
+Disc: 1
+Title: Galib
+Track: 2
+Format: 44100:16:2
+mtime: 1767131076
+added: 1767383086
+song_end
+song_begin: 051. Maninder Buttar - Ik Tera.flac
+Time: 160.768
+Album: Ik Tera
+AlbumArtist: Maninder Buttar
+Artist: Maninder Buttar
+Composer: Mixsingh
+Date: 2019-08-22
+Disc: 1
+Title: Ik Tera
+Track: 1
+Format: 44100:16:2
+mtime: 1767139951
+added: 1767383086
+song_end
+song_begin: 031. Garry Sandhu - Illegal Weapon.flac
+Time: 230
+Album: Illegal Weapon
+AlbumArtist: Garry Sandhu; Jasmine Sandlas
+Artist: Garry Sandhu; Jasmine Sandlas
+Composer: Intense
+Date: 2017-09-25
+Disc: 1
+Title: Illegal Weapon
+Track: 1
+Format: 44100:16:2
+mtime: 1766781916
+added: 1766808271
+song_end
+song_begin: 047. Arjun Kanungo - Ilzaam (From the Album 'Industry').flac
+Time: 247.374
+Album: Ilzaam (From the Album 'Industry')
+AlbumArtist: Arjun Kanungo; King
+Artist: Arjun Kanungo; King
+Composer: King; Arjun Kanungo
+Date: 2022-04-07
+Disc: 1
+Title: Ilzaam (From the Album 'Industry')
+Track: 1
+Format: 48000:24:2
+mtime: 1766782471
+added: 1766808271
+song_end
+song_begin: 013. Kodaline - All I Want.flac
+Time: 305.746
+Album: In A Perfect World (Expanded Edition)
+AlbumArtist: Kodaline
+Artist: Kodaline
+Composer: Vincent May; Steve Garrigan; Mark Prendergast; James Flannigan
+Date: 2013-06-17
+Disc: 1
+Title: All I Want
+Track: 2
+Format: 44100:16:2
+mtime: 1766777846
+added: 1766808271
+song_end
+song_begin: 020. Benson Boone - In The Stars.flac
+Time: 216.41
+Album: In The Stars
+AlbumArtist: Benson Boone
+Artist: Benson Boone
+Date: 2022-04-29
+Disc: 1
+Title: In The Stars
+Track: 1
+Format: 48000:24:2
+mtime: 1766778329
+added: 1766808271
+song_end
+song_begin: 049. Bassnectar - Speakerbox (feat. Lafa Taylor).flac
+Time: 282.272
+Album: Into the Sun
+AlbumArtist: Bassnectar
+Artist: Bassnectar
+Composer: Lorin  Ashton
+Date: 2015-07-17
+Disc: 1
+Title: Speakerbox (feat. Lafa Taylor)
+Track: 4
+Format: 44100:16:2
+mtime: 1766782560
+added: 1766808271
+song_end
+song_begin: 085. Guru Randhawa - Ishq Tera.flac
+Time: 211.931
+Album: Ishq Tera
+AlbumArtist: Guru Randhawa
+Artist: Guru Randhawa
+Composer: Guru Randhawa
+Date: 2019-09-10
+Disc: 1
+Title: Ishq Tera
+Track: 1
+Format: 44100:16:2
+mtime: 1767141879
+added: 1767383086
+song_end
+song_begin: 046. Shaggy - It Wasn't Me (Vocal 12 Mix).flac
+Time: 231.493
+Album: It Wasn't Me
+AlbumArtist: Shaggy
+Artist: Shaggy
+Composer: Lonnie Jordan; Lee Oskar; Howard Scott; Orville Burrell; Ricardo Ducent; Brian Thompson; Charles Miller; Harold Ray Brown; Morris Dewayne Dickerson; Shaun "Sting" Pizzonia; Thomas Sylvester Allen
+Date: 2001-03-13
+Disc: 1
+Title: It Wasn't Me (Vocal 12" Mix)
+Track: 2
+Format: 44100:16:2
+mtime: 1766782397
+added: 1768312176
+song_end
+song_begin: 018. Alex & Sierra - Little Do You Know.flac
+Time: 185.20000000000002
+Album: It's About Us
+AlbumArtist: Alex & Sierra
+Artist: Alex & Sierra
+Composer: Ruth Anne Cunningham; Sierra Deaton; Toby GAD; Ali Tamposi
+Date: 2014-10-07
+Disc: 1
+Title: Little Do You Know
+Track: 7
+Format: 44100:16:2
+mtime: 1766778155
+added: 1766808271
+song_end
+song_begin: 037. Ravindra Jain - Mangal Bhavan Amangal Hari (Version 2).flac
+Time: 58.120000000000005
+Album: Jai Hanuman Gyan Gun Sagar
+AlbumArtist: Ravindra Jain; Siddharth Amit Bhavsar
+Artist: Ravindra Jain
+Composer: Prashant Pillai
+Date: 2022-03-19
+Disc: 1
+Title: Mangal Bhavan Amangal Hari (Version 2)
+Track: 18
+Format: 44100:16:2
+mtime: 1766781858
+added: 1766808271
+song_end
+song_begin: 08. Payal Dev - Tum Hi Aana (From Marjaavaan).flac
+Time: 249.126
+Album: Jamming With Jubin
+AlbumArtist: Jubin Nautiyal
+Artist: Payal Dev; Jubin Nautiyal
+Composer: Payal Dev; Kunaal Vermaa
+Date: 2024-11-05
+Disc: 1
+Title: Tum Hi Aana (From "Marjaavaan")
+Track: 7
+Format: 44100:16:2
+mtime: 1767035231
+added: 1768312177
+song_end
+song_begin: 001. Jubin Nautiyal - Tujhe Kitna Chahein Aur (Film Version) [From Kabir Singh].flac
+Time: 276.244
+Album: Jamming With Jubin
+AlbumArtist: Jubin Nautiyal
+Artist: Jubin Nautiyal; Mithoon
+Composer: Mithoon
+Date: 2024-11-05
+Disc: 1
+Title: Tujhe Kitna Chahein Aur (Film Version) [From "Kabir Singh"]
+Track: 16
+Format: 44100:16:2
+mtime: 1767129728
+added: 1768312177
+song_end
+song_begin: 093. B Praak - Jannat (From Sufna).flac
+Time: 220.5
+Album: Jannat (From "Sufna") - Single
+AlbumArtist: B Praak; Jaani
+Artist: B Praak; Jaani
+Composer: B Praak; Jaani
+Date: 2020-02-10
+Disc: 1
+Title: Jannat (From "Sufna")
+Track: 1
+Format: 44100:24:2
+mtime: 1767142061
+added: 1768312177
+song_end
+song_begin: 02. Aghori Muzik - Jay Jay Shiv Shambhu 3.flac
+Time: 358.87
+Album: Jay Jay Shiv Shambhu 3
+AlbumArtist: Aghori Muzik; K. Deep - Aghori Muzik; Kruz - Aghori Muzik
+Artist: Aghori Muzik; K. Deep - Aghori Muzik; Kruz - Aghori Muzik
+Composer: Kruz
+Date: 2023-02-11
+Disc: 1
+Title: Jay Jay Shiv Shambhu 3
+Track: 1
+Format: 44100:16:2
+mtime: 1767034028
+added: 1767383086
+song_end
+song_begin: 017. Labrinth - Jealous.flac
+Time: 287.693
+Album: Jealous - EP
+AlbumArtist: Labrinth
+Artist: Labrinth
+Composer: Timothy Mckenzie; Natalie Hemby; Josh Kear
+Date: 2014-11-23
+Disc: 1
+Title: Jealous
+Track: 1
+Format: 44100:16:2
+mtime: 1766778101
+added: 1766808271
+song_end
+song_begin: 101. Diljit Dosanjh - Jind Mahi.flac
+Time: 175
+Album: Jind Mahi
+AlbumArtist: Diljit Dosanjh
+Artist: Diljit Dosanjh
+Composer: Manni Sandhu
+Date: 2018-11-26
+Disc: 1
+Title: Jind Mahi
+Track: 1
+Format: 44100:16:2
+mtime: 1767144120
+added: 1767383086
+song_end
+song_begin: 038. Hardy Sandhu - Joker.flac
+Time: 317.892
+Album: Joker
+AlbumArtist: Hardy Sandhu
+Artist: Hardy Sandhu
+Composer: B Praak; Jaani
+Date: 2014-10-17
+Disc: 1
+Title: Joker
+Track: 1
+Format: 44100:16:2
+mtime: 1767136289
+added: 1767383086
+song_end
+song_begin: 03. Maroon 5 - Memories.flac
+Time: 189.486
+Album: JORDI (Deluxe)
+AlbumArtist: Maroon 5
+Artist: Maroon 5
+Composer: Adam Levine; Jordan Johnson; Vincent Ford; Jonathan Bellion; Jacob Kasher Hindlin; Stefan Johnson; Michael Pollack
+Date: 2021-06-11
+Disc: 1
+Title: Memories
+Track: 11
+Format: 44100:16:2
+mtime: 1767034013
+added: 1767383086
+song_end
+song_begin: 045. Harish Verma - Judaayi.flac
+Time: 198.172
+Album: Judaayi
+AlbumArtist: Harish Verma
+Artist: Harish Verma
+Composer: Kulshan Sandhu; Mix Singh
+Date: 2018-05-08
+Disc: 1
+Title: Judaayi
+Track: 1
+Format: 44100:16:2
+mtime: 1767139605
+added: 1767383086
+song_end
+song_begin: 007. Darshan Raval - Judaiyaan.flac
+Time: 202.222
+Album: Judaiyaan
+AlbumArtist: Darshan Raval
+Artist: Darshan Raval; Shreya Ghoshal
+Composer: Darshan Raval
+Date: 2020-11-09
+Disc: 1
+Title: Judaiyaan
+Track: 1
+Format: 44100:16:2
+mtime: 1767130376
+added: 1767383086
+song_end
+song_begin: 005. Kumar Sanu - Jab Koi Baat Bigad Jaye.flac
+Time: 473.514
+Album: Jurm (Original Motion Picture Soundtrack)
+AlbumArtist: Rajesh Roshan
+Artist: Kumar Sanu; Sadhana Sargam
+Composer: Rajesh Roshan
+Date: 1991-08-15
+Disc: 1
+Title: Jab Koi Baat Bigad Jaye
+Track: 1
+Format: 44100:16:2
+mtime: 1766778014
+added: 1766808271
+song_end
+song_begin: 035. Maninder Buttar - Kaali Hummer.flac
+Time: 206.95600000000002
+Album: Kaali Hummer
+AlbumArtist: Maninder Buttar
+Artist: Maninder Buttar
+Composer: Deep Jandu
+Date: 2018-03-10
+Disc: 1
+Title: Kaali Hummer
+Track: 1
+Format: 44100:16:2
+mtime: 1766781774
+added: 1766808271
+song_end
+song_begin: 002. Harvi - Kde Kde.flac
+Time: 200.065
+Album: Kde Kde
+AlbumArtist: Harvi
+Artist: Harvi
+Composer: Amrit
+Date: 2021-03-06
+Disc: 1
+Title: Kde Kde
+Track: 1
+Format: 44100:16:2
+mtime: 1766776849
+added: 1766808271
+song_end
+song_begin: 104. Akhil - Khaab.flac
+Time: 201.689
+Album: Khaab
+AlbumArtist: Akhil
+Artist: Akhil
+Composer: Bob
+Date: 2016-01-09
+Disc: 1
+Title: Khaab
+Track: 1
+Format: 44100:16:2
+mtime: 1767144209
+added: 1767383086
+song_end
+song_begin: 028. Jeet Gannguli - Khamoshiyan.flac
+Time: 335.709
+Album: Khamoshiyan (Original Motion Picture Soundtrack)
+AlbumArtist: Jeet Gannguli; Bobby-Imran; Ankit Tiwari
+Artist: Jeet Gannguli; Arijit Singh; Rashmi Virag
+Composer: Jeet Gannguli
+Date: 2014-12-29
+Disc: 1
+Title: Khamoshiyan
+Track: 1
+Format: 44100:16:2
+mtime: 1766779399
+added: 1766808271
+song_end
+song_begin: 021. Kambi Rajpuria - Kinna Kardi.flac
+Time: 184.39000000000001
+Album: Kinna Kardi
+AlbumArtist: Kambi Rajpuria; Avvy Sra
+Artist: Kambi Rajpuria; Avvy Sra
+Composer: Avvy Sra
+Date: 2020-10-14
+Disc: 1
+Title: Kinna Kardi
+Track: 1
+Format: 44100:16:2
+mtime: 1767131488
+added: 1767383086
+song_end
+song_begin: 023. Sanam - Kora Kagaz.flac
+Time: 203.99
+Album: Kora Kagaz - Single
+AlbumArtist: Sanam
+Artist: Sanam
+Date: 2015-09-11
+Disc: 1
+Title: Kora Kagaz
+Track: 1
+Format: 44100:16:2
+mtime: 1767131599
+added: 1767383086
+song_end
+song_begin: 049. B Praak - Kuch Bhi Ho Jaye.flac
+Time: 274.5
+Album: Kuch Bhi Ho Jaye
+AlbumArtist: B Praak
+Artist: B Praak
+Composer: B Praak
+Date: 2020-08-04
+Disc: 1
+Title: Kuch Bhi Ho Jaye
+Track: 1
+Format: 44100:16:2
+mtime: 1767139797
+added: 1767383086
+song_end
+song_begin: 074. Harrdy Sandhu - Kya Baat Ay.flac
+Time: 179.44400000000002
+Album: Kya Baat Ay
+AlbumArtist: Harrdy Sandhu; Jaani
+Artist: Harrdy Sandhu; Jaani
+Composer: B Praak
+Date: 2018-09-24
+Disc: 1
+Title: Kya Baat Ay
+Track: 1
+Format: 44100:16:2
+mtime: 1767141599
+added: 1767383086
+song_end
+song_begin: 029. B Praak - Kya Loge Tum.flac
+Time: 233.684
+Album: Kya Loge Tum
+AlbumArtist: B Praak; Jaani
+Artist: B Praak; Jaani
+Composer: Jaani
+Date: 2023-05-15
+Disc: 1
+Title: Kya Loge Tum
+Track: 1
+Format: 44100:16:2
+mtime: 1766780154
+added: 1766808271
+song_end
+song_begin: 026. Papon - Kyun Kiya.flac
+Time: 303.157
+Album: Kyun Kiya
+AlbumArtist: Papon
+Artist: Papon
+Composer: Raaj Aashoo
+Date: 2023-02-14
+Disc: 1
+Title: Kyun Kiya
+Track: 1
+Format: 48000:24:2
+mtime: 1766779110
+added: 1766808271
+song_end
+song_begin: 092. Akull - Laal Chunariya.flac
+Time: 199.578
+Album: Laal Chunariya
+AlbumArtist: Akull
+Artist: Akull
+Composer: Akull
+Date: 2020-03-18
+Disc: 1
+Title: Laal Chunariya
+Track: 1
+Format: 44100:16:2
+mtime: 1767142030
+added: 1767383086
+song_end
+song_begin: 079. Maninder Buttar - Laare.flac
+Time: 270.545
+Album: Laare
+AlbumArtist: Maninder Buttar; Jaani
+Artist: Maninder Buttar; Jaani
+Composer: B Praak
+Date: 2019-10-22
+Disc: 1
+Title: Laare
+Track: 1
+Format: 44100:16:2
+mtime: 1767141734
+added: 1767383086
+song_end
+song_begin: 024. Diljit Dosanjh - Laembadgini.flac
+Time: 186.357
+Album: Laembadgini - Single
+AlbumArtist: Diljit Dosanjh
+Artist: Diljit Dosanjh
+Date: 2016-12-20
+Disc: 1
+Title: Laembadgini
+Track: 1
+Format: 44100:16:2
+mtime: 1766780331
+added: 1766808271
+song_end
+song_begin: 023. The Doorbeen - Lamberghini.flac
+Time: 216.999
+Album: Lamberghini - Single
+AlbumArtist: The Doorbeen
+Artist: The Doorbeen
+Date: 2018-02-26
+Disc: 1
+Title: Lamberghini
+Track: 1
+Format: 44100:16:2
+mtime: 1766780206
+added: 1766808271
+song_end
+song_begin: 076. Mannat Noor - Laung Laachi Title Track.flac
+Time: 160.635
+Album: Laung Laachi
+AlbumArtist: Gurmeet Singh
+Artist: Mannat Noor
+Composer: Gurmeet Singh; Harmanjit
+Date: 2018-03-08
+Disc: 1
+Title: Laung Laachi Title Track
+Track: 1
+Format: 44100:16:2
+mtime: 1767141664
+added: 1767383086
+song_end
+song_begin: 04. Vinay Katoch - Layak.flac
+Time: 281.664
+Album: Layak
+AlbumArtist: Vinay Katoch; Vineet Katoch
+Artist: Vinay Katoch
+Composer: Vinay Katoch
+Date: 2021-08-03
+Disc: 1
+Title: Layak
+Track: 1
+Format: 44100:16:2
+mtime: 1767034948
+added: 1767383086
+song_end
+song_begin: Curtis Stigers - Let's Go Out Tonight - 01-02 Everyone Loves Lovers.m4a
+Time: 241.4
+Artist: Curtis Stigers
+Album: Let's Go Out Tonight
+Title: Everyone Loves Lovers
+Track: 2
+Date: 2012
+Disc: 1
+AlbumArtist: Curtis Stigers
+Format: 44100:f:2
+mtime: 1767830388
+added: 1768312177
+song_end
+song_begin: Curtis Stigers - Let's Go Out Tonight - 01-04 Goodbye.m4a
+Time: 283.133
+Artist: Curtis Stigers
+Album: Let's Go Out Tonight
+Title: Goodbye
+Track: 4
+Date: 2012
+Disc: 1
+AlbumArtist: Curtis Stigers
+Format: 44100:f:2
+mtime: 1767830732
+added: 1768312176
+song_end
+song_begin: Curtis Stigers - Let's Go Out Tonight - 01-06 This Bitter Earth.m4a
+Time: 202.733
+Artist: Curtis Stigers
+Album: Let's Go Out Tonight
+Title: This Bitter Earth
+Track: 6
+Date: 2012
+Disc: 1
+AlbumArtist: Curtis Stigers
+Format: 44100:f:2
+mtime: 1767831605
+added: 1768312177
+song_end
+song_begin: Curtis Stigers - Let's Go Out Tonight - 01-07 Waltzing's For Dreamers.m4a
+Time: 262.107
+Artist: Curtis Stigers
+Album: Let's Go Out Tonight
+Title: Waltzing's For Dreamers
+Track: 7
+Date: 2012
+Disc: 1
+AlbumArtist: Curtis Stigers
+Format: 44100:f:2
+mtime: 1767831792
+added: 1768312176
+song_end
+song_begin: Curtis Stigers - Let's Go Out Tonight - 01-10 Let's Go Out Tonight.m4a
+Time: 310.96
+Artist: Curtis Stigers
+Album: Let's Go Out Tonight
+Title: Let's Go Out Tonight
+Track: 10
+Date: 2012
+Disc: 1
+AlbumArtist: Curtis Stigers
+Format: 44100:f:2
+mtime: 1767833194
+added: 1768312177
+song_end
+song_begin: 022. Garry Sandhu - Like You (Tere Jaisi).flac
+Time: 190.51500000000001
+Album: Like You (Tere Jaisi)
+AlbumArtist: Garry Sandhu; Rahul Sathu; Loco Ink
+Artist: Garry Sandhu; Rahul Sathu; Loco Ink
+Composer: Rahul Sathu
+Date: 2019-10-07
+Disc: 1
+Title: Like You (Tere Jaisi)
+Track: 1
+Format: 44100:16:2
+mtime: 1766780177
+added: 1766808271
+song_end
+song_begin: Mike + The Mechanics - The Living Years.m4a
+Time: 330.267
+Artist: Mike + The Mechanics
+Album: Living Years
+Title: The Living Years
+Track: 2
+Date: 2014
+Disc: 1
+AlbumArtist: Mike + The Mechanics
+Format: 44100:f:2
+mtime: 1766681003
+added: 1766682184
+song_end
+song_begin: 106. Arijit Singh - Dekh Lena (From Tum Bin 2).flac
+Time: 281.52500000000003
+Album: Loveholic Arijit Singh
+AlbumArtist: Arijit Singh
+Artist: Arijit Singh; Tulsi Kumar
+Composer: Ankit Tiwari; Manoj Muntashir
+Date: 2019-04-15
+Disc: 1
+Title: Dekh Lena (From "Tum Bin 2")
+Track: 20
+Format: 44100:16:2
+mtime: 1767144260
+added: 1768312176
+song_end
+song_begin: 042. Ammy Virk - Main Suneya.flac
+Time: 248.59
+Album: Main Suneya
+AlbumArtist: Ammy Virk
+Artist: Ammy Virk
+Composer: Sunny Vik; Raj Fatehpur
+Date: 2020-05-28
+Disc: 1
+Title: Main Suneya
+Track: 1
+Format: 44100:16:2
+mtime: 1767136535
+added: 1767383086
+song_end
+song_begin: Surinder Kaur - Main Tenu.flac
+Time: 213.53900000000002
+Album: Main Tenu
+AlbumArtist: Asa Singh Mastana; Surinder Kaur; Sarab
+Artist: Asa Singh Mastana; Surinder Kaur
+Date: 2024-05-22
+Genre: Punjabi Pop
+Label: Saregama India Ltd
+Title: Main Tenu
+Track: 1
+Format: 44100:16:2
+mtime: 1744152515
+added: 1766294900
+song_end
+song_begin: 057. Millind Gaba - Main Teri Ho Gayi.flac
+Time: 289.933
+Album: Main Teri Ho Gayi - Single
+AlbumArtist: Millind Gaba
+Artist: Millind Gaba
+Date: 2017-09-15
+Disc: 1
+Title: Main Teri Ho Gayi
+Track: 1
+Format: 44100:16:2
+mtime: 1767140655
+added: 1767383086
+song_end
+song_begin: 050. Armaan Bedil - Main Vichara.flac
+Time: 251.294
+Album: Main Vichara - Single
+AlbumArtist: Armaan Bedil
+Artist: Armaan Bedil
+Date: 2018-06-14
+Disc: 1
+Title: Main Vichara
+Track: 1
+Format: 44100:16:2
+mtime: 1766782608
+added: 1766808271
+song_end
+song_begin: 15. Jonas Blue - Mama.flac
+Time: 184.133
+Album: Mama
+AlbumArtist: Jonas Blue; William Singe
+Artist: Jonas Blue; William Singe
+Composer: Sam Roman; Ed Drewett; Guy James Robin
+Date: 2017-05-05
+Disc: 1
+Title: Mama
+Track: 1
+Format: 44100:16:2
+mtime: 1767040340
+added: 1767383086
+song_end
+song_begin: Agam Aggarwal - Mangal Bhavan Amangal Haari Ramayan Title Song 1987.m4a
+Time: 159.429
+Artist: Agam Aggarwal
+Album: Mangal Bhavan Amangal Haari Ramayan Title Song 1987
+Title: Mangal Bhavan Amangal Haari Ramayan Title Song 1987
+Track: 1
+Date: 2022
+Disc: 1
+AlbumArtist: Agam Aggarwal
+Format: 44100:f:2
+mtime: 1766679849
+added: 1766680225
+song_end
+song_begin: 044. B Praak - Mann Bharrya.flac
+Time: 276.584
+Album: Mann Bharrya - Single
+AlbumArtist: B Praak
+Artist: B Praak
+Date: 2017-03-16
+Disc: 1
+Title: Mann Bharrya
+Track: 1
+Format: 44100:16:2
+mtime: 1767138544
+added: 1767383086
+song_end
+song_begin: 025. Jubin Nautiyal - Tum Hi Aana (Sad Version).flac
+Time: 83.169
+Album: Marjaavaan
+AlbumArtist: Various Artists
+Artist: Jubin Nautiyal
+Composer: Payal Dev; Kunaal Vermaa
+Date: 2020-01-14
+Disc: 1
+Title: Tum Hi Aana (Sad Version)
+Track: 8
+Format: 44100:16:2
+mtime: 1766779065
+added: 1766808271
+song_end
+song_begin: 08. Kishore Kumar - Mere Sapnon Ki Rani (From Aradhana).flac
+Time: 300.64
+Album: Matinee Star Rajesh Khanna
+AlbumArtist: Various Artists
+Artist: Kishore Kumar
+Composer: S.  D.  Burman
+Date: 2018-04-24
+Disc: 1
+Title: Mere Sapnon Ki Rani (From "Aradhana")
+Track: 3
+Format: 44100:16:2
+mtime: 1767035574
+added: 1768312177
+song_end
+song_begin: 006. Sachet Tandon - Bekhayali (From Kabir Singh).flac
+Time: 371.79
+Album: Mauja Hi Mauja With Shahid Kapoor
+AlbumArtist: Shahid Kapoor
+Artist: Sachet Tandon; Sachet-Parampara
+Composer: Sachet-Parampara; IRSHAD KAMIL
+Date: 2024-11-08
+Disc: 1
+Title: Bekhayali (From "Kabir Singh")
+Track: 1
+Format: 44100:16:2
+mtime: 1767130336
+added: 1768312177
+song_end
+song_begin: Akhil Sachdeva - Tera Ban Jaunga.flac
+Time: 236.436
+Album: Mauja Hi Mauja With Shahid Kapoor
+AlbumArtist: Shahid Kapoor
+Artist: Akhil Sachdeva; Tulsi Kumar
+Composer: Akhil Sachdeva; Kumaar
+Date: 2024-11-08
+Disc: 1
+Title: Tera Ban Jaunga (From "Kabir Singh")
+Track: 2
+Format: 44100:16:2
+mtime: 1767129777
+added: 1768312176
+song_end
+song_begin: 004. Arijit Singh - Tujhe Kitna Chahne Lage (From Kabir Singh).flac
+Time: 284.779
+Album: Mauja Hi Mauja With Shahid Kapoor
+AlbumArtist: Shahid Kapoor
+Artist: Arijit Singh; Mithoon
+Composer: Mithoon
+Date: 2024-11-08
+Disc: 1
+Title: Tujhe Kitna Chahne Lage (From "Kabir Singh")
+Track: 4
+Format: 44100:16:2
+mtime: 1767129862
+added: 1768312177
+song_end
+song_begin: 005. Vishal Mishra - Kaise Hua (From Kabir Singh).flac
+Time: 234.722
+Album: Mauja Hi Mauja With Shahid Kapoor
+AlbumArtist: Shahid Kapoor
+Artist: Vishal Mishra
+Composer: Vishal Mishra; Manoj Muntashir
+Date: 2024-11-08
+Disc: 1
+Title: Kaise Hua (From "Kabir Singh")
+Track: 12
+Format: 44100:16:2
+mtime: 1767129923
+added: 1768312177
+song_end
+song_begin: 003. Shivam Pathak - Ek Dil Ek Jaan (From Padmaavat).flac
+Time: 219.869
+Album: Mauja Hi Mauja With Shahid Kapoor
+AlbumArtist: Shahid Kapoor
+Artist: Shivam Pathak; Sanjay Leela Bhansali
+Composer: Sanjay Leela Bhansali; A.M. Turaz
+Date: 2024-11-08
+Disc: 1
+Title: Ek Dil Ek Jaan (From "Padmaavat")
+Track: 16
+Format: 44100:16:2
+mtime: 1766778885
+added: 1768312177
+song_end
+song_begin: 055. Rochak Kohli - Mausama.flac
+Time: 249.374
+Album: Mausama
+AlbumArtist: Rochak Kohli
+Artist: Rochak Kohli
+Composer: Rochak Kohli
+Date: 2020-08-18
+Disc: 1
+Title: Mausama
+Track: 1
+Format: 44100:16:2
+mtime: 1767140179
+added: 1767383086
+song_end
+song_begin: 007. Kishore Kumar - Tera Mujhse (From “Aa Gale Lag Jaa”).flac
+Time: 340.173
+Album: Melodies of Kishore Kumar
+AlbumArtist: Kishore Kumar
+Artist: Kishore Kumar; R. D. Burman
+Composer: Rahul Dev Burman
+Date: 2023-11-14
+Disc: 1
+Title: Tera Mujhse (From “Aa Gale Lag Jaa”)
+Track: 18
+Format: 44100:16:2
+mtime: 1766778553
+added: 1766808271
+song_end
+song_begin: Negramaro - Mentre Tutto Scorre (Deluxe Version) - 01-07 Ogni Mio Istante.m4a
+Time: 263.24
+Artist: Negramaro
+Album: Mentre Tutto Scorre (Deluxe Version)
+Title: Ogni Mio Istante
+Track: 7
+Date: 2020
+Disc: 1
+AlbumArtist: Negramaro
+Format: 44100:f:2
+mtime: 1767966211
+added: 1768312176
+song_end
+song_begin: Negramaro - Mentre Tutto Scorre (Deluxe Version) - 01-12 Solo Per Te.m4a
+Time: 244.692
+Artist: Negramaro
+Album: Mentre Tutto Scorre (Deluxe Version)
+Title: Solo Per Te
+Track: 12
+Date: 2020
+Disc: 1
+AlbumArtist: Negramaro
+Format: 44100:f:2
+mtime: 1768051480
+added: 1768312177
+song_end
+song_begin: Mukesh - Jeena Yahan Marna Yahan.m4a
+Time: 268.899
+Artist: Mukesh
+Album: Mera Naam Joker (Original Motion Picture Soundtrack)
+Title: Jeena Yahan Marna Yahan
+Track: 3
+Date: 2018
+Disc: 1
+AlbumArtist: Mukesh
+Format: 44100:f:2
+mtime: 1766681802
+added: 1766682184
+song_end
+song_begin: 11. RAHAT FATEH ALI KHAN - Meray Pass Tum Ho (Original Motion Picture Soundtrack).flac
+Time: 300
+Album: Meray Pass Tum Ho (Original Motion Picture Soundtrack)
+AlbumArtist: RAHAT FATEH ALI KHAN
+Artist: RAHAT FATEH ALI KHAN
+Composer: Khalil Ur Rehman Qamar
+Date: 2023-08-01
+Disc: 1
+Title: Meray Pass Tum Ho (Original Motion Picture Soundtrack)
+Track: 1
+Format: 44100:16:2
+mtime: 1767035349
+added: 1767383086
+song_end
+song_begin: 16. Madhur Sharma - Mere Baad Kisko Sataoge (Lofi).flac
+Time: 107.72
+Album: Mere Baad Kisko Sataoge (Lofi)
+AlbumArtist: Madhur Sharma; Nusrat Fateh Ali Khan
+Artist: Madhur Sharma; Nusrat Fateh Ali Khan
+Composer: Nusrat Fateh Ali Khan
+Date: 2024-10-30
+Disc: 1
+Title: Mere Baad Kisko Sataoge (Lofi)
+Track: 1
+Format: 44100:16:2
+mtime: 1767036251
+added: 1767383086
+song_end
+song_begin: 011. Anuv Jain - Mishri.flac
+Time: 200.437
+Album: Mishri
+AlbumArtist: Anuv Jain
+Artist: Anuv Jain
+Composer: Anuv Jain
+Date: 2023-10-05
+Disc: 1
+Title: Mishri
+Track: 1
+Format: 96000:24:2
+mtime: 1766777616
+added: 1766808271
+song_end
+song_begin: 20. Rekha Bhardwaj - Aise Kyun (Ghazal Version).flac
+Time: 329.08
+Album: Mismatched: Season 2 (Soundtrack from the Netflix Series)
+AlbumArtist: Mismatched - Cast
+Artist: Rekha Bhardwaj; Anurag Saikia; Raj Shekhar; Mismatched - Cast
+Composer: Raj Shekhar; Anurag Saikia
+Date: 2022-09-30
+Disc: 1
+Title: Aise Kyun (Ghazal Version)
+Track: 4
+Format: 44100:16:2
+mtime: 1767039544
+added: 1767383086
+song_end
+song_begin: Windows Are Rolled Down.opus
+Time: 237.24
+Title: Windows Are Rolled Down
+Album: Mission Bell
+AlbumArtist: Amos Lee
+Artist: Amos Lee
+Track: 2
+Disc: 1
+Date: 2011-01-21
+Genre: Pop
+Genre: Singer Songwriter
+Format: 48000:16:2
+mtime: 1766296160
+added: 1766296566
+song_end
+song_begin: James Taylor - You've Got a Friend.m4a
+Time: 268.707
+Artist: James Taylor
+Album: Mud Slide Slim and the Blue Horizon
+Title: You've Got a Friend
+Track: 2
+Date: 2008
+Disc: 1
+AlbumArtist: James Taylor
+Format: 44100:f:2
+mtime: 1766681065
+added: 1766682184
+song_end
+song_begin: 028. Parmish Verma - Munde Pind De.flac
+Time: 166.446
+Album: Munde Pind De
+AlbumArtist: Parmish Verma
+Artist: Parmish Verma
+Composer: Azeem Mann; Agam Mann
+Date: 2020-07-03
+Disc: 1
+Title: Munde Pind De
+Track: 1
+Format: 44100:16:2
+mtime: 1767132708
+added: 1767383086
+song_end
+song_begin: Frank Sinatra - My Way.m4a
+Time: 276.8
+Artist: Frank Sinatra
+Album: My Way (Expanded Edition)
+Title: My Way
+Track: 6
+Date: 2013
+Disc: 1
+AlbumArtist: Frank Sinatra
+Format: 44100:f:2
+mtime: 1766681079
+added: 1766682184
+song_end
+song_begin: 047. Tony Kakkar - Naagin Jaisi Kamar Hila (From Sangeetkaar).flac
+Time: 112.8
+Album: Naagin Jaisi Kamar Hila (From "Sangeetkaar")
+AlbumArtist: Tony Kakkar
+Artist: Tony Kakkar
+Composer: Tony Kakkar
+Date: 2019-12-02
+Disc: 1
+Title: Naagin Jaisi Kamar Hila (From "Sangeetkaar")
+Track: 1
+Format: 44100:16:2
+mtime: 1767139731
+added: 1768312177
+song_end
+song_begin: 071. Harrdy Sandhu - Naah.flac
+Time: 190
+Album: Naah
+AlbumArtist: Harrdy Sandhu; Jaani
+Artist: Harrdy Sandhu; Jaani
+Composer: B Praak
+Date: 2017-11-30
+Disc: 1
+Title: Naah
+Track: 1
+Format: 44100:16:2
+mtime: 1767141513
+added: 1767383086
+song_end
+song_begin: 029. Gippy Grewal - Nach Nach.flac
+Time: 153.204
+Album: Nach Nach
+AlbumArtist: Gippy Grewal
+Artist: Gippy Grewal
+Composer: Kulshaan Sandhu
+Date: 2020-04-16
+Disc: 1
+Title: Nach Nach
+Track: 1
+Format: 44100:24:2
+mtime: 1767132772
+added: 1767383086
+song_end
+song_begin: Kamaal Ho Gea (From Kamaal Ho Gea).opus
+Time: 296.14
+Title: Kamaal Ho Gea (From "Kamaal Ho Gea")
+Album: Nachan Nu Jee Karda - Lohri Hits 2022
+AlbumArtist: VARIOUS ARTISTS
+Artist: VARIOUS ARTISTS
+Artist: Satinder Sartaaj
+Track: 8
+Disc: 1
+Date: 2022-01-13
+Genre: India
+Genre: Pakistan
+Genre: Bollywood
+Genre: International
+Format: 48000:16:2
+mtime: 1766296035
+added: 1766296566
+song_end
+song_begin: Rajesh Murugesan & Shabareesh Varma - Neram (Original Motion Picture Soundtrack) - 01-07 Pistah.m4a
+Time: 146.982
+Artist: Rajesh Murugesan; Shabareesh Varma
+Album: Neram (Original Motion Picture Soundtrack)
+Title: Pistah
+Track: 7
+Date: 2016
+Disc: 1
+AlbumArtist: Rajesh Murugesan
+Format: 44100:f:2
+mtime: 1766679889
+added: 1766680225
+song_end
+song_begin: 06. XXXTENTACION - changes.flac
+Time: 121.886
+Album: New Year's Resolutions 2024
+AlbumArtist: Various Artists
+Artist: XXXTENTACION
+Composer: Rakim Allen; Jahseh Onfroy; John Cunningham
+Date: 2024-01-02
+Disc: 1
+Title: changes
+Track: 12
+Format: 44100:16:2
+mtime: 1767035468
+added: 1767383086
+song_end
+song_begin: 010. Pritam - Tune Jo Na Kaha.flac
+Time: 310.073
+Album: New York
+AlbumArtist: Pritam; Pankaj Awasthi
+Artist: Pritam; Mohit Chauhan; Sandeep Shrivastava
+Composer: Pritam; Pankaj Awasthi
+Date: 2009-06-10
+Disc: 1
+Title: Tune Jo Na Kaha
+Track: 3
+Format: 44100:16:2
+mtime: 1766779132
+added: 1766808271
+song_end
+song_begin: 020. Jass Manak - Butterfly.flac
+Time: 151.911
+Album: No Competition
+AlbumArtist: Jass Manak
+Artist: Jass Manak
+Composer: Jass Manak
+Date: 2020-08-19
+Disc: 1
+Title: Butterfly
+Track: 2
+Format: 44100:16:2
+mtime: 1767131446
+added: 1767383086
+song_end
+song_begin: 068. Jass Manak - Butterfly.flac
+Time: 151.911
+Album: No Competition
+AlbumArtist: Jass Manak
+Artist: Jass Manak
+Composer: Jass Manak
+Date: 2020-08-19
+Disc: 1
+Title: Butterfly
+Track: 2
+Format: 44100:16:2
+mtime: 1767141386
+added: 1767383086
+song_end
+song_begin: The Marías - No One Noticed - 01-01 No One Noticed.flac
+Time: 236.906
+Title: No One Noticed
+Artist: The Marías
+AlbumArtist: The Marías
+Album: No One Noticed
+Track: 1
+Disc: 1
+Date: 2024
+Format: 44100:16:2
+mtime: 1766295738
+added: 1766296566
+song_end
+song_begin: 12. ZAYN - Tightrope.flac
+Time: 204.746
+Album: Nobody Is Listening
+AlbumArtist: ZAYN
+Artist: ZAYN
+Composer: Ernest Keith Smith; Shakeel Badayuni; Zayn Malik; David Ryan Harris; Ravi Badayuni; Jacob Durrett
+Date: 2021-01-15
+Disc: 1
+Title: Tightrope
+Track: 10
+Format: 44100:24:2
+mtime: 1767035635
+added: 1767383086
+song_end
+song_begin: 07. AJR - World's Smallest Violin.flac
+Time: 180.742
+Album: OK ORCHESTRA
+AlbumArtist: AJR
+Artist: AJR
+Composer: Jack Met; Adam Met; Ryan Met
+Date: 2021-03-26
+Disc: 1
+Title: World's Smallest Violin
+Track: 11
+Format: 44100:16:2
+mtime: 1767035197
+added: 1767383086
+song_end
+song_begin: 016. Calum Scott - You Are The Reason.flac
+Time: 204.326
+Album: Only Human (Deluxe)
+AlbumArtist: Calum Scott
+Artist: Calum Scott
+Composer: Corey Sanders; Calum Scott; Jon Maguire
+Date: 2018-03-09
+Disc: 1
+Title: You Are The Reason
+Track: 4
+Format: 44100:24:2
+mtime: 1766778030
+added: 1766808271
+song_end
+song_begin: 09. Indravathi Chauhan - Oo Antava Oo Oo Antava (From Pushpa - The Rise (Part - 01)).flac
+Time: 223.32500000000002
+Album: Oo Antava Oo Oo Antava (From "Pushpa - The Rise (Part - 01)")
+AlbumArtist: Indravathi Chauhan; Devi Sri Prasad
+Artist: Indravathi Chauhan; Devi Sri Prasad
+Composer: Devi Sri Prasad
+Date: 2021-12-10
+Disc: 1
+Title: Oo Antava Oo Oo Antava (From "Pushpa - The Rise (Part - 01)")
+Track: 1
+Format: 44100:16:2
+mtime: 1767035029
+added: 1768312177
+song_end
+song_begin: 025. Jassi Gill - Oye Hoye Hoye.flac
+Time: 172.33
+Album: Oye Hoye Hoye
+AlbumArtist: Jassi Gill; Simar Kaur
+Artist: Jassi Gill; Simar Kaur
+Composer: Happy Raikoti; Avvysra
+Date: 2021-03-12
+Disc: 1
+Title: Oye Hoye Hoye
+Track: 1
+Format: 44100:16:2
+mtime: 1766780357
+added: 1766808271
+song_end
+song_begin: 01. Aghori Muzik - Jay Jay Shiv Shambhu 2.flac
+Time: 283.698
+Album: Panchayat
+AlbumArtist: Aghori Muzik
+Artist: Aghori Muzik
+Composer: Kruz
+Date: 2020-12-12
+Disc: 1
+Title: Jay Jay Shiv Shambhu 2
+Track: 10
+Format: 44100:16:2
+mtime: 1767033974
+added: 1767383086
+song_end
+song_begin: Kabir Cafe - Panchrang - 01-02 Matkar Maya Ko Ahankar.m4a
+Time: 365.673
+Artist: Kabir Cafe
+Album: Panchrang
+Title: Matkar Maya Ko Ahankar
+Track: 2
+Date: 2016
+Disc: 1
+AlbumArtist: Kabir Cafe
+Format: 44100:f:2
+mtime: 1766678859
+added: 1766680097
+song_end
+song_begin: 005. Kulwinder Billa - Tich Button.flac
+Time: 207.513
+Album: Parahuna
+AlbumArtist: The Boss
+Artist: Kulwinder Billa
+Composer: The Boss
+Date: 2018-10-09
+Disc: 1
+Title: Tich Button
+Track: 1
+Format: 44100:16:2
+mtime: 1766779519
+added: 1766808271
+song_end
+song_begin: 064. Mohammed Rafi - Pathar Ke Sanam.flac
+Time: 297.88
+Album: Patthar Ke Sanam (Original Motion Picture Soundtrack)
+AlbumArtist: Laxmikant - Pyarelal
+Artist: Mohammed Rafi
+Composer: Laxmikant - Pyarelal
+Date: 1967-12-01
+Disc: 1
+Title: Pathar Ke Sanam
+Track: 2
+Format: 44100:16:2
+mtime: 1767140936
+added: 1767383086
+song_end
+song_begin: 012. Mukesh - Tauba Yeh Matwali Chaal.flac
+Time: 442.16
+Album: Patthar Ke Sanam (Original Motion Picture Soundtrack)
+AlbumArtist: Laxmikant - Pyarelal
+Artist: Mukesh
+Composer: Laxmikant - Pyarelal
+Date: 1967-12-01
+Disc: 1
+Title: Tauba Yeh Matwali Chaal
+Track: 3
+Format: 44100:16:2
+mtime: 1767131110
+added: 1767383086
+song_end
+song_begin: 07. Alex Brothers - Phantom.flac
+Time: 351.494
+Album: Phantom
+AlbumArtist: Alex Brothers
+Artist: Alex Brothers
+Date: 2017-01-21
+Disc: 1
+Title: Phantom
+Track: 1
+Format: 44100:16:2
+mtime: 1767035527
+added: 1767383086
+song_end
+song_begin: 022. Arijit Singh - Phir Na Aisi Raat Aayegi (From Laal Singh Chaddha).flac
+Time: 283.225
+Album: Phir Na Aisi Raat Aayegi (From "Laal Singh Chaddha")
+AlbumArtist: Arijit Singh
+Artist: Arijit Singh
+Composer: Pritam; Amitabh Bhattacharya
+Date: 2022-06-24
+Disc: 1
+Title: Phir Na Aisi Raat Aayegi (From "Laal Singh Chaddha")
+Track: 1
+Format: 44100:16:2
+mtime: 1766778820
+added: 1768312177
+song_end
+song_begin: Fareed Ayaz Abu Muhammad Qawwal - Piya Ghar Aaya (Coke Studio Season 11) - 01-01 Piya Ghar Aaya (Coke Studio Season 11).m4a
+Time: 784.696
+Artist: Fareed Ayaz Abu Muhammad Qawwal
+Album: Piya Ghar Aaya (Coke Studio Season 11)
+Title: Piya Ghar Aaya (Coke Studio Season 11)
+Track: 1
+Date: 2025
+Disc: 1
+AlbumArtist: Fareed Ayaz Abu Muhammad Qawwal
+Format: 44100:f:2
+mtime: 1766678600
+added: 1766680097
+song_end
+song_begin: 039. Jass Manak - Prada.flac
+Time: 182.115
+Album: Prada
+AlbumArtist: Jass Manak
+Artist: Jass Manak
+Composer: Jass Manak
+Date: 2018-06-13
+Disc: 1
+Title: Prada
+Track: 1
+Format: 48000:24:2
+mtime: 1767136354
+added: 1767383086
+song_end
+song_begin: 081. Jass Manak - Prada.flac
+Time: 182.115
+Album: Prada
+AlbumArtist: Jass Manak
+Artist: Jass Manak
+Composer: Jass Manak
+Date: 2018-06-13
+Disc: 1
+Title: Prada
+Track: 1
+Format: 48000:24:2
+mtime: 1767141779
+added: 1767383086
+song_end
+song_begin: 014. Harvi - Pta Mainu.flac
+Time: 164.666
+Album: Pta Mainu
+AlbumArtist: Harvi
+Artist: Harvi
+Composer: Harvi
+Date: 2022-04-05
+Disc: 1
+Title: Pta Mainu
+Track: 1
+Format: 48000:24:2
+mtime: 1766777915
+added: 1766808271
+song_end
+song_begin: Ustad Nusrat Fateh Ali Khan & Ustad Sultan Khan - Pukaar _ The Echo - 01-03 Main to piya se naina lagaa aayi re.m4a
+Time: 658.379
+Artist: Ustad Nusrat Fateh Ali Khan; Ustad Sultan Khan
+Album: Pukaar : The Echo
+Title: Main to piya se naina lagaa aayi re
+Track: 3
+Date: 2010
+Disc: 1
+AlbumArtist: Ustad Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1766678658
+added: 1766680097
+song_end
+song_begin: 098. Maninder Buttar - Sakhiyaan (Remix Version).flac
+Time: 185.166
+Album: Punjabi Dj Holi songs
+AlbumArtist: Various Artists
+Artist: Maninder Buttar
+Composer: Mixsingh
+Date: 2019-03-25
+Disc: 1
+Title: Sakhiyaan (Remix Version)
+Track: 1
+Format: 44100:16:2
+mtime: 1767142207
+added: 1767383086
+song_end
+song_begin: 020. Armaan Malik - Pyaar Manga Hai.flac
+Time: 286.152
+Album: Pyaar Manga Hai
+AlbumArtist: Armaan Malik; Neeti Mohan
+Artist: Armaan Malik; Neeti Mohan
+Composer: Abhijit Vaghani; Manoj Muntashir
+Date: 2016-08-03
+Disc: 1
+Title: Pyaar Manga Hai
+Track: 1
+Format: 44100:16:2
+mtime: 1766779999
+added: 1766808271
+song_end
+song_begin: 091. Jassie Gill - Pyaar Mangdi.flac
+Time: 244.09
+Album: Pyaar Mangdi
+AlbumArtist: Jassie Gill; Avvy Sra
+Artist: Jassie Gill; Avvy Sra
+Composer: Avvy Sra
+Date: 2020-09-15
+Disc: 1
+Title: Pyaar Mangdi
+Track: 1
+Format: 44100:16:2
+mtime: 1767142012
+added: 1767383086
+song_end
+song_begin: Nusrat Fateh Ali Khan - Qawwali - 01-06 Unse Hi Aaj Unki Mulaqaat Ho Gayi.m4a
+Time: 775.523
+Artist: Nusrat Fateh Ali Khan
+Album: Qawwali
+Title: Unse Hi Aaj Unki Mulaqaat Ho Gayi
+Track: 6
+Date: 2015
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1766678751
+added: 1766680097
+song_end
+song_begin: 043. Ammy Virk - Qismat.flac
+Time: 243.931
+Album: Qismat - Single
+AlbumArtist: Ammy Virk
+Artist: Ammy Virk
+Date: 2017-07-17
+Disc: 1
+Title: Qismat
+Track: 1
+Format: 44100:16:2
+mtime: 1767136603
+added: 1767383086
+song_end
+song_begin: 075. Ammy Virk - Qismat.flac
+Time: 243.931
+Album: Qismat - Single
+AlbumArtist: Ammy Virk
+Artist: Ammy Virk
+Date: 2017-07-17
+Disc: 1
+Title: Qismat
+Track: 1
+Format: 44100:16:2
+mtime: 1767141638
+added: 1767383086
+song_end
+song_begin: 007. B Praak - Dholna.flac
+Time: 226.451
+Album: Qismat (Original Motion Picture Soundtrack)
+AlbumArtist: Sukh-E Muzical Doctors; B Praak
+Artist: B Praak
+Composer: B Praak
+Date: 2018-09-21
+Disc: 1
+Title: Dholna
+Track: 6
+Format: 44100:16:2
+mtime: 1766779828
+added: 1766808271
+song_end
+song_begin: 02. Sharib Toshi - Maahi.flac
+Time: 329.106
+Album: RAAZ - The Mystery Continues (Original Motion Picture Soundtrack)
+AlbumArtist: Pranay M. Rijia; Sharib Toshi; Raju Singh
+Artist: Sharib Toshi; Toshi Sabri; Sayeed Quadri
+Composer: Toshi Sabri; Sharib Sabri
+Date: 2008-12-01
+Disc: 1
+Title: Maahi
+Track: 1
+Format: 44100:16:2
+mtime: 1767033937
+added: 1767383086
+song_end
+song_begin: 031. Kaka WRLD - Radha (Unconditional Love).flac
+Time: 324.669
+Album: Radha (Unconditional Love)
+AlbumArtist: Kaka WRLD
+Artist: Kaka WRLD
+Composer: Kaka WRLD
+Date: 2021-08-10
+Disc: 1
+Title: Radha (Unconditional Love)
+Track: 1
+Format: 44100:24:2
+mtime: 1766780625
+added: 1766808271
+song_end
+song_begin: 030. Mohammed Rafi - DARD-E-DIL DARD-E-JIGAR.flac
+Time: 417.24
+Album: Rafi Saab - Bouncers
+AlbumArtist: Asha Bhosle; Mohammed Rafi
+Artist: Mohammed Rafi
+Composer: Anand Bakshi
+Date: 2023-04-04
+Disc: 1
+Title: DARD-E-DIL DARD-E-JIGAR
+Track: 1
+Format: 44100:16:2
+mtime: 1766781867
+added: 1766808271
+song_end
+song_begin: 048. Rapperiya Baalam - Ram Doot.flac
+Time: 193.784
+Album: Ram Doot
+AlbumArtist: Rapperiya Baalam; Jagirdar RV
+Artist: Rapperiya Baalam; Jagirdar RV
+Composer: Jagirdar RV; Rapperiya Baalam
+Date: 2022-09-09
+Disc: 1
+Title: Ram Doot
+Track: 1
+Format: 44100:16:2
+mtime: 1766782522
+added: 1766808271
+song_end
+song_begin: Zain Zohaib - Ranjheya Ve.m4a
+Time: 278.474
+Artist: Zain Zohaib
+Album: Ranjheya Ve
+Title: Ranjheya Ve
+Track: 1
+Date: 2025
+Disc: 1
+AlbumArtist: Zain Zohaib
+Format: 44100:f:2
+mtime: 1766680942
+added: 1766682184
+song_end
+song_begin: 070. Jassi Gill - Bapu Zimidar.flac
+Time: 180.52700000000002
+Album: Replay
+AlbumArtist: Jassi Gill
+Artist: Jassi Gill
+Date: 2016-06-17
+Disc: 1
+Title: Bapu Zimidar
+Track: 2
+Format: 44100:16:2
+mtime: 1767141450
+added: 1767383086
+song_end
+song_begin: 04. Diljit Dosanjh - Thug Life.flac
+Time: 150.923
+Album: Roar
+AlbumArtist: Diljit Dosanjh
+Artist: Diljit Dosanjh
+Composer: Ranbir Singh
+Date: 2019-01-14
+Disc: 1
+Title: Thug Life
+Track: 3
+Format: 44100:24:2
+mtime: 1767034042
+added: 1767383086
+song_end
+song_begin: 007. Akhil - Rukh.flac
+Time: 203.80700000000002
+Album: Rukh - Single
+AlbumArtist: Akhil
+Artist: Akhil
+Date: 2017-08-16
+Disc: 1
+Title: Rukh
+Track: 1
+Format: 44100:16:2
+mtime: 1766777405
+added: 1766808271
+song_end
+song_begin: 001. Kishore Kumar - Saagar Jaisi Aankhonwali (From Saagar).flac
+Time: 303.40000000000003
+Album: Saagar (Original Motion Picture Soundtrack)
+AlbumArtist: Various Artists
+Artist: Kishore Kumar; R. D. Burman
+Composer: Rahul Dev Burman
+Date: 2008-01-01
+Disc: 1
+Title: Saagar Jaisi Aankhonwali (From "Saagar")
+Track: 4
+Format: 44100:16:2
+mtime: 1766777768
+added: 1768312177
+song_end
+song_begin: Kishore Kumar & R. D. Burman - Saagar Jaisi Aankhonwali (From Saagar).m4a
+Time: 303.40000000000003
+Artist: Kishore Kumar; R. D. Burman
+Album: Saagar (Original Motion Picture Soundtrack)
+Title: Saagar Jaisi Aankhonwali
+Track: 4
+Date: 2011
+Disc: 1
+AlbumArtist: Kishore Kumar
+Format: 44100:f:2
+mtime: 1766680507
+added: 1768312177
+song_end
+song_begin: Jagjit Singh & Javed Akhtar - Saath Saath (Original Motion Picture Soundtrack) - 01-01 Pyar Mujh Se Jo Kiya.m4a
+Time: 269.119
+Artist: Jagjit Singh; Javed Akhtar
+Album: Saath Saath (Original Motion Picture Soundtrack)
+Title: Pyar Mujh Se Jo Kiya
+Track: 1
+Date: 2018
+Disc: 1
+AlbumArtist: Jagjit Singh
+Format: 44100:f:2
+mtime: 1766677811
+added: 1766680097
+song_end
+song_begin: 026. B Praak - Sach Keh Raha Hai.flac
+Time: 223.334
+Album: Sach Keh Raha Hai - Single
+AlbumArtist: B Praak
+Artist: B Praak
+Composer: Sameer
+Date: 2020-05-22
+Disc: 1
+Title: Sach Keh Raha Hai
+Track: 1
+Format: 44100:16:2
+mtime: 1766781643
+added: 1766808271
+song_end
+song_begin: 040. Sachet Tandon - Ghamand Kar (From Tanhaji - The Unsung Warrior).flac
+Time: 282.822
+Album: Sachet - Parampara's Soul Soothers
+AlbumArtist: Sachet Tandon; Parampara Tandon
+Artist: Sachet Tandon; Parampara Tandon; Sachet-Parampara
+Composer: Sachet-Parampara; Anil Verma
+Date: 2024-11-05
+Disc: 1
+Title: Ghamand Kar (From "Tanhaji - The Unsung Warrior")
+Track: 7
+Format: 44100:16:2
+mtime: 1766782067
+added: 1768312177
+song_end
+song_begin: 019. Tulsi Kumar - Tanhaai (From Tanhaai).flac
+Time: 260.063
+Album: Sachet - Parampara's Soul Soothers
+AlbumArtist: Sachet Tandon; Parampara Tandon
+Artist: Tulsi Kumar; Sachet-Parampara
+Composer: Sayeed Quadri; Sachet-Parampara
+Date: 2024-11-05
+Disc: 1
+Title: Tanhaai (From "Tanhaai")
+Track: 17
+Format: 44100:16:2
+mtime: 1767131416
+added: 1768312177
+song_end
+song_begin: 24. Brijesh Shandilya - Bajrang Baan Superfast.flac
+Time: 231.195
+Album: Sada Bahar Bhajan, Vol. 1
+AlbumArtist: Brijesh Shandilya
+Artist: Brijesh Shandilya
+Date: 2015-05-14
+Disc: 1
+Title: Bajrang Baan Superfast
+Track: 2
+Format: 44100:16:2
+mtime: 1767040043
+added: 1767383086
+song_end
+song_begin: 017. Imran Khan - Satisfya.flac
+Time: 180.797
+Album: Satisfya
+AlbumArtist: Imran Khan
+Artist: Imran Khan
+Composer: Imran Khan
+Date: 2013-05-09
+Disc: 1
+Title: Satisfya
+Track: 1
+Format: 44100:16:2
+mtime: 1767131308
+added: 1767383086
+song_end
+song_begin: 056. Satinder Sartaaj - Udaarian.flac
+Time: 342.585
+Album: Seasons of Sartaaj
+AlbumArtist: Satinder Sartaaj
+Artist: Satinder Sartaaj
+Composer: Jatinder Shah
+Date: 2018-11-29
+Disc: 1
+Title: Udaarian
+Track: 5
+Format: 44100:16:2
+mtime: 1767140559
+added: 1767383086
+song_end
+song_begin: 066. Satinder Sartaaj - Matwaliye.flac
+Time: 289.478
+Album: Seven Rivers
+AlbumArtist: Satinder Sartaaj
+Artist: Satinder Sartaaj
+Composer: Beat Minister
+Date: 2021-06-15
+Disc: 1
+Title: Matwaliye
+Track: 4
+Format: 44100:16:2
+mtime: 1767141005
+added: 1767383086
+song_end
+song_begin: 041. Parmish Verma - Shadgi.flac
+Time: 192.391
+Album: Shadgi
+AlbumArtist: Parmish Verma
+Artist: Parmish Verma
+Composer: Mixsingh
+Date: 2020-11-06
+Disc: 1
+Title: Shadgi
+Track: 1
+Format: 44100:16:2
+mtime: 1767136466
+added: 1767383086
+song_end
+song_begin: 036. Sachet Tandon - Shiv Panchakshar Stotra.flac
+Time: 202.17600000000002
+Album: Shiv Panchakshar Stotra
+AlbumArtist: Sachet Tandon; Parampara Tandon
+Artist: Sachet Tandon; Parampara Tandon
+Composer: Sachet-Parampara; Traditional
+Date: 2021-11-24
+Disc: 1
+Title: Shiv Panchakshar Stotra
+Track: 1
+Format: 44100:16:2
+mtime: 1766781844
+added: 1766808271
+song_end
+song_begin: 03. Shankar Mahadevan - Shiv Tandav Stotram.flac
+Time: 553.227
+Album: Shiv Tandav Stotram - Single
+AlbumArtist: Shankar Mahadevan
+Artist: Shankar Mahadevan
+Date: 2016-03-01
+Disc: 1
+Title: Shiv Tandav Stotram
+Track: 1
+Format: 44100:16:2
+mtime: 1767034877
+added: 1767383086
+song_end
+song_begin: 006. Rahul Dev Burman - Mehbooba Mehbooba (From Sholay).flac
+Time: 234.24
+Album: Sholay (Original Motion Picture Soundtrack)
+AlbumArtist: Various Artists
+Artist: Rahul Dev Burman; R. D. Burman
+Composer: Rahul Dev Burman
+Date: 2008-01-01
+Disc: 1
+Title: Mehbooba Mehbooba (From "Sholay")
+Track: 6
+Format: 44100:16:2
+mtime: 1766778062
+added: 1768312177
+song_end
+song_begin: 041. Rapperiya Baalam - Shoorveer.flac
+Time: 237.947
+Album: Shoorveer
+AlbumArtist: Rapperiya Baalam; Rajneesh Jaipuri; Honey Trouper
+Artist: Rapperiya Baalam; Rajneesh Jaipuri; Honey Trouper
+Composer: Rapperiya Baalam
+Date: 2020-07-17
+Disc: 1
+Title: Shoorveer
+Track: 1
+Format: 48000:24:2
+mtime: 1766782112
+added: 1766808271
+song_end
+song_begin: Rapperiya Baalam, Rajneesh Jaipuri & Honey Trouper - Shoorveer - 01-01 Shoorveer.m4a
+Time: 237.947
+Artist: Rapperiya Baalam; Rajneesh Jaipuri; Honey Trouper
+Album: Shoorveer
+Title: Shoorveer
+Track: 1
+Date: 2020
+Disc: 1
+AlbumArtist: Rapperiya Baalam
+Format: 44100:f:2
+mtime: 1766679420
+added: 1766680225
+song_end
+song_begin: Rapperiya Baalam & Jagirdar RV - Shoorveer II - 01-01 Shoorveer II.m4a
+Time: 188.417
+Artist: Rapperiya Baalam; Jagirdar RV
+Album: Shoorveer II
+Title: Shoorveer II
+Track: 1
+Date: 2021
+Disc: 1
+AlbumArtist: Rapperiya Baalam
+Format: 44100:f:2
+mtime: 1766679444
+added: 1766680225
+song_end
+song_begin: 042. Rapperiya Baalam - Shoorveer III.flac
+Time: 213
+Album: Shoorveer III
+AlbumArtist: Rapperiya Baalam; SHAMBHO; Rajneesh Jaipuri; Jagirdar RV; Meetu Solanki
+Artist: Rapperiya Baalam; SHAMBHO; Rajneesh Jaipuri; Jagirdar RV; Meetu Solanki
+Composer: Rajneesh Jaipuri; Rapperiya Baalam; Jagirdar RV; SHAMBHO
+Date: 2022-02-19
+Disc: 1
+Title: Shoorveer III
+Track: 1
+Format: 44100:16:2
+mtime: 1766782191
+added: 1766808271
+song_end
+song_begin: Rapperiya Baalam, SHAMBHO, Rajneesh Jaipuri, Jagirdar RV & Meetu Solanki - Shoorveer III - 01-01 Shoorveer III.m4a
+Time: 213
+Artist: Rapperiya Baalam; SHAMBHO; Rajneesh Jaipuri; Jagirdar RV; Meetu Solanki
+Album: Shoorveer III
+Title: Shoorveer III
+Track: 1
+Date: 2022
+Disc: 1
+AlbumArtist: Rapperiya Baalam
+Format: 44100:f:2
+mtime: 1766679532
+added: 1766680225
+song_end
+song_begin: 22. Maanya Arora - Shree Shyam Kripa.flac
+Time: 226.848
+Album: Shree Shyam Kripa
+AlbumArtist: Maanya Arora; Shubham Bajoria
+Artist: Maanya Arora; Shubham Bajoria
+Composer: Shubham Rupam
+Date: 2025-03-07
+Disc: 1
+Title: Shree Shyam Kripa
+Track: 1
+Format: 44100:16:2
+mtime: 1767039613
+added: 1767383086
+song_end
+song_begin: 029. Hemant Kumar - Hai Apna Dil To Aawara (Happy Version).flac
+Time: 261.826
+Album: Solva Saal (Original Motion Picture Soundtrack)
+AlbumArtist: S.  D.  Burman
+Artist: Hemant Kumar
+Composer: S.  D.  Burman
+Date: 1958-12-31
+Disc: 1
+Title: Hai Apna Dil To Aawara (Happy Version)
+Track: 1
+Format: 44100:16:2
+mtime: 1766781825
+added: 1766808271
+song_end
+song_begin: 06. Nish - Standing By you.flac
+Time: 165.279
+Album: Standing By you
+AlbumArtist: Nish
+Artist: Nish
+Composer: Nishat Monsur
+Date: 2019-11-18
+Disc: 1
+Title: Standing By you
+Track: 1
+Format: 44100:16:2
+mtime: 1767035185
+added: 1767383086
+song_end
+song_begin: 012. Michael Learns To Rock - That's Why You Go Away.flac
+Time: 253.09300000000002
+Album: Strange Foreign Beauty
+AlbumArtist: Michael Learns To Rock
+Artist: Michael Learns To Rock
+Composer: Jascha Richter
+Date: 1999-08-30
+Disc: 1
+Title: That's Why You Go Away
+Track: 6
+Format: 44100:16:2
+mtime: 1766780568
+added: 1766808271
+song_end
+song_begin: 030. B Praak - Jannat.flac
+Time: 220.5
+Album: Sufna (Original Motion Picture Soundtrack)
+AlbumArtist: B Praak
+Artist: B Praak
+Composer: B Praak
+Date: 2020-02-18
+Disc: 1
+Title: Jannat
+Track: 6
+Format: 44100:24:2
+mtime: 1767133124
+added: 1767383086
+song_end
+song_begin: 103. B Praak - Channa Ve (From Sufna).flac
+Time: 173.478
+Album: Sufna & Other Hits
+AlbumArtist: Various Artists
+Artist: B Praak
+Composer: B Praak
+Date: 2020-02-21
+Disc: 1
+Title: Channa Ve (From "Sufna")
+Track: 1
+Format: 44100:24:2
+mtime: 1767144192
+added: 1768312176
+song_end
+song_begin: 10. B Praak - Qubool A (From Sufna).flac
+Time: 198.912
+Album: Sufna & Other Hits
+AlbumArtist: Various Artists
+Artist: B Praak; Hashmat Sultana
+Composer: B Praak
+Date: 2020-02-21
+Disc: 1
+Title: Qubool A (From "Sufna")
+Track: 4
+Format: 44100:24:2
+mtime: 1767036168
+added: 1768312176
+song_end
+song_begin: 11. B Praak - Jaan Deyan Ge (From Sufna).flac
+Time: 228.52100000000002
+Album: Sufna & Other Hits
+AlbumArtist: Various Artists
+Artist: B Praak; Ammy Virk
+Composer: B Praak
+Date: 2020-02-21
+Disc: 1
+Title: Jaan Deyan Ge (From "Sufna")
+Track: 5
+Format: 44100:24:2
+mtime: 1767036200
+added: 1768312177
+song_end
+song_begin: 005. B Praak - Rabba Ve (From High End Yaariyaan).flac
+Time: 210
+Album: Sufna & Other Hits
+AlbumArtist: Various Artists
+Artist: B Praak
+Composer: B Praak
+Date: 2020-02-21
+Disc: 1
+Title: Rabba Ve (From "High End Yaariyaan")
+Track: 7
+Format: 44100:24:2
+mtime: 1766777008
+added: 1768312176
+song_end
+song_begin: 102. Amrinder Gill - Supna.flac
+Time: 225.306
+Album: Supna
+AlbumArtist: Amrinder Gill
+Artist: Amrinder Gill
+Composer: B Praak
+Date: 2015-12-25
+Disc: 1
+Title: Supna
+Track: 1
+Format: 44100:16:2
+mtime: 1767144161
+added: 1767383086
+song_end
+song_begin: 016. Kamal Khan - Taare.flac
+Time: 245.448
+Album: Taare
+AlbumArtist: Kamal Khan
+Artist: Kamal Khan
+Composer: Subhan Ali
+Date: 2020-11-25
+Disc: 1
+Title: Taare
+Track: 1
+Format: 44100:16:2
+mtime: 1767131295
+added: 1767383086
+song_end
+song_begin: Cat Stevens - Tea For The Tillerman - 01-03 Wild World.m4a
+Time: 200.467
+Artist: Cat Stevens
+Album: Tea For The Tillerman
+Title: Wild World
+Track: 3
+Date: 2014
+Disc: 1
+AlbumArtist: Cat Stevens
+Format: 44100:f:2
+mtime: 1766679220
+added: 1766680225
+song_end
+song_begin: Cat Stevens - Father And Son.m4a
+Time: 221.273
+Artist: Cat Stevens
+Album: Tea For The Tillerman
+Title: Father And Son
+Track: 10
+Date: 2014
+Disc: 1
+AlbumArtist: Cat Stevens
+Format: 44100:f:2
+mtime: 1766681105
+added: 1766682184
+song_end
+song_begin: 037. Jordan Sandhu - Teeje Week.flac
+Time: 190.203
+Album: Teeje Week
+AlbumArtist: Jordan Sandhu; Bunty Bains
+Artist: Jordan Sandhu; Bunty Bains
+Composer: The Boss
+Date: 2018-02-12
+Disc: 1
+Title: Teeje Week
+Track: 1
+Format: 44100:16:2
+mtime: 1767136239
+added: 1767383086
+song_end
+song_begin: 018. Gajendra Verma - Tera Ghata.flac
+Time: 254.173
+Album: Tera Ghata
+AlbumArtist: Gajendra Verma
+Artist: Gajendra Verma
+Composer: Gajendra Verma
+Date: 2018-05-19
+Disc: 1
+Title: Tera Ghata
+Track: 1
+Format: 44100:16:2
+mtime: 1767131349
+added: 1767383086
+song_end
+song_begin: 06. Darshan Raval - Main Woh Chaand.flac
+Time: 322.809
+Album: Teraa Surroor
+AlbumArtist: Himesh Reshammiya
+Artist: Darshan Raval; Himesh Reshammiya
+Composer: Himesh Reshammiya; Sameer Anjaan
+Date: 2016-02-15
+Disc: 1
+Title: Main Woh Chaand
+Track: 1
+Format: 44100:16:2
+mtime: 1767034823
+added: 1767383086
+song_end
+song_begin: Savi Kahlon & The Masterz - TERE NAAL PYAAR MAAYE.m4a
+Time: 218.18200000000002
+Artist: Savi Kahlon; The Masterz
+Album: TERE NAAL PYAAR MAAYE
+Title: TERE NAAL PYAAR MAAYE
+Track: 1
+Date: 2024
+Disc: 1
+AlbumArtist: Savi Kahlon
+Format: 44100:f:2
+mtime: 1766682065
+added: 1766682184
+song_end
+song_begin: 050. Akhil - Teri Kami.flac
+Time: 261.59000000000003
+Album: Teri Kami - Single
+AlbumArtist: Akhil
+Artist: Akhil
+Date: 2016-08-24
+Disc: 1
+Title: Teri Kami
+Track: 1
+Format: 44100:16:2
+mtime: 1767139896
+added: 1767383086
+song_end
+song_begin: 096. Maninder Buttar - Teri Meri Ladayi.flac
+Time: 222.097
+Album: Teri Meri Ladayi
+AlbumArtist: Maninder Buttar; Akasa
+Artist: Maninder Buttar; Akasa
+Composer: Mixsingh
+Date: 2020-08-06
+Disc: 1
+Title: Teri Meri Ladayi
+Track: 1
+Format: 44100:16:2
+mtime: 1767142137
+added: 1767383086
+song_end
+song_begin: The Jackson 5 - The Definitive Collection - 01-05 Never Can Say Goodbye (Single Version).flac
+Time: 179.653
+Title: Never Can Say Goodbye
+Artist: The Jackson 5
+AlbumArtist: The Jackson 5
+Album: The Definitive Collection
+Track: 5
+Disc: 1
+Date: 2009
+Format: 44100:16:2
+mtime: 1766296459
+added: 1766296566
+song_end
+song_begin: 015. Serge Nova - Fermi Paradox.flac
+Time: 173.195
+Album: The Earther’s Guide to the Galaxy
+AlbumArtist: Serge Nova
+Artist: Serge Nova; Neoclubber
+Composer: Serge Novikov; Marina Cherniavskaja
+Date: 2021-07-15
+Disc: 1
+Title: Fermi Paradox
+Track: 6
+Format: 44100:16:2
+mtime: 1767131268
+added: 1767383086
+song_end
+song_begin: 12. Teriyaki Boyz - Tokyo Drift Fast  FuriousThe Fast And The FuriousTokyo Drift Soundtrack.flac
+Time: 255.173
+Album: The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)
+AlbumArtist: Various Artists
+Artist: Teriyaki Boyz
+Composer: Wise “The Gold Pen”; Verbal; Pharrell Williams; Ryo-Z; Keisuke Ogihara
+Date: 2006-06-20
+Disc: 1
+Title: Tokyo Drift (Fast & Furious) (From "The Fast And The Furious: Tokyo Drift" Soundtrack)
+Track: 1
+Format: 44100:16:2
+mtime: 1767036142
+added: 1768312177
+song_end
+song_begin: Nate Dogg & Warren G. - The Prodigal Son (Digitally Remastered) - 01-12 Nobody Does It Better.m4a
+Time: 270.48900000000003
+Artist: Nate Dogg; Warren G.
+Album: The Prodigal Son (Digitally Remastered)
+Title: Nobody Does It Better
+Track: 12
+Date: 2015
+Disc: 1
+AlbumArtist: Nate Dogg
+Format: 44100:f:2
+mtime: 1766679179
+added: 1766680225
+song_end
+song_begin: 10. The White Buffalo - The Whistler.flac
+Time: 206.574
+Album: The Whistler
+AlbumArtist: The White Buffalo
+Artist: The White Buffalo
+Date: 2012-01-01
+Disc: 1
+Title: The Whistler
+Track: 1
+Format: 44100:16:2
+mtime: 1767035485
+added: 1767383086
+song_end
+song_begin: 053. Silambarasan TR - Thee Thalapathy (From Varisu).flac
+Time: 258
+Album: Thee Thalapathy (From "Varisu")
+AlbumArtist: Silambarasan TR
+Artist: Silambarasan TR
+Composer: Vivek; Thaman S
+Date: 2022-12-04
+Disc: 1
+Title: Thee Thalapathy (From "Varisu")
+Track: 1
+Format: 44100:16:2
+mtime: 1766805539
+added: 1768312176
+song_end
+song_begin: 02. Afsana Khan - Titliaan.flac
+Time: 195.483
+Album: Titliaan
+AlbumArtist: Afsana Khan; Avvy Sra; Harrdy Sandhu; Sargun Mehta
+Artist: Afsana Khan; Avvy Sra; Harrdy Sandhu; Sargun Mehta
+Composer: Jaani
+Date: 2020-11-09
+Disc: 1
+Title: Titliaan
+Track: 1
+Format: 44100:16:2
+mtime: 1767033985
+added: 1767383086
+song_end
+song_begin: 095. Ammy Virk - Tod Da E Dil.flac
+Time: 157.058
+Album: Tod Da E Dil
+AlbumArtist: Ammy Virk
+Artist: Ammy Virk
+Composer: Maninder Buttar
+Date: 2020-08-04
+Disc: 1
+Title: Tod Da E Dil
+Track: 1
+Format: 44100:16:2
+mtime: 1767142116
+added: 1767383086
+song_end
+song_begin: 073. Sharry Mann - 3 Peg (From 3 Peg).flac
+Time: 204.39600000000002
+Album: Top Bhangra Party Hits 2024
+AlbumArtist: Rupinder Handa; Sharry Mann; Shivjot; Sartaj Virk; G. Khan; Manavgeet Gill
+Artist: Sharry Mann
+Composer: Raviraj; Mista Baaz
+Date: 2024-12-25
+Disc: 1
+Title: 3 Peg (From "3 Peg")
+Track: 2
+Format: 44100:16:2
+mtime: 1767141572
+added: 1768312177
+song_end
+song_begin: 013. Imagine Dragons - Demons.flac
+Time: 177.506
+Album: Top Gaming Songs
+AlbumArtist: Various Artists
+Artist: Imagine Dragons
+Composer: Josh Mosser; Dan Reynolds; Ben McKee; Wayne Sermon; A. Grant
+Date: 2020-10-30
+Disc: 1
+Title: Demons
+Track: 12
+Format: 44100:16:2
+mtime: 1766779238
+added: 1766808271
+song_end
+song_begin: 044. Akon - Lonely.flac
+Time: 235.8
+Album: Trouble Deluxe Edition
+AlbumArtist: Akon
+Artist: Akon
+Composer: Gene Allen; Bobby Vinton; Aliaune "Akon" Thiam
+Date: 2004-06-29
+Disc: 1
+Title: Lonely
+Track: 8
+Format: 44100:16:2
+mtime: 1766782283
+added: 1766808271
+song_end
+song_begin: 10. Aditya Rikhari - Tu Kahan.flac
+Time: 152.256
+Album: Tu Kahan
+AlbumArtist: Aditya Rikhari
+Artist: Aditya Rikhari
+Composer: Aditya Rikhari
+Date: 2023-04-21
+Disc: 1
+Title: Tu Kahan
+Track: 1
+Format: 44100:16:2
+mtime: 1767035292
+added: 1767383086
+song_end
+song_begin: 09. Jubin Nautiyal - Tum Hi Aana (Sad Version) [From Marjaavaan].flac
+Time: 83.169
+Album: Tum Hi Aana (Sad Version) [From "Marjaavaan"]
+AlbumArtist: Jubin Nautiyal
+Artist: Jubin Nautiyal
+Composer: Payal Dev; Kunaal Vermaa
+Date: 2019-11-27
+Disc: 1
+Title: Tum Hi Aana (Sad Version) [From "Marjaavaan"]
+Track: 1
+Format: 44100:16:2
+mtime: 1767035245
+added: 1768312176
+song_end
+song_begin: 069. Pritam - Dil Ibaadat.flac
+Time: 329.386
+Album: Tum Mile (Original Motion Picture Soundtrack)
+AlbumArtist: Pritam
+Artist: Pritam; KK; Sayeed Quadri
+Composer: Pritam Chakraborty
+Date: 2009-09-07
+Disc: 1
+Title: Dil Ibaadat
+Track: 2
+Format: 44100:16:2
+mtime: 1767141415
+added: 1767383086
+song_end
+song_begin: 021. Daniel Schulz - Turn Back Time.flac
+Time: 223.561
+Album: Turn Back Time
+AlbumArtist: Daniel Schulz
+Artist: Daniel Schulz
+Composer: Jonas Brandt-Henriksen; Daniel Mirza Salcedo; Daniel Schulz
+Date: 2017-11-03
+Disc: 1
+Title: Turn Back Time
+Track: 1
+Format: 44100:16:2
+mtime: 1766778379
+added: 1766808271
+song_end
+song_begin: 008. Maninder Buttar - Tutt Chali Yaari.flac
+Time: 203.595
+Album: Tutt Chali Yaari
+AlbumArtist: Maninder Buttar
+Artist: Maninder Buttar
+Composer: Mixsingh
+Date: 2020-04-21
+Disc: 1
+Title: Tutt Chali Yaari
+Track: 1
+Format: 44100:16:2
+mtime: 1767130441
+added: 1767383086
+song_end
+song_begin: 062. Bilal Saeed - Adhi Adhi Raat.flac
+Time: 234.097
+Album: Twelve
+AlbumArtist: Bilal Saeed
+Artist: Bilal Saeed
+Date: 2012-12-20
+Disc: 1
+Title: Adhi Adhi Raat
+Track: 1
+Format: 44100:16:2
+mtime: 1767140859
+added: 1767383086
+song_end
+song_begin: 063. Bilal Saeed - 2 Number.flac
+Time: 243.149
+Album: Twelve
+AlbumArtist: Bilal Saeed
+Artist: Bilal Saeed; Dr Zeus; Amrinder Gill; Young Fateh
+Date: 2012-12-20
+Disc: 1
+Title: 2 Number
+Track: 4
+Format: 44100:16:2
+mtime: 1767140911
+added: 1767383086
+song_end
+song_begin: 034. Bilal Saeed - Mahiya.flac
+Time: 222.93200000000002
+Album: Twelve
+AlbumArtist: Bilal Saeed
+Artist: Bilal Saeed
+Date: 2012-12-20
+Disc: 1
+Title: Mahiya
+Track: 7
+Format: 44100:16:2
+mtime: 1767134601
+added: 1767383086
+song_end
+song_begin: 032. Bilal Saeed - Ja Jay Tu Jana.flac
+Time: 208.806
+Album: Twelve
+AlbumArtist: Bilal Saeed
+Artist: Bilal Saeed
+Date: 2012-12-20
+Disc: 1
+Title: Ja Jay Tu Jana
+Track: 8
+Format: 44100:16:2
+mtime: 1767133406
+added: 1767383086
+song_end
+song_begin: Jamie Cullum - Twentysomething - 01-02 Twentysomething.m4a
+Time: 220.947
+Artist: Jamie Cullum
+Album: Twentysomething
+Title: Twentysomething
+Track: 2
+Date: 2015
+Disc: 1
+AlbumArtist: Jamie Cullum
+Format: 44100:f:2
+mtime: 1767825838
+added: 1768312177
+song_end
+song_begin: Jamie Cullum - Twentysomething - 01-05 Lover, You Should Have Come Over.m4a
+Time: 288.547
+Artist: Jamie Cullum
+Album: Twentysomething
+Title: Lover, You Should Have Come Over
+Track: 5
+Date: 2015
+Disc: 1
+AlbumArtist: Jamie Cullum
+Format: 44100:f:2
+mtime: 1767826717
+added: 1768312177
+song_end
+song_begin: Jamie Cullum - Twentysomething - 01-10 It's About Time.m4a
+Time: 247
+Artist: Jamie Cullum
+Album: Twentysomething
+Title: It's About Time
+Track: 10
+Date: 2015
+Disc: 1
+AlbumArtist: Jamie Cullum
+Format: 44100:f:2
+mtime: 1767827862
+added: 1768312177
+song_end
+song_begin: Jamie Cullum - Twentysomething - 01-11 But For Now.m4a
+Time: 235.53300000000002
+Artist: Jamie Cullum
+Album: Twentysomething
+Title: But For Now
+Track: 11
+Date: 2015
+Disc: 1
+AlbumArtist: Jamie Cullum
+Format: 44100:f:2
+mtime: 1767828133
+added: 1768312176
+song_end
+song_begin: Jamie Cullum - Twentysomething - 01-12 I Could Have Danced All Night.m4a
+Time: 204.76
+Artist: Jamie Cullum
+Album: Twentysomething
+Title: I Could Have Danced All Night
+Track: 12
+Date: 2015
+Disc: 1
+AlbumArtist: Jamie Cullum
+Format: 44100:f:2
+mtime: 1767828438
+added: 1768312177
+song_end
+song_begin: Jamie Cullum - Twentysomething - 01-13 Next Year Baby.m4a
+Time: 298.093
+Artist: Jamie Cullum
+Album: Twentysomething
+Title: Next Year Baby
+Track: 13
+Date: 2015
+Disc: 1
+AlbumArtist: Jamie Cullum
+Format: 44100:f:2
+mtime: 1767828617
+added: 1768312177
+song_end
+song_begin: 05. 80s Super Hits - I Will Be Right Here Waiting for You.flac
+Time: 258.481
+Album: Ultimate 80s Hit Songs: The Best of the 80s
+AlbumArtist: 80s Super Hits
+Artist: 80s Super Hits
+Date: 2019-10-10
+Disc: 1
+Title: I Will Be Right Here Waiting for You
+Track: 13
+Format: 44100:16:2
+mtime: 1767035024
+added: 1767383086
+song_end
+song_begin: Indeevar - Kasme Wade Pyar Wafa.flac
+Time: 208.927
+Album: Upkar
+AlbumArtist: Kalyanji-Anandji
+Artist: Manna Dey; Kalyanji - Anandji; Indeevar
+Date: 1968-12-01
+Genre: Soundtracks, Indian Retro, Bollywood, Indian Soundtracks
+Label: Saregama
+Title: Kasme Wade Pyar Wafa
+Track: 6
+Format: 44100:16:2
+mtime: 1744152216
+added: 1766294900
+song_end
+song_begin: 048. Mankirt Aulakh - Vail (feat. Nimrat Khaira & Shree Brar).flac
+Time: 201.453
+Album: Vail (feat. Nimrat Khaira & Shree Brar)
+AlbumArtist: Mankirt Aulakh; Shree Brar; Nimrat Khaira
+Artist: Mankirt Aulakh; Shree Brar; Nimrat Khaira
+Composer: Avvy Sra
+Date: 2020-06-08
+Disc: 1
+Title: Vail (feat. Nimrat Khaira & Shree Brar)
+Track: 1
+Format: 48000:24:2
+mtime: 1767139760
+added: 1767383086
+song_end
+song_begin: 18. RiNG-O.Tune - Suzume (Orgel) [Cover] [from Suzume no Tojimari] [Originally Performed by RADWIMPS].flac
+Time: 44.51
+Album: Variety Box Orgel Edition Vol.84
+AlbumArtist: RiNG-O.Tune
+Artist: RiNG-O.Tune
+Composer: Yojiro Noda
+Date: 2022-01-01
+Disc: 1
+Title: Suzume (Orgel) [Cover] [from Suzume no Tojimari] [Originally Performed by RADWIMPS]
+Track: 16
+Format: 44100:16:2
+mtime: 1767036446
+added: 1767383086
+song_end
+song_begin: 087. Jasmine Sandlas - Illegal Weapon 2.0 (From Street Dancer 3D).flac
+Time: 188.606
+Album: Vividly : Varun Dhawan
+AlbumArtist: Varun Dhawan
+Artist: Jasmine Sandlas; Garry Sandhu
+Composer: Priya Saraiya; Intense; Garry Sandhu; Tanishk Bagchi
+Date: 2024-11-30
+Disc: 1
+Title: Illegal Weapon 2.0 (From "Street Dancer 3D")
+Track: 5
+Format: 44100:16:2
+mtime: 1767141918
+added: 1768312177
+song_end
+song_begin: 067. Harnoor - Waalian.flac
+Time: 218.523
+Album: Waalian
+AlbumArtist: Harnoor; Gifty
+Artist: Harnoor; Gifty
+Composer: The Kid
+Date: 2020-08-10
+Disc: 1
+Title: Waalian
+Track: 1
+Format: 44100:16:2
+mtime: 1767141039
+added: 1767383086
+song_end
+song_begin: 107. Mithoon - Wajah Tum Ho.flac
+Time: 294.92900000000003
+Album: Wajah Tum Ho
+AlbumArtist: Various Artists
+Artist: Mithoon; Altamash Faridi; Tulsi Kumar
+Composer: Mithoon; Manoj Muntashir
+Date: 2016-11-05
+Disc: 1
+Title: Wajah Tum Ho
+Track: 1
+Format: 44100:16:2
+mtime: 1767144303
+added: 1767383086
+song_end
+song_begin: 026. Navv Inder - Wakhra Swag.flac
+Time: 190.5
+Album: Wakhra Swag Hai Tera…
+AlbumArtist: Various Artists
+Artist: Navv Inder; Badshah
+Composer: Navi kamboz
+Date: 2017-02-07
+Disc: 1
+Title: Wakhra Swag
+Track: 1
+Format: 44100:16:2
+mtime: 1767132613
+added: 1767383086
+song_end
+song_begin: 077. Ammy Virk - Wang Da Naap.flac
+Time: 158.983
+Album: Wang Da Naap
+AlbumArtist: Ammy Virk; Sonam Bajwa
+Artist: Ammy Virk; Sonam Bajwa
+Composer: Gurmeet Singh
+Date: 2019-05-16
+Disc: 1
+Title: Wang Da Naap
+Track: 1
+Format: 44100:16:2
+mtime: 1767141683
+added: 1767383086
+song_end
+song_begin: 054. Akhil - Supne.flac
+Time: 229.537
+Album: Welcome 2020
+AlbumArtist: Various Artists
+Artist: Akhil
+Composer: Strom DJ
+Date: 2020-01-07
+Disc: 1
+Title: Supne
+Track: 2
+Format: 44100:16:2
+mtime: 1767140036
+added: 1767383086
+song_end
+song_begin: 11. WARHALL - Dead Man Walking.flac
+Time: 261.413
+Album: Whiplash
+AlbumArtist: WAR*HALL
+Artist: WAR*HALL
+Date: 2018-05-18
+Disc: 1
+Title: Dead Man Walking
+Track: 4
+Format: 44100:16:2
+mtime: 1767035509
+added: 1768312177
+song_end
+song_begin: 015. Arjun Kanungo - Woh Baarishein.flac
+Time: 232.866
+Album: Woh Baarishein
+AlbumArtist: Arjun Kanungo
+Artist: Arjun Kanungo
+Composer: Arjun Kanungo
+Date: 2019-06-20
+Disc: 1
+Title: Woh Baarishein
+Track: 1
+Format: 44100:16:2
+mtime: 1766777963
+added: 1766808271
+song_end
+song_begin: 065. Lata Mangeshkar - Lag Ja Gale Se Phir.flac
+Time: 257.613
+Album: Woh Kaun Thi? (Original Motion Picture Soundtrack)
+AlbumArtist: Madan Mohan
+Artist: Lata Mangeshkar
+Composer: Madan Mohan; Raja Mehdi Ali Khan
+Date: 2013-11-01
+Disc: 1
+Title: Lag Ja Gale Se Phir
+Track: 1
+Format: 44100:16:2
+mtime: 1767140973
+added: 1767383086
+song_end
+song_begin: 097. nikk - Yaari.flac
+Time: 177.75
+Album: Yaari
+AlbumArtist: nikk; Avneet Kaur
+Artist: nikk; Avneet Kaur
+Composer: Nikk
+Date: 2019-05-07
+Disc: 1
+Title: Yaari
+Track: 1
+Format: 44100:16:2
+mtime: 1767142171
+added: 1767383086
+song_end
+song_begin: 040. Garry Sandhu - Yeh Baby (Remix).flac
+Time: 195.6
+Album: Yeh Baby (Remix)
+AlbumArtist: Garry Sandhu
+Artist: Garry Sandhu
+Composer: Garry Sandhu
+Date: 2024-07-08
+Disc: 1
+Title: Yeh Baby (Remix)
+Track: 1
+Format: 44100:16:2
+mtime: 1767136412
+added: 1767383086
+song_end
+song_begin: 001. Jishu Mandal - Zakhm Dete Ho Kehte (Unplugged).flac
+Time: 105.197
+Album: Zakhm Dete Ho Kehte (Unplugged)
+AlbumArtist: Jishu Mandal
+Artist: Jishu Mandal
+Composer: Jishu Mandal
+Date: 2021-10-01
+Disc: 1
+Title: Zakhm Dete Ho Kehte (Unplugged)
+Track: 1
+Format: 44100:16:2
+mtime: 1766776807
+added: 1766808271
+song_end
+song_begin: 009. Happy Raikoti - Zinda.flac
+Time: 229.047
+Album: Zinda
+AlbumArtist: Happy Raikoti
+Artist: Happy Raikoti
+Composer: Goldboy
+Date: 2019-08-08
+Disc: 1
+Title: Zinda
+Track: 1
+Format: 44100:16:2
+mtime: 1766780220
+added: 1766808271
+song_end
+song_begin: 022. A Kay - Zindagi.flac
+Time: 247.559
+Album: Zindagi
+AlbumArtist: A Kay; Gaurav Dev; Kartik Dev; Mahira Sharma
+Artist: A Kay; Gaurav Dev; Kartik Dev; Mahira Sharma
+Composer: Jabby Gill
+Date: 2020-09-30
+Disc: 1
+Title: Zindagi
+Track: 1
+Format: 44100:16:2
+mtime: 1767131552
+added: 1767383086
+song_end
+song_begin: 008. B Praak - Main Aaunga.flac
+Time: 294.40000000000003
+Album: Zohrajabeen
+AlbumArtist: B Praak; Jaani
+Artist: B Praak; Jaani
+Composer: B Praak
+Date: 2023-07-24
+Disc: 1
+Title: Main Aaunga
+Track: 6
+Format: 44100:16:2
+mtime: 1766777433
+added: 1766808271
+song_end

@@ -1,12 +1,2 @@
-#!/bin/bash
-
-options=(
-  style=round
-  radius = 6
-  width=5.0
-  hidpi=off
-  active_color=0xffff0000
-  inactive_color=0xff414550
-)
-
-borders "${options[@]}"
+source "$HOME/.config/themes/current/shellcolors.sh"
+borders active_color=$ACTIVE inactive_color=$INACTIVE width=5.0 style=round hidpi=true
