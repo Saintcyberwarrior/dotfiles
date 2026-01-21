@@ -1,1 +1,4 @@
-../packages/prettierd/node_modules/.bin/prettierd
+#!/usr/bin/env node
+process.env.FORCE_COLOR = "0";
+
+require("../dist/prettierd.js");

@@ -1334,3 +1334,66 @@
 2026-01-13T23:23:47 player: played "030. Diljit Dosanjh - Akhiri Salaam (From Jodi).flac"
 2026-01-13T23:28:36 player: played "12. B Praak - Ammi (From Sufna).flac"
 2026-01-14T00:19:00 player: played "13. Imran Khan - Amplifier.flac"
+2026-01-14T00:44:18 config: option "device" on line 16 was not recognized
+2026-01-14T00:46:08 player: played "13. Imran Khan - Amplifier.flac"
+2026-01-14T00:51:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-14T00:52:08 player: played "Anand Bakshi - Duniya Mein Kitna Gham Hai.flac"
+2026-01-14T00:52:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-14T00:52:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-14T00:56:10 player: played "Lata Mangeshkar - Bahon Mein Chale Aao.m4a"
+2026-01-14T00:59:23 player: played "009. Amrinder Gill - Kurta Suha.flac"
+2026-01-14T01:01:58 player: played "006. Amrinder Gill - Family Di Member.flac"
+2026-01-14T18:01:36 player: played "03. Anirudh Ravichander - Arabic Kuthu - Halamithi Habibo (From Beast).flac"
+2026-01-14T18:07:02 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-14T18:07:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-14T18:07:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-15T14:49:04 update: added /Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-08 Midnight Whiskey Blues.flac
+2026-01-15T14:49:04 update: added /Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-05 Midnight in the Glass.flac
+2026-01-15T14:49:04 update: added /Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-02 Midnight Blues Serenade.flac
+2026-01-15T14:49:04 update: added /Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-06 Midnight on My Mind.flac
+2026-01-15T14:49:04 update: added /Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-03 Midnight Bourbon Blues.flac
+2026-01-15T14:49:04 update: added /Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-09 Whiskey and Midnight.flac
+2026-01-15T14:49:04 update: added /Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-04 Midnight Glass.flac
+2026-01-15T14:49:04 update: added /Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-07 Midnight on the Rocks.flac
+2026-01-15T14:49:04 update: added /Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-01 Midnight Ashes.flac
+2026-01-15T14:49:04 update: added /Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-10 Whiskey Shadows.flac
+2026-01-16T15:52:11 player: played "Jagjit Singh - Koi Yeh Kaise Bataye.m4a"
+2026-01-19T03:08:40 config: option "device" on line 16 was not recognized
+2026-01-19T03:08:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-19T03:09:11 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-19T03:09:11 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-19T03:12:56 player: played "08. Anuv Jain - Baarishein.flac"
+2026-01-19T03:16:16 player: played "011. Anuv Jain - Mishri.flac"
+2026-01-19T03:20:59 player: played "022. Arijit Singh - Phir Na Aisi Raat Aayegi (From Laal Singh Chaddha).flac"
+2026-01-19T03:25:44 player: played "004. Arijit Singh - Tujhe Kitna Chahne Lage (From Kabir Singh).flac"
+2026-01-19T03:31:55 player: played "002. Arijit Singh - Bekhayali (Arijit Singh Version) [From Kabir Singh].flac"
+2026-01-19T03:36:36 player: played "106. Arijit Singh - Dekh Lena (From Tum Bin 2).flac"
+2026-01-19T03:40:29 player: played "015. Arjun Kanungo - Woh Baarishein.flac"
+2026-01-19T03:44:36 player: played "047. Arjun Kanungo - Ilzaam (From the Album 'Industry').flac"
+2026-01-19T03:48:48 player: played "050. Armaan Bedil - Main Vichara.flac"
+2026-01-19T03:53:41 player: played "011. Armaan Malik - Bol Do Na Zara.flac"
+2026-01-19T03:58:27 player: played "020. Armaan Malik - Pyaar Manga Hai.flac"
+2026-01-19T04:01:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-19T04:02:00 player: played "Surinder Kaur - Main Tenu.flac"
+2026-01-19T04:02:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-19T04:02:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-19T04:04:45 player: played "Asha Bhosle - Jahan Mein Aesa Kaun Hai.m4a"
+2026-01-20T13:14:36 player: played "Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-01 Midnight Ashes.flac"
+2026-01-20T13:18:20 player: played "021. Daniel Schulz - Turn Back Time.flac"
+2026-01-20T13:21:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-20T13:22:04 player: played "021. Daniel Schulz - Turn Back Time.flac"
+2026-01-20T13:25:18 player: played "ELLIOT JAMES REAY - I Think They Call This Love.m4a"
+2026-01-20T13:29:12 player: played "21. Joji - Glimpse of Us.flac"
+2026-01-20T13:34:32 player: played "Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-02 Midnight Blues Serenade.flac"
+2026-01-20T13:39:20 player: played "Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-03 Midnight Bourbon Blues.flac"
+2026-01-20T13:43:49 player: played "Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-08 Midnight Whiskey Blues.flac"
+2026-01-20T14:10:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-20T14:11:09 player: played "Windows Are Rolled Down.opus"
+2026-01-20T14:15:16 player: played "Black Pumas - Black Pumas (Deluxe Edition) - 01-02 Colors.m4a"
+2026-01-20T14:18:57 player: played "13. Bruno Mars - Just the Way You Are.flac"
+2026-01-20T14:23:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-20T14:24:17 player: played "Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-02 Midnight Blues Serenade.flac"
+2026-01-20T14:27:56 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-20T14:28:19 player: played "Curtis Stigers - Let's Go Out Tonight - 01-02 Everyone Loves Lovers.m4a"
+2026-01-20T14:32:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-20T14:32:48 player: played "James Taylor - You've Got a Friend.m4a"

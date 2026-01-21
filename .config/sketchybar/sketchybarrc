@@ -1,12 +1,23 @@
-# This is a demo config to showcase some of the most important commands.
-# It is meant to be changed and configured, as it is intentionally kept sparse.
-# For a (much) more advanced configuration example see my dotfiles:
-PLUGIN_DIR="$CONFIG_DIR/plugins"
+#!/usr/bin/env sh
 
-source "$HOME/.config/themes/current/shellcolors.sh"
+# Ensure CONFIG_DIR exists even if sketchybar didn't export it (robustness)
+: "${CONFIG_DIR:=$HOME/.config/sketchybar}"
+
+PLUGIN_DIR="$CONFIG_DIR/plugins"
+THEME_FILE="$HOME/.config/themes/current/shellcolors.sh"
+
+# Theme
+if [ -r "$THEME_FILE" ]; then
+  # shellcheck source=/dev/null
+  source "$THEME_FILE"
+else
+  # Hard fallback so bar isn't invisible if theme breaks
+  BACKGROUND=0x00000000
+  BORDER=0x00ffffff
+  CLOCK=0xffffffff
+fi
 
 ##### Bar Appearance #####
-
 bar=(
   position=top
   height=28
@@ -22,8 +33,7 @@ bar=(
 
 sketchybar --bar "${bar[@]}"
 
-##### Changing Defaults #####
-
+##### Defaults #####
 default=(
   icon.font="JetBrains Mono:Medium:14.0"
   label.font="JetBrains Mono:Medium:14.0"
@@ -37,14 +47,15 @@ default=(
 )
 sketchybar --default "${default[@]}"
 
-sketchybar --add item spacing left icon="" icon.padding_right=0 icon.padding_left=0 padding_left=0 padding_right=0
+# spacing item (unchanged)
+sketchybar --add item spacing left \
+  --set spacing icon="" icon.padding_right=0 icon.padding_left=0 padding_left=0 padding_right=0
 
-##### Adding Space Indicators #####
-#SPACE_ICONS=("􀩼 1" "􀎬 2" "􂮢 3" "􀜟 4" "􀇴 5")
+##### Spaces (KEEP as `space`, not `item`) #####
 SPACE_ICONS=("-" "-" "-" "-" "-" "-" )
-for i in "${!SPACE_ICONS[@]}"
-do
-  sid="$(($i+1))"
+
+for i in "${!SPACE_ICONS[@]}"; do
+  sid="$((i+1))"
   space=(
     space="$sid"
     icon="${SPACE_ICONS[i]}"
@@ -62,69 +73,86 @@ do
   sketchybar --add space space."$sid" left --set space."$sid" "${space[@]}"
 done
 
-
+# bracket (unchanged visuals)
 sketchybar --add bracket spaces spacing space.6 \
-           --set spaces background.height=23 \
-                        background.color=$BACKGROUND \
-                        background.border_width=0 \
+  --set spaces \
+    background.height=23 \
+    background.color=$BACKGROUND \
+    background.border_width=0
 
+##### Media (FIX: use PLUGIN_DIR, no hardcoded path) #####
 sketchybar --add item media left \
-           --set media script="$HOME/.config/sketchybar/plugins/media.sh" \
-                       background.color=$BACKGROUND \
-                       background.height=23 \
-                       padding_left=10 \
-                       icon.padding_left=10 \
-                       label.padding_right=10
-           # --subscribe media media_stream_changed \
+  --set media \
+    script="$PLUGIN_DIR/media.sh" \
+    background.color=$BACKGROUND \
+    background.height=23 \
+    padding_left=10 \
+    icon.padding_left=10 \
+    label.padding_right=10
+# --subscribe media media_stream_changed
 
-
+##### Front app #####
 sketchybar --add item front_app center \
-           --set front_app icon.drawing=off \
-                          script="$PLUGIN_DIR/front_app.sh" \
-                          background.drawing=off \
-                          color=0xff000000 \
-                          background.height=23 \
-                          background.color=$BACKGROUND \
-                          background.border_width=0 \
-                          label.padding_left=15 \
-                          label.padding_right=15 \
-           --subscribe front_app front_app_switched
+  --set front_app \
+    icon.drawing=off \
+    script="$PLUGIN_DIR/front_app.sh" \
+    background.drawing=off \
+    color=0xff000000 \
+    background.height=23 \
+    background.color=$BACKGROUND \
+    background.border_width=0 \
+    label.padding_left=15 \
+    label.padding_right=15 \
+  --subscribe front_app front_app_switched
 
+##### Clock #####
 sketchybar --add item clock right \
-           --set clock update_freq=10 \
-                 icon.color=$CLOCK \
-                 padding_left=10 \
-                 background.drawing=off \
-                 script="$PLUGIN_DIR/clock.sh" \
-                 background.height=23 \
-                 background.color=$BACKGROUND \
-                 background.border_width=0 \
+  --set clock \
+    update_freq=10 \
+    icon.color=$CLOCK \
+    padding_left=10 \
+    background.drawing=off \
+    script="$PLUGIN_DIR/clock.sh" \
+    background.height=23 \
+    background.color=$BACKGROUND \
+    background.border_width=0
 
-
+##### Battery #####
 sketchybar --add item battery right \
-           --set battery update_freq=120 \
-                         script="$PLUGIN_DIR/battery.sh" \
-                         background.drawing=off \
-                         padding_left=10 \
-           --subscribe battery system_woke power_source_change \
+  --set battery \
+    update_freq=120 \
+    script="$PLUGIN_DIR/battery.sh" \
+    background.drawing=off \
+    padding_left=10 \
+  --subscribe battery system_woke power_source_change
 
+##### Volume #####
 sketchybar --add item volume right \
-           --set volume script="$PLUGIN_DIR/volume.sh" background.drawing=off update_freq=5 \
-           --subscribe volume volume_change
+  --set volume \
+    script="$PLUGIN_DIR/volume.sh" \
+    background.drawing=off \
+    update_freq=5 \
+  --subscribe volume volume_change
 
+##### CPU #####
 sketchybar --add item cpu right \
-           --set cpu script="$PLUGIN_DIR/cpu.sh" \
-                     update_freq=5 \
-                     padding_left=10
+  --set cpu \
+    script="$PLUGIN_DIR/cpu.sh" \
+    update_freq=5 \
+    padding_left=10
 
+##### Memory #####
 sketchybar --add item memory right \
-           --set memory script="$PLUGIN_DIR/memory.sh" \
-                     update_freq=5 \
-                     padding_left=10
+  --set memory \
+    script="$PLUGIN_DIR/memory.sh" \
+    update_freq=5 \
+    padding_left=10
 
+##### System bracket #####
 sketchybar --add bracket systeminfo battery memory \
-           --set systeminfo background.height=23 \
-                            background.color=$BACKGROUND \
-                            background.border_width=0 \
+  --set systeminfo \
+    background.height=23 \
+    background.color=$BACKGROUND \
+    background.border_width=0
 
 sketchybar --update

@@ -26,13 +26,21 @@
           ############################
 
           nixpkgs.config.allowUnfree = true;
-          services.sketchybar.enable = true;
 
           nix.settings = {
             experimental-features = "nix-command flakes";
+            #auto-optimise-store = true;
           };
+          nix.optimise.automatic = true;
 
           nix.enable = true;
+
+          # Keep the system clean but rollback-friendly
+          nix.gc = {
+            automatic = true;
+            interval = { Weekday = 0; Hour = 3; Minute = 0; }; # Sundays 03:00
+            options = "--delete-older-than 14d";
+          };
 
           system.stateVersion = 6;
           system.configurationRevision = self.rev or self.dirtyRev or null;
@@ -80,17 +88,10 @@
             gemini-cli
             android-tools
 
-            # Python Stack (ADDED)
-            python3
-            python3Full
+            # Python Stack (clean)
             python312
             poetry
             pipx
-            python3Packages.pip
-            python3Packages.virtualenv
-            python3Packages.ipython
-            python3Packages.black
-            python3Packages.flake8
 
             # Media / Docs (CLI)
             ffmpeg
@@ -101,12 +102,10 @@
             gnuplot
             gsl
             transmission_4
+            hugo
 
             # Utils
             mkalias
-            yabai
-            skhd
-            sketchybar
           ];
 
           ############################
@@ -130,7 +129,6 @@
             brews = [
               "mas"
               "check"
-              "gsl"
               "media-control"
             ];
 
@@ -152,6 +150,9 @@
               # Media / GUI
               "darktable"
               "transmission"
+
+              # Editors (GUI)
+              "zed"
 
               # System
               "mactex"
@@ -189,12 +190,16 @@
             '';
 
           ############################
-          # HARDENING RULES (IMPORTANT)
+          # Window manager + hotkeys + bar
           ############################
+
+          services.sketchybar.enable = true;
+
           services.yabai = {
             enable = true;
-            enableScriptingAddition = false; # IMPORTANT: keep false
+            enableScriptingAddition = true; # SA on (managed declaratively)
           };
+
           services.skhd.enable = true;
 
         })

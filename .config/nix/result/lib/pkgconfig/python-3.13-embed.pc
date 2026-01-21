@@ -1,0 +1,13 @@
+# See: man pkg-config
+prefix=/nix/store/9px7zzsfnlmj61yy2fpl6z14w93j05is-python3-3.13.6
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Python
+Description: Embed Python into an application
+Requires:
+Version: 3.13
+Libs.private: -ldl -L/nix/store/fhy1cdmvyifxlrmsf0qp9iampsldbavc-libxcrypt-4.4.38/lib -framework CoreFoundation
+Libs: -L${libdir} -lpython3.13
+Cflags: -I${includedir}/python3.13
