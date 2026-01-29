@@ -249,7 +249,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/posit-dev/air@0.8.0",
+      "id": "pkg:github/posit-dev/air@0.8.1",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -347,7 +347,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/%40angular/language-server@21.1.0",
+      "id": "pkg:npm/%40angular/language-server@21.1.1",
       "extra_packages": [
         "typescript@5.8.3"
       ],
@@ -534,7 +534,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:golang/github.com/googleapis/api-linter/v2@v2.1.0#cmd/api-linter"
+      "id": "pkg:golang/github.com/googleapis/api-linter/v2@v2.2.0#cmd/api-linter"
     },
     "bin": {
       "api-linter": "golang:api-linter"
@@ -964,7 +964,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:pypi/basedpyright@1.37.1"
+      "id": "pkg:pypi/basedpyright@1.37.2"
     },
     "schemas": {
       "lsp": "vscode:https://raw.githubusercontent.com/DetachHead/basedpyright/v{{version}}/packages/vscode-pyright/package.json"
@@ -1111,7 +1111,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:cargo/beancount-language-server@1.7.0?repository_url=https://github.com/polarmutex/beancount-language-server"
+      "id": "pkg:cargo/beancount-language-server@1.8.1?repository_url=https://github.com/polarmutex/beancount-language-server"
     },
     "bin": {
       "beancount-language-server": "cargo:beancount-language-server"
@@ -1198,7 +1198,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/Azure/bicep@v0.39.26",
+      "id": "pkg:github/Azure/bicep@v0.40.2",
       "asset": {
         "file": "vscode-bicep.vsix"
       }
@@ -1228,7 +1228,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:npm/@biomejs/biome@2.3.11"
+      "id": "pkg:npm/@biomejs/biome@2.3.13"
     },
     "schemas": {
       "lsp": "vscode:https://raw.githubusercontent.com/biomejs/biome-vscode/main/package.json"
@@ -1452,7 +1452,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/1c-syntax/bsl-language-server@v0.28.1",
+      "id": "pkg:github/1c-syntax/bsl-language-server@v0.28.3",
       "asset": {
         "file": "bsl-language-server-{{ version | strip_prefix \"v\" }}-exec.jar"
       }
@@ -1808,7 +1808,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:pypi/cfn-lint@1.43.3"
+      "id": "pkg:pypi/cfn-lint@1.43.4"
     },
     "bin": {
       "cfn-lint": "pypi:cfn-lint"
@@ -2621,7 +2621,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/github/codeql-cli-binaries@v2.23.9",
+      "id": "pkg:github/github/codeql-cli-binaries@v2.24.0",
       "asset": [
         {
           "target": [
@@ -2790,7 +2790,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/%40github/copilot-language-server@1.411.0"
+      "id": "pkg:npm/%40github/copilot-language-server@1.417.0"
     },
     "bin": {
       "copilot-language-server": "npm:copilot-language-server"
@@ -3159,7 +3159,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:npm/cspell@9.6.0"
+      "id": "pkg:npm/cspell@9.6.2"
     },
     "bin": {
       "cspell": "npm:cspell"
@@ -3278,7 +3278,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:golang/cuelang.org/go@v0.15.3#cmd/cue"
+      "id": "pkg:golang/cuelang.org/go@v0.15.4#cmd/cue"
     },
     "bin": {
       "cue": "golang:cue"
@@ -3570,7 +3570,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/denoland/deno@v2.6.5",
+      "id": "pkg:github/denoland/deno@v2.6.6",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -3981,7 +3981,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/dot-language-server@3.0.2"
+      "id": "pkg:npm/dot-language-server@3.0.3"
     },
     "bin": {
       "dot-language-server": "npm:dot-language-server"
@@ -5644,7 +5644,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:pypi/gersemi@0.25.1"
+      "id": "pkg:pypi/gersemi@0.25.3"
     },
     "bin": {
       "gersemi": "pypi:gersemi"
@@ -5664,7 +5664,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/%40actions/languageserver@0.3.39"
+      "id": "pkg:npm/%40actions/languageserver@0.3.43"
     },
     "bin": {
       "gh-actions-language-server": "npm:actions-languageserver",
@@ -5684,7 +5684,7 @@
     "languages": [],
     "categories": [],
     "source": {
-      "id": "pkg:github/cli/cli@v2.85.0",
+      "id": "pkg:github/cli/cli@v2.86.0",
       "asset": [
         {
           "target": "darwin_x64",
@@ -6374,7 +6374,7 @@
       "DAP"
     ],
     "source": {
-      "id": "pkg:github/golang/vscode-go@v0.52.1",
+      "id": "pkg:github/golang/vscode-go@v0.52.2",
       "asset": {
         "file": "go-{{ version | strip_prefix \"v\" }}.vsix"
       }
@@ -6971,7 +6971,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/elijah-potter/harper@v1.4.1",
+      "id": "pkg:github/elijah-potter/harper@v1.5.1",
       "asset": [
         {
           "target": "linux_x64_gnu",
@@ -7285,7 +7285,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/@herb-tools/language-server@0.8.8"
+      "id": "pkg:npm/@herb-tools/language-server@0.8.9"
     },
     "schemas": {
       "lsp": "vscode:https://raw.githubusercontent.com/marcoroth/herb/v{{version}}/javascript/packages/vscode/package.json"
@@ -7733,7 +7733,7 @@
   },
   {
     "name": "java-test",
-    "description": "The Test Runner for Java works with java-debug-adapter to provide the following features:\n- Run/Debug test cases\n- Customize test configurations\n- View test report\n- View tests in Test Explorer\n\nEnables support for the following test frameworks:\n\n- JUnit 4 (v4.8.0+)\n- JUnit 5 (v5.1.0+)\n- TestNG (v6.8.0+)\n",
+    "description": "The Test Runner for Java works with java-debug-adapter to provide the following features:\n- Run/Debug test cases\n- Customize test configurations\n- View test report\n- View tests in Test Explorer\n\nEnables support for the following test frameworks:\n\n- JUnit 4 (v4.8.0+)\n- JUnit 5 (v5.1.0+)\n- JUnit 6 (v6.0.1+)\n- TestNG (v6.8.0+)\n",
     "homepage": "https://github.com/microsoft/vscode-java-test",
     "licenses": [
       "MIT"
@@ -7745,7 +7745,7 @@
       "DAP"
     ],
     "source": {
-      "id": "pkg:openvsx/vscjava/vscode-java-test@0.43.2",
+      "id": "pkg:openvsx/vscjava/vscode-java-test@0.44.0",
       "download": {
         "file": "vscjava.vscode-java-test-{{version}}.vsix"
       }
@@ -7911,7 +7911,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/candid82/joker@v1.5.8",
+      "id": "pkg:github/candid82/joker@v1.6.0",
       "asset": [
         {
           "target": [
@@ -8085,7 +8085,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:pypi/json-repair@0.55.0"
+      "id": "pkg:pypi/json-repair@0.55.1"
     },
     "bin": {
       "json_repair": "pypi:json_repair"
@@ -8267,7 +8267,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:pypi/jupytext@1.19.0"
+      "id": "pkg:pypi/jupytext@1.19.1"
     },
     "bin": {
       "jupytext": "pypi:jupytext"
@@ -9500,7 +9500,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/JohnnyMorganz/luau-lsp@1.60.1",
+      "id": "pkg:github/JohnnyMorganz/luau-lsp@1.61.0",
       "asset": [
         {
           "target": [
@@ -9823,7 +9823,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/mathworks/MATLAB-language-server@96c428b0be6ba6f109a03036163d4a37b7d2bc7d",
+      "id": "pkg:github/mathworks/MATLAB-language-server@6c7e6b4d3b0c7c600967459f4f218c40863b5c7c",
       "build": {
         "run": "npm install\nnpm run package\n"
       }
@@ -10297,7 +10297,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/neocmakelsp/neocmakelsp@v0.9.1",
+      "id": "pkg:github/neocmakelsp/neocmakelsp@v0.10.0",
       "asset": [
         {
           "target": "darwin",
@@ -10404,7 +10404,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/nextflow-io/language-server@v25.10.2",
+      "id": "pkg:github/nextflow-io/language-server@v25.10.3",
       "asset": {
         "file": "language-server-all.jar"
       }
@@ -10571,7 +10571,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:golang/go.uber.org/nilaway@v0.0.0-20260121035359-baa0e5255e8a#cmd/nilaway"
+      "id": "pkg:golang/go.uber.org/nilaway@v0.0.0-20260126174828-99d94caaf043#cmd/nilaway"
     },
     "bin": {
       "nilaway": "golang:nilaway"
@@ -10890,7 +10890,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:npm/npm-groovy-lint@16.1.1"
+      "id": "pkg:npm/npm-groovy-lint@16.2.0"
     },
     "bin": {
       "npm-groovy-lint": "npm:npm-groovy-lint"
@@ -11580,7 +11580,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:github/PHP-CS-Fixer/PHP-CS-Fixer@v3.92.5",
+      "id": "pkg:github/PHP-CS-Fixer/PHP-CS-Fixer@v3.93.0",
       "asset": {
         "file": "php-cs-fixer.phar"
       }
@@ -11721,7 +11721,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/phpstan/phpstan@2.1.35",
+      "id": "pkg:github/phpstan/phpstan@2.1.37",
       "asset": {
         "file": "phpstan.phar"
       }
@@ -12043,7 +12043,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:npm/prettier@3.8.0"
+      "id": "pkg:npm/prettier@3.8.1"
     },
     "bin": {
       "prettier": "npm:prettier"
@@ -12159,7 +12159,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/%40prisma/language-server@31.3.4"
+      "id": "pkg:npm/%40prisma/language-server@31.4.0"
     },
     "schemas": {
       "lsp": "vscode:https://raw.githubusercontent.com/prisma/language-tools/{{version}}/packages/vscode/package.json"
@@ -12765,7 +12765,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:pypi/pymarkdownlnt@0.9.34"
+      "id": "pkg:pypi/pymarkdownlnt@0.9.35"
     },
     "bin": {
       "pymarkdownlnt": "pypi:pymarkdownlnt"
@@ -12805,7 +12805,7 @@
       "Runtime"
     ],
     "source": {
-      "id": "pkg:pypi/pymobiledevice3@7.2.1"
+      "id": "pkg:pypi/pymobiledevice3@7.3.9"
     },
     "bin": {
       "pymobiledevice3": "pypi:pymobiledevice3"
@@ -12894,7 +12894,7 @@
       "lsp": "vscode:https://raw.githubusercontent.com/facebook/pyrefly/{{version}}/lsp/package.json"
     },
     "source": {
-      "id": "pkg:pypi/pyrefly@0.49.0"
+      "id": "pkg:pypi/pyrefly@0.50.0"
     },
     "bin": {
       "pyrefly": "pypi:pyrefly"
@@ -13178,7 +13178,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:pypi/rassumfrassum@0.3.2"
+      "id": "pkg:pypi/rassumfrassum@0.3.3"
     },
     "bin": {
       "rass": "pypi:rass"
@@ -13802,7 +13802,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:gem/rubocop@1.82.1"
+      "id": "pkg:gem/rubocop@1.84.0"
     },
     "bin": {
       "rubocop": "gem:rubocop"
@@ -13825,7 +13825,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:gem/ruby-lsp@0.26.4",
+      "id": "pkg:gem/ruby-lsp@0.26.5",
       "extra_packages": [
         "ruby-lsp-rails"
       ]
@@ -13941,7 +13941,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:pypi/ruff@0.14.13"
+      "id": "pkg:pypi/ruff@0.14.14"
     },
     "bin": {
       "ruff": "pypi:ruff"
@@ -13986,7 +13986,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/rvben/rumdl@v0.0.222",
+      "id": "pkg:github/rvben/rumdl@v0.1.2",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -14047,7 +14047,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/rust-lang/rust-analyzer@2026-01-19",
+      "id": "pkg:github/rust-lang/rust-analyzer@2026-01-26",
       "asset": [
         {
           "target": "linux_x64_gnu",
@@ -14270,7 +14270,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/Kampfkarren/selene@0.29.0",
+      "id": "pkg:github/Kampfkarren/selene@0.30.0",
       "asset": [
         {
           "target": [
@@ -14319,7 +14319,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:pypi/semgrep@1.148.0",
+      "id": "pkg:pypi/semgrep@1.149.0",
       "supported_platforms": [
         "unix"
       ]
@@ -14630,7 +14630,7 @@
       "Compiler"
     ],
     "source": {
-      "id": "pkg:github/shader-slang/slang@v2026.1",
+      "id": "pkg:github/shader-slang/slang@v2026.1.1",
       "asset": [
         {
           "target": "linux_x64_gnu",
@@ -14896,7 +14896,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:pypi/snakefmt@0.11.2"
+      "id": "pkg:pypi/snakefmt@0.11.3"
     },
     "bin": {
       "snakefmt": "pypi:snakefmt"
@@ -15014,7 +15014,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/snyk/cli@v1.1302.0",
+      "id": "pkg:github/snyk/cli@v1.1302.1",
       "asset": [
         {
           "target": "darwin_x64",
@@ -15340,7 +15340,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:gem/sorbet@0.6.12894",
+      "id": "pkg:gem/sorbet@0.6.12903",
       "supported_platforms": [
         "unix"
       ]
@@ -15582,7 +15582,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/quarylabs/sqruff@v0.34.0",
+      "id": "pkg:github/quarylabs/sqruff@v0.34.1",
       "asset": [
         {
           "target": "linux_x64",
@@ -15633,7 +15633,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/sbdchd/squawk@v2.37.0",
+      "id": "pkg:github/sbdchd/squawk@v2.38.0",
       "asset": [
         {
           "target": "darwin_x64",
@@ -16237,7 +16237,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:github/nicklockwood/SwiftFormat@0.58.7",
+      "id": "pkg:github/nicklockwood/SwiftFormat@0.59.0",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -16274,7 +16274,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/realm/SwiftLint@0.63.1",
+      "id": "pkg:github/realm/SwiftLint@0.63.2",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -17254,7 +17254,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/Myriad-Dreamin/tinymist@v0.14.8",
+      "id": "pkg:github/Myriad-Dreamin/tinymist@v0.14.10",
       "asset": [
         {
           "target": "linux_x64_gnu",
@@ -17406,7 +17406,7 @@
       "lspconfig": "tombi"
     },
     "source": {
-      "id": "pkg:pypi/tombi@0.7.22"
+      "id": "pkg:pypi/tombi@0.7.25"
     },
     "bin": {
       "tombi": "pypi:tombi"
@@ -17668,7 +17668,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/@typescript/native-preview@7.0.0-dev.20260120.1"
+      "id": "pkg:npm/@typescript/native-preview@7.0.0-dev.20260128.1"
     },
     "bin": {
       "tsgo": "npm:tsgo"
@@ -17734,7 +17734,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:composer/vincentlanglet/twig-cs-fixer@3.12.0"
+      "id": "pkg:composer/vincentlanglet/twig-cs-fixer@3.13.0"
     },
     "bin": {
       "twig-cs-fixer": "composer:twig-cs-fixer"
@@ -17806,7 +17806,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:pypi/ty@0.0.13"
+      "id": "pkg:pypi/ty@0.0.14"
     },
     "bin": {
       "ty": "pypi:ty"
@@ -17929,7 +17929,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/crate-ci/typos@v1.42.1",
+      "id": "pkg:github/crate-ci/typos@v1.42.3",
       "asset": [
         {
           "target": "darwin_x64",
@@ -18193,7 +18193,7 @@
     ],
     "categories": [],
     "source": {
-      "id": "pkg:github/astral-sh/uv@0.9.26",
+      "id": "pkg:github/astral-sh/uv@0.9.27",
       "asset": [
         {
           "target": "darwin_x64",
@@ -19029,9 +19029,10 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/%40vue/language-server@3.2.2",
+      "id": "pkg:npm/%40vue/language-server@3.2.4",
       "extra_packages": [
-        "typescript"
+        "typescript",
+        "@vue/typescript-plugin"
       ]
     },
     "schemas": {
@@ -19383,7 +19384,7 @@
       "Runtime"
     ],
     "source": {
-      "id": "pkg:github/cpisciotta/xcbeautify@3.1.2",
+      "id": "pkg:github/cpisciotta/xcbeautify@3.1.4",
       "asset": [
         {
           "target": "darwin_arm64",

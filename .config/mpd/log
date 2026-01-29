@@ -1397,3 +1397,164 @@
 2026-01-20T14:28:19 player: played "Curtis Stigers - Let's Go Out Tonight - 01-02 Everyone Loves Lovers.m4a"
 2026-01-20T14:32:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
 2026-01-20T14:32:48 player: played "James Taylor - You've Got a Friend.m4a"
+2026-01-21T17:06:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-21T17:07:22 player: played "Jamie Cullum - Twentysomething - 01-02 Twentysomething.m4a"
+2026-01-21T17:12:14 player: played "John Mayer - Continuum - 01-02 I Don't Trust Myself (With Loving You).m4a"
+2026-01-21T17:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-21T17:17:20 player: played "013. Kodaline - All I Want.flac"
+2026-01-21T17:22:28 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-21T17:22:51 player: played "Mike + The Mechanics - The Living Years.m4a"
+2026-01-21T17:28:11 player: played "Phil Collins - That's Just the Way It Is (2016 Remaster).m4a"
+2026-01-21T17:32:03 player: played "046. Shaggy - It Wasn't Me (Vocal 12 Mix).flac"
+2026-01-21T17:36:13 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-21T17:36:52 player: played "Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-03 Midnight Bourbon Blues.flac"
+2026-01-21T17:40:13 player: played "Cat Stevens - Tea For The Tillerman - 01-03 Wild World.m4a"
+2026-01-22T15:35:34 player: played "Paolo Conte - Jimmy, ballando.flac"
+2026-01-22T15:40:44 player: played "08. Anuv Jain - Baarishein.flac"
+2026-01-22T15:44:04 player: played "011. Anuv Jain - Mishri.flac"
+2026-01-22T15:47:43 player: played "01. Jagjit Singh - Hothon Se Chhu Lo Tum (Live In India-2001).flac"
+2026-01-22T15:54:12 player: played "02. Jagjit Singh - Woh Kaghaz Ki Kashti.flac"
+2026-01-22T15:59:45 player: played "03. Jagjit Singh - Bahut Khoobsurat (Vadh - Soundtrack Version).flac"
+2026-01-22T16:04:39 player: played "04. Jagjit Singh - Tera Chehra Hai Aaeene Jaisa (Album Version).flac"
+2026-01-22T16:09:38 player: played "05. Jagjit Singh - Muskurakar Mila Karo Humse (Album Version).flac"
+2026-01-22T16:14:03 player: played "06. Jagjit Singh - Mujhko Yakeen Hai (Edited) (Live).flac"
+2026-01-22T16:20:04 player: played "07. Jagjit Singh - Ghar Se Nikle The Hausala Karke (Album Version).flac"
+2026-01-22T16:31:05 player: played "08. Jagjit Singh - Gum Soom Yeh Jahan Hai (Album Version).flac"
+2026-01-22T16:36:41 player: played "09. Jagjit Singh - Kanton Se Daaman Uljhana (Album Version).flac"
+2026-01-22T16:41:38 player: played "1. Ghulam Ali - Apni Dhun Mein Rehta Hoon Main Bhi Terey Jaisa Hoon.flac"
+2026-01-22T16:47:14 player: played "10. Jagjit Singh - Uski Baten To Phool Hon Jaise (Album Version).flac"
+2026-01-22T16:51:05 player: played "2. Ghulam Ali - Dil Waan Se Jo Kal Shataab Aaya Bar Ko Bohat Ataab Aaya.flac"
+2026-01-22T16:55:32 player: played "3. Ghulam Ali - Gham Ki Baarish Ne Bhi Terey Naqsh Ko Dhoya Nahin Tu Ne Mujh Ko Kho Diya.flac"
+2026-01-22T16:59:30 player: played "4. Ghulam Ali - Ham Ashk-e-Gham Hain Agar Tham Rahey Rahey Na Rahey.flac"
+2026-01-22T17:03:25 player: played "5. Ghulam Ali - Jagg Mein Koyi Na Tukk Hansa Hoga Ke Na Hansney Mein Ro Diya Hoga.flac"
+2026-01-22T17:07:30 player: played "6. Ghulam Ali - Khumaar-e-Shab Mein Ussey Main Salaam Kar Baitha Jo Kaam Karna Tha.flac"
+2026-01-22T17:12:11 player: played "7. Ghulam Ali - Wo Jo Merey Paas Se Ho Kar Kisi Kay Ghar Gaya Reshmi Malboos Ki Khushbu Se.flac"
+2026-01-22T17:16:50 player: played "8. Ghulam Ali - Yaad Kar Wo Din Ke Tera Koyi Saudaayi Na Tha Ba-Wujood-e-Husn Tu.flac"
+2026-01-22T17:23:27 player: played "Lata Mangeshkar - Luka Chuppi.flac"
+2026-01-22T18:49:34 player: played "Classical_villian/Classical Music for the Villains out there ✦ Epic Music ✦ [-ZWwmVDQ20Q].opus"
+2026-01-24T08:39:50 player: played "Classical_villian/Classical Music for When You’re on a Deadline [QjkaWADdU9w].opus"
+2026-01-28T13:30:00 config: option "device" on line 16 was not recognized
+2026-01-28T13:30:13 player: played "Classical_villian/Classical Music for When You’re on a Deadline [QjkaWADdU9w].opus"
+2026-01-28T13:32:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T13:32:54 player: played "017. AGNEZ MO - Get Loose (Remix).flac"
+2026-01-28T13:36:58 player: played "Brodha V - Aathma Raama - 01-01 Aathma Raama.m4a"
+2026-01-28T13:40:42 player: played "021. Daniel Schulz - Turn Back Time.flac"
+2026-01-28T13:44:27 player: played "013. Darshan Raval - Baarishon Mein.flac"
+2026-01-28T13:48:22 player: played "052. Darshan Raval - Ek Tarfa.flac"
+2026-01-28T13:52:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T13:53:45 player: played "06. Darshan Raval - Main Woh Chaand.flac"
+2026-01-28T13:56:59 player: played "ELLIOT JAMES REAY - I Think They Call This Love.m4a"
+2026-01-28T14:01:47 player: played "017. Labrinth - Jealous.flac"
+2026-01-28T14:04:33 player: played "06. Nish - Standing By you.flac"
+2026-01-28T14:07:55 player: played "036. Sachet Tandon - Shiv Panchakshar Stotra.flac"
+2026-01-28T14:11:24 player: played "14. Tones and I - Dance Monkey.flac"
+2026-01-28T14:15:37 player: played "051. Vilen - Chidiya.flac"
+2026-01-28T14:18:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:19:35 player: played "Windows Are Rolled Down.opus"
+2026-01-28T14:19:52 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:19:52 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:28:52 player: played "Black Pumas - Black Pumas (Deluxe Edition) - 01-02 Colors.m4a"
+2026-01-28T14:32:33 player: played "13. Bruno Mars - Just the Way You Are.flac"
+2026-01-28T14:37:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:37:53 player: played "Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-02 Midnight Blues Serenade.flac"
+2026-01-28T14:37:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:37:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:41:33 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:41:55 player: played "Curtis Stigers - Let's Go Out Tonight - 01-02 Everyone Loves Lovers.m4a"
+2026-01-28T14:42:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:42:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:46:02 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:46:24 player: played "James Taylor - You've Got a Friend.m4a"
+2026-01-28T14:46:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:46:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:49:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:50:05 player: played "Jamie Cullum - Twentysomething - 01-02 Twentysomething.m4a"
+2026-01-28T14:50:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:50:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:54:35 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:54:57 player: played "John Mayer - Continuum - 01-02 I Don't Trust Myself (With Loving You).m4a"
+2026-01-28T14:54:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T14:54:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:01:03 player: played "Kabir Cafe - Panchrang - 01-02 Matkar Maya Ko Ahankar.m4a"
+2026-01-28T15:06:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:06:43 player: played "013. Kodaline - All I Want.flac"
+2026-01-28T15:06:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:06:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:11:51 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:12:14 player: played "Mike + The Mechanics - The Living Years.m4a"
+2026-01-28T15:12:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:12:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:17:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:17:34 player: played "Phil Collins - That's Just the Way It Is (2016 Remaster).m4a"
+2026-01-28T15:17:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:17:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:21:36 player: played "John Mayer - Continuum - 01-03 Belief.m4a"
+2026-01-28T15:25:59 player: played "Paolo Conte - Jimmy, ballando.flac"
+2026-01-28T15:39:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:39:42 player: played "049. Bassnectar - Speakerbox (feat. Lafa Taylor).flac"
+2026-01-28T15:39:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:39:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:47:23 player: played "Brad Paisley - Letter to Me.m4a"
+2026-01-28T15:50:48 player: played "016. Calum Scott - You Are The Reason.flac"
+2026-01-28T15:55:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:55:49 player: played "Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-04 Midnight Glass.flac"
+2026-01-28T15:55:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T15:55:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:00:13 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:00:33 player: played "Curtis Stigers - Let's Go Out Tonight - 01-04 Goodbye.m4a"
+2026-01-28T16:00:33 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:00:33 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:04:39 player: played "John Mayer - Continuum - 01-04 Gravity.m4a"
+2026-01-28T16:08:23 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:09:01 player: played "11. WARHALL - Dead Man Walking.flac"
+2026-01-28T16:09:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:09:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:13:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:13:51 player: played "Black Pumas - Black Pumas (Deluxe Edition) - 01-05 OCT 33.m4a"
+2026-01-28T16:13:51 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:13:51 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:18:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:18:40 player: played "Jamie Cullum - Twentysomething - 01-05 Lover, You Should Have Come Over.m4a"
+2026-01-28T16:18:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:18:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:21:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:21:59 player: played "John Mayer - Continuum - 01-05 The Heart of Life.m4a"
+2026-01-28T16:21:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:21:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:21:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:34:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:34:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:34:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:35:58 player: played "Lynyrd Skynyrd - Simple Man.m4a"
+2026-01-28T16:38:58 player: played "The Jackson 5 - The Definitive Collection - 01-05 Never Can Say Goodbye (Single Version).flac"
+2026-01-28T16:40:36 player: played "19. The Minions - I Swear.flac"
+2026-01-28T16:44:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:45:18 player: played "Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-06 Midnight on My Mind.flac"
+2026-01-28T16:45:19 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:45:19 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:49:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:49:56 player: played "Frank Sinatra - My Way.m4a"
+2026-01-28T16:49:56 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:49:56 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:53:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:54:19 player: played "Negramaro - Mentre Tutto Scorre (Deluxe Version) - 01-07 Ogni Mio Istante.m4a"
+2026-01-28T16:54:19 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:54:19 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T16:59:06 player: played "Paolo Conte - Blu notte.m4a"
+2026-01-28T17:02:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T17:03:35 player: played "Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-08 Midnight Whiskey Blues.flac"
+2026-01-28T17:05:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T17:05:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T17:06:52 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T17:06:52 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T17:06:52 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T17:23:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T17:24:15 player: played "Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-10 Aisa Bana Sanwarna Mubarik Tumhen.m4a"
+2026-01-28T17:29:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T17:29:30 player: played "Ghulam Ali - Musafir Chalte Chalte Thak Gaya Hai.m4a"
+2026-01-28T17:56:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T17:56:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T18:01:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T18:01:58 player: played "Nusrat Fateh Ali Khan - Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai.m4a"
+2026-01-28T18:01:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-28T18:01:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
