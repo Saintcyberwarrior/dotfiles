@@ -1558,3 +1558,60 @@
 2026-01-28T18:01:58 player: played "Nusrat Fateh Ali Khan - Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai.m4a"
 2026-01-28T18:01:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
 2026-01-28T18:01:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-29T13:23:11 player: played "Surinder Kaur - Main Tenu.flac"
+2026-01-29T13:26:49 player: played "01. Jagjit Singh - Hothon Se Chhu Lo Tum (Live In India-2001).flac"
+2026-01-29T13:33:19 player: played "02. Jagjit Singh - Woh Kaghaz Ki Kashti.flac"
+2026-01-29T13:38:51 player: played "03. Jagjit Singh - Bahut Khoobsurat (Vadh - Soundtrack Version).flac"
+2026-01-29T13:43:46 player: played "04. Jagjit Singh - Tera Chehra Hai Aaeene Jaisa (Album Version).flac"
+2026-01-29T13:48:11 player: played "06. Jagjit Singh - Mujhko Yakeen Hai (Edited) (Live).flac"
+2026-01-29T13:54:13 player: played "07. Jagjit Singh - Ghar Se Nikle The Hausala Karke (Album Version).flac"
+2026-01-29T13:59:14 player: played "08. Jagjit Singh - Gum Soom Yeh Jahan Hai (Album Version).flac"
+2026-01-29T14:04:50 player: played "09. Jagjit Singh - Kanton Se Daaman Uljhana (Album Version).flac"
+2026-01-29T14:09:47 player: played "1. Ghulam Ali - Apni Dhun Mein Rehta Hoon Main Bhi Terey Jaisa Hoon.flac"
+2026-01-29T16:40:20 player: played "10. Jagjit Singh - Uski Baten To Phool Hon Jaise (Album Version).flac"
+2026-01-30T22:20:50 player: played "2. Ghulam Ali - Dil Waan Se Jo Kal Shataab Aaya Bar Ko Bohat Ataab Aaya.flac"
+2026-01-31T02:16:16 config: option "device" on line 16 was not recognized
+2026-01-31T02:16:24 player: played "2. Ghulam Ali - Dil Waan Se Jo Kal Shataab Aaya Bar Ko Bohat Ataab Aaya.flac"
+2026-01-31T02:17:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-31T02:17:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-31T02:17:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-31T02:19:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-31T02:20:20 player: played "Jagjit Singh - Koi Yeh Kaise Bataye.m4a"
+2026-01-31T02:24:28 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-31T02:24:49 player: played "Jagjit Singh & Javed Akhtar - Saath Saath (Original Motion Picture Soundtrack) - 01-01 Pyar Mujh Se Jo Kiya.m4a"
+2026-01-31T02:29:18 player: played "Mukesh - Jeena Yahan Marna Yahan.m4a"
+2026-01-31T02:36:40 player: played "012. Mukesh - Tauba Yeh Matwali Chaal.flac"
+2026-01-31T15:59:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-31T15:59:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-31T15:59:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-31T16:10:41 player: played "Ustad Nusrat Fateh Ali Khan & Ustad Sultan Khan - Pukaar _ The Echo - 01-03 Main to piya se naina lagaa aayi re.m4a"
+2026-01-31T16:14:19 player: played "01. Jagjit Singh - Hothon Se Chhu Lo Tum (Live In India-2001).flac"
+2026-01-31T16:20:49 player: played "02. Jagjit Singh - Woh Kaghaz Ki Kashti.flac"
+2026-01-31T16:26:22 player: played "03. Jagjit Singh - Bahut Khoobsurat (Vadh - Soundtrack Version).flac"
+2026-01-31T16:31:16 player: played "04. Jagjit Singh - Tera Chehra Hai Aaeene Jaisa (Album Version).flac"
+2026-01-31T16:36:14 player: played "05. Jagjit Singh - Muskurakar Mila Karo Humse (Album Version).flac"
+2026-01-31T17:06:58 player: played "01. Jagjit Singh - Hothon Se Chhu Lo Tum (Live In India-2001).flac"
+2026-01-31T17:14:33 player: played "02. Jagjit Singh - Woh Kaghaz Ki Kashti.flac"
+2026-01-31T17:20:06 player: played "03. Jagjit Singh - Bahut Khoobsurat (Vadh - Soundtrack Version).flac"
+2026-01-31T17:25:00 player: played "04. Jagjit Singh - Tera Chehra Hai Aaeene Jaisa (Album Version).flac"
+2026-01-31T17:29:59 player: played "05. Jagjit Singh - Muskurakar Mila Karo Humse (Album Version).flac"
+2026-01-31T17:52:18 player: played "06. Jagjit Singh - Mujhko Yakeen Hai (Edited) (Live).flac"
+2026-01-31T17:58:20 player: played "07. Jagjit Singh - Ghar Se Nikle The Hausala Karke (Album Version).flac"
+2026-01-31T18:03:21 player: played "08. Jagjit Singh - Gum Soom Yeh Jahan Hai (Album Version).flac"
+2026-01-31T18:08:57 player: played "09. Jagjit Singh - Kanton Se Daaman Uljhana (Album Version).flac"
+2026-01-31T18:13:58 player: played "1. Ghulam Ali - Apni Dhun Mein Rehta Hoon Main Bhi Terey Jaisa Hoon.flac"
+2026-01-31T18:19:34 player: played "10. Jagjit Singh - Uski Baten To Phool Hon Jaise (Album Version).flac"
+2026-01-31T18:23:23 player: played "2. Ghulam Ali - Dil Waan Se Jo Kal Shataab Aaya Bar Ko Bohat Ataab Aaya.flac"
+2026-01-31T18:27:50 player: played "3. Ghulam Ali - Gham Ki Baarish Ne Bhi Terey Naqsh Ko Dhoya Nahin Tu Ne Mujh Ko Kho Diya.flac"
+2026-01-31T18:31:49 player: played "4. Ghulam Ali - Ham Ashk-e-Gham Hain Agar Tham Rahey Rahey Na Rahey.flac"
+2026-01-31T18:35:43 player: played "5. Ghulam Ali - Jagg Mein Koyi Na Tukk Hansa Hoga Ke Na Hansney Mein Ro Diya Hoga.flac"
+2026-01-31T18:39:48 player: played "6. Ghulam Ali - Khumaar-e-Shab Mein Ussey Main Salaam Kar Baitha Jo Kaam Karna Tha.flac"
+2026-01-31T18:45:57 player: played "7. Ghulam Ali - Wo Jo Merey Paas Se Ho Kar Kisi Kay Ghar Gaya Reshmi Malboos Ki Khushbu Se.flac"
+2026-01-31T18:50:36 player: played "8. Ghulam Ali - Yaad Kar Wo Din Ke Tera Koyi Saudaayi Na Tha Ba-Wujood-e-Husn Tu.flac"
+2026-01-31T18:57:12 player: played "Lata Mangeshkar - Luka Chuppi.flac"
+2026-02-01T10:45:40 player: played "Classical_villian/Classical Music for the Villains out there ✦ Epic Music ✦ [-ZWwmVDQ20Q].opus"
+2026-02-01T10:46:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T10:46:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T10:46:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T10:59:09 player: played "Ustad Nusrat Fateh Ali Khan & Ustad Sultan Khan - Pukaar _ The Echo - 01-03 Main to piya se naina lagaa aayi re.m4a"
+2026-02-01T11:03:24 player: played "12. Teriyaki Boyz - Tokyo Drift Fast  FuriousThe Fast And The FuriousTokyo Drift Soundtrack.flac"

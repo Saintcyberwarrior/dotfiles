@@ -334,6 +334,56 @@
     }
   },
   {
+    "name": "amber-lsp",
+    "description": "Amber's Language Server Protocol",
+    "homepage": "https://github.com/amber-lang/amber-lsp",
+    "licenses": [
+      "GPL-3.0"
+    ],
+    "languages": [
+      "Amber"
+    ],
+    "categories": [
+      "LSP"
+    ],
+    "source": {
+      "id": "pkg:github/amber-lang/amber-lsp@v0.1.16",
+      "asset": [
+        {
+          "target": "darwin_arm64",
+          "file": "amber-lsp-aarch64-apple-darwin.tar.gz",
+          "bin": "amber-lsp-aarch64-apple-darwin/amber-lsp"
+        },
+        {
+          "target": "darwin_x64",
+          "file": "amber-lsp-x86_64-apple-darwin.tar.gz",
+          "bin": "amber-lsp-x86_64-apple-darwin/amber-lsp"
+        },
+        {
+          "target": "linux_x64_gnu",
+          "file": "amber-lsp-x86_64-unknown-linux-gnu.tar.gz",
+          "bin": "amber-lsp-x86_64-unknown-linux-gnu/amber-lsp"
+        },
+        {
+          "target": "linux_x64_musl",
+          "file": "amber-lsp-x86_64-unknown-linux-musl.tar.gz",
+          "bin": "amber-lsp-x86_64-unknown-linux-musl/amber-lsp"
+        },
+        {
+          "target": "win_x64",
+          "file": "amber-lsp-x86_64-pc-windows-msvc.zip",
+          "bin": "amber-lsp.exe"
+        }
+      ]
+    },
+    "bin": {
+      "amber-lsp": "{{source.asset.bin}}"
+    },
+    "schemas": {
+      "lsp": "vscode:https://raw.githubusercontent.com/amber-lang/amber-lsp/{{version}}/clients/vscode/package.json"
+    }
+  },
+  {
     "name": "angular-language-server",
     "description": "The Angular Language Service provides code editors with a way to get completions, errors, hints, and navigation inside\nAngular templates. It works with external templates in separate HTML files, and also with in-line templates.\n",
     "homepage": "https://angular.io/guide/language-service",
@@ -347,7 +397,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/%40angular/language-server@21.1.1",
+      "id": "pkg:npm/%40angular/language-server@21.1.2",
       "extra_packages": [
         "typescript@5.8.3"
       ],
@@ -508,7 +558,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/forcedotcom/salesforcedx-vscode@v65.13.1",
+      "id": "pkg:github/forcedotcom/salesforcedx-vscode@v65.15.2",
       "asset": {
         "file": "salesforcedx-vscode-apex-{{ version | strip_prefix \"v\" }}.vsix"
       }
@@ -1575,7 +1625,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:github/bazelbuild/buildtools@v8.2.1",
+      "id": "pkg:github/bazelbuild/buildtools@v8.5.1",
       "asset": [
         {
           "target": "darwin_x64",
@@ -2718,7 +2768,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:npm/%40commitlint/cli@20.3.1",
+      "id": "pkg:npm/%40commitlint/cli@20.4.0",
       "extra_packages": [
         "@commitlint/config-conventional",
         "commitlint-format-json"
@@ -2790,7 +2840,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/%40github/copilot-language-server@1.417.0"
+      "id": "pkg:npm/%40github/copilot-language-server@1.418.0"
     },
     "bin": {
       "copilot-language-server": "npm:copilot-language-server"
@@ -3037,7 +3087,7 @@
     "languages": [],
     "categories": [],
     "source": {
-      "id": "pkg:npm/cronstrue@3.9.0"
+      "id": "pkg:npm/cronstrue@3.11.0"
     },
     "bin": {
       "cronstrue": "npm:cronstrue"
@@ -3526,7 +3576,7 @@
       "DAP"
     ],
     "source": {
-      "id": "pkg:pypi/debugpy@1.8.19"
+      "id": "pkg:pypi/debugpy@1.8.20"
     },
     "bin": {
       "debugpy": "pyvenv:debugpy",
@@ -3570,7 +3620,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/denoland/deno@v2.6.6",
+      "id": "pkg:github/denoland/deno@v2.6.7",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -4237,7 +4287,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/editorconfig-checker/editorconfig-checker@v3.6.0",
+      "id": "pkg:github/editorconfig-checker/editorconfig-checker@v3.6.1",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -4721,7 +4771,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/CppCXY/emmylua-analyzer-rust@0.19.0",
+      "id": "pkg:github/CppCXY/emmylua-analyzer-rust@0.20.0",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -5644,7 +5694,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:pypi/gersemi@0.25.3"
+      "id": "pkg:pypi/gersemi@0.25.4"
     },
     "bin": {
       "gersemi": "pypi:gersemi"
@@ -5664,7 +5714,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/%40actions/languageserver@0.3.43"
+      "id": "pkg:npm/%40actions/languageserver@0.3.44"
     },
     "bin": {
       "gh-actions-language-server": "npm:actions-languageserver",
@@ -9759,7 +9809,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/artempyanykh/marksman@2025-12-13",
+      "id": "pkg:github/artempyanykh/marksman@2026-01-28",
       "asset": [
         {
           "target": [
@@ -11041,7 +11091,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:pypi/oelint-adv@9.2.0"
+      "id": "pkg:pypi/oelint-adv@9.3.0"
     },
     "bin": {
       "oelint-adv": "pypi:oelint-adv"
@@ -11227,7 +11277,7 @@
       "Runtime"
     ],
     "source": {
-      "id": "pkg:github/open-policy-agent/opa@v1.12.3",
+      "id": "pkg:github/open-policy-agent/opa@v1.13.1",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -11580,7 +11630,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:github/PHP-CS-Fixer/PHP-CS-Fixer@v3.93.0",
+      "id": "pkg:github/PHP-CS-Fixer/PHP-CS-Fixer@v3.93.1",
       "asset": {
         "file": "php-cs-fixer.phar"
       }
@@ -11721,7 +11771,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/phpstan/phpstan@2.1.37",
+      "id": "pkg:github/phpstan/phpstan@2.1.38",
       "asset": {
         "file": "phpstan.phar"
       }
@@ -12430,7 +12480,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:cargo/protols@0.13.1"
+      "id": "pkg:cargo/protols@0.13.2"
     },
     "bin": {
       "protols": "cargo:protols"
@@ -12453,7 +12503,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:composer/vimeo/psalm@6.14.3"
+      "id": "pkg:composer/vimeo/psalm@6.15.0"
     },
     "bin": {
       "psalm": "composer:psalm",
@@ -12805,7 +12855,7 @@
       "Runtime"
     ],
     "source": {
-      "id": "pkg:pypi/pymobiledevice3@7.3.9"
+      "id": "pkg:pypi/pymobiledevice3@7.4.0"
     },
     "bin": {
       "pymobiledevice3": "pypi:pymobiledevice3"
@@ -12846,7 +12896,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:pypi/pyproject-fmt@2.11.1"
+      "id": "pkg:pypi/pyproject-fmt@2.12.0"
     },
     "bin": {
       "pyproject-fmt": "pypi:pyproject-fmt"
@@ -12894,7 +12944,7 @@
       "lsp": "vscode:https://raw.githubusercontent.com/facebook/pyrefly/{{version}}/lsp/package.json"
     },
     "source": {
-      "id": "pkg:pypi/pyrefly@0.50.0"
+      "id": "pkg:pypi/pyrefly@0.50.1"
     },
     "bin": {
       "pyrefly": "pypi:pyrefly"
@@ -13986,7 +14036,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/rvben/rumdl@v0.1.2",
+      "id": "pkg:github/rvben/rumdl@v0.1.7",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -14319,7 +14369,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:pypi/semgrep@1.149.0",
+      "id": "pkg:pypi/semgrep@1.150.0",
       "supported_platforms": [
         "unix"
       ]
@@ -14513,7 +14563,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:npm/%40shopify/cli@3.89.0"
+      "id": "pkg:npm/%40shopify/cli@3.90.0"
     },
     "bin": {
       "shopify": "npm:shopify"
@@ -15340,7 +15390,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:gem/sorbet@0.6.12903",
+      "id": "pkg:gem/sorbet@0.6.12908",
       "supported_platforms": [
         "unix"
       ]
@@ -15909,7 +15959,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:npm/stylelint@17.0.0"
+      "id": "pkg:npm/stylelint@17.1.0"
     },
     "bin": {
       "stylelint": "npm:stylelint"
@@ -16112,7 +16162,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/svelte-language-server@0.17.23",
+      "id": "pkg:npm/svelte-language-server@0.17.24",
       "extra_packages": [
         "typescript-svelte-plugin"
       ]
@@ -16237,7 +16287,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:github/nicklockwood/SwiftFormat@0.59.0",
+      "id": "pkg:github/nicklockwood/SwiftFormat@0.59.1",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -16790,7 +16840,7 @@
       "Runtime"
     ],
     "source": {
-      "id": "pkg:generic/hashicorp/terraform@v1.14.3",
+      "id": "pkg:generic/hashicorp/terraform@v1.14.4",
       "download": [
         {
           "target": "darwin_arm64",
@@ -17192,7 +17242,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/tilt-dev/tilt@v0.36.1",
+      "id": "pkg:github/tilt-dev/tilt@v0.36.3",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -17496,7 +17546,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/aquasecurity/trivy@v0.68.2",
+      "id": "pkg:github/aquasecurity/trivy@v0.69.0",
       "asset": [
         {
           "target": "darwin_x64",
@@ -17668,7 +17718,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/@typescript/native-preview@7.0.0-dev.20260128.1"
+      "id": "pkg:npm/@typescript/native-preview@7.0.0-dev.20260131.1"
     },
     "bin": {
       "tsgo": "npm:tsgo"
@@ -18193,7 +18243,7 @@
     ],
     "categories": [],
     "source": {
-      "id": "pkg:github/astral-sh/uv@0.9.27",
+      "id": "pkg:github/astral-sh/uv@0.9.28",
       "asset": [
         {
           "target": "darwin_x64",
@@ -18322,7 +18372,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/daveshanley/vacuum@v0.23.4",
+      "id": "pkg:github/daveshanley/vacuum@v0.23.5",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -18787,7 +18837,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/forcedotcom/salesforcedx-vscode@v65.13.1",
+      "id": "pkg:github/forcedotcom/salesforcedx-vscode@v65.15.2",
       "asset": {
         "file": "salesforcedx-vscode-visualforce-{{ version | strip_prefix \"v\" }}.vsix"
       }
@@ -19727,7 +19777,7 @@
     ],
     "categories": [],
     "source": {
-      "id": "pkg:github/mikefarah/yq@v4.50.1",
+      "id": "pkg:github/mikefarah/yq@v4.52.1",
       "asset": [
         {
           "target": "darwin_arm64",

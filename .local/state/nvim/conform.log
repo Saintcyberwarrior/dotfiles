@@ -31,3 +31,141 @@
 2025-12-03 13:55:00[ERROR] Formatter 'prettierd' error: UndefinedParserError: No parser could be inferred for file "/Users/gravity/Documents/mirror/Work/Semester_3/Advanced_Simulation_machinelearning/tif345/assignments/project-2a/project2a_clean.ipynb".
 
 2025-12-18 01:35:22[WARN] Formatter 'prettierd' timeout
+2026-01-29 13:14:03[ERROR] Formatter 'prettierd' error: node:internal/modules/cjs/loader:1368
+  throw err;
+  ^
+
+Error: Cannot find module '../dist/prettierd.js'
+Require stack:
+- /Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1365:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1021:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1026:22)
+    at Function._load (node:internal/modules/cjs/loader:1175:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1445:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1688:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd' ]
+}
+
+Node.js v22.18.0
+
+2026-01-29 13:14:03[ERROR] Formatter 'prettierd' error: node:internal/modules/cjs/loader:1368
+  throw err;
+  ^
+
+Error: Cannot find module '../dist/prettierd.js'
+Require stack:
+- /Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1365:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1021:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1026:22)
+    at Function._load (node:internal/modules/cjs/loader:1175:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1445:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1688:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd' ]
+}
+
+Node.js v22.18.0
+
+2026-01-29 13:33:43[ERROR] Formatter 'prettierd' error: node:internal/modules/cjs/loader:1368
+  throw err;
+  ^
+
+Error: Cannot find module '../dist/prettierd.js'
+Require stack:
+- /Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1365:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1021:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1026:22)
+    at Function._load (node:internal/modules/cjs/loader:1175:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1445:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1688:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd' ]
+}
+
+Node.js v22.18.0
+
+2026-01-29 13:33:43[ERROR] Formatter 'prettierd' error: node:internal/modules/cjs/loader:1368
+  throw err;
+  ^
+
+Error: Cannot find module '../dist/prettierd.js'
+Require stack:
+- /Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1365:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1021:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1026:22)
+    at Function._load (node:internal/modules/cjs/loader:1175:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1445:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1688:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd' ]
+}
+
+Node.js v22.18.0
+
+2026-01-29 14:01:52[ERROR] Formatter 'prettierd' error: node:internal/modules/cjs/loader:1368
+  throw err;
+  ^
+
+Error: Cannot find module '../dist/prettierd.js'
+Require stack:
+- /Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1365:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1021:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1026:22)
+    at Function._load (node:internal/modules/cjs/loader:1175:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1445:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1688:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd' ]
+}
+
+Node.js v22.18.0
+
+2026-01-29 14:01:52[ERROR] Formatter 'prettierd' error: node:internal/modules/cjs/loader:1368
+  throw err;
+  ^
+
+Error: Cannot find module '../dist/prettierd.js'
+Require stack:
+- /Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1365:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1021:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1026:22)
+    at Function._load (node:internal/modules/cjs/loader:1175:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1445:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1688:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/gravity/dotfiles/.local/share/nvim/mason/bin/prettierd' ]
+}
+
+Node.js v22.18.0
+

@@ -1,8 +1,6 @@
 sw_volume: 100
 audio_device_state:1:LibAO
-state: pause
-current: 55
-time: 301.701
+state: stop
 random: 0
 repeat: 0
 single: 0
@@ -12,79 +10,6 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:017. AGNEZ MO - Get Loose (Remix).flac
-1:Brodha V - Aathma Raama - 01-01 Aathma Raama.m4a
-2:021. Daniel Schulz - Turn Back Time.flac
-3:013. Darshan Raval - Baarishon Mein.flac
-4:052. Darshan Raval - Ek Tarfa.flac
-5:06. Darshan Raval - Main Woh Chaand.flac
-6:ELLIOT JAMES REAY - I Think They Call This Love.m4a
-7:017. Labrinth - Jealous.flac
-8:06. Nish - Standing By you.flac
-9:036. Sachet Tandon - Shiv Panchakshar Stotra.flac
-10:14. Tones and I - Dance Monkey.flac
-11:051. Vilen - Chidiya.flac
-12:Windows Are Rolled Down.opus
-13:Black Pumas - Black Pumas (Deluxe Edition) - 01-02 Colors.m4a
-14:13. Bruno Mars - Just the Way You Are.flac
-15:Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-02 Midnight Blues Serenade.flac
-16:Curtis Stigers - Let's Go Out Tonight - 01-02 Everyone Loves Lovers.m4a
-17:James Taylor - You've Got a Friend.m4a
-18:Jamie Cullum - Twentysomething - 01-02 Twentysomething.m4a
-19:John Mayer - Continuum - 01-02 I Don't Trust Myself (With Loving You).m4a
-20:Kabir Cafe - Panchrang - 01-02 Matkar Maya Ko Ahankar.m4a
-21:013. Kodaline - All I Want.flac
-22:Mike + The Mechanics - The Living Years.m4a
-23:Phil Collins - That's Just the Way It Is (2016 Remaster).m4a
-24:John Mayer - Continuum - 01-03 Belief.m4a
-25:Paolo Conte - Jimmy, ballando.flac
-26:049. Bassnectar - Speakerbox (feat. Lafa Taylor).flac
-27:Brad Paisley - Letter to Me.m4a
-28:016. Calum Scott - You Are The Reason.flac
-29:Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-04 Midnight Glass.flac
-30:Curtis Stigers - Let's Go Out Tonight - 01-04 Goodbye.m4a
-31:John Mayer - Continuum - 01-04 Gravity.m4a
-32:11. WARHALL - Dead Man Walking.flac
-33:Black Pumas - Black Pumas (Deluxe Edition) - 01-05 OCT 33.m4a
-34:Jamie Cullum - Twentysomething - 01-05 Lover, You Should Have Come Over.m4a
-35:John Mayer - Continuum - 01-05 The Heart of Life.m4a
-36:Lynyrd Skynyrd - Simple Man.m4a
-37:The Jackson 5 - The Definitive Collection - 01-05 Never Can Say Goodbye (Single Version).flac
-38:19. The Minions - I Swear.flac
-39:Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-06 Midnight on My Mind.flac
-40:Frank Sinatra - My Way.m4a
-41:Negramaro - Mentre Tutto Scorre (Deluxe Version) - 01-07 Ogni Mio Istante.m4a
-42:Paolo Conte - Blu notte.m4a
-43:Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-08 Midnight Whiskey Blues.flac
-44:John Mayer - Continuum - 01-08 Slow Dancing in a Burning Room.m4a
-45:Chicago Blues Radio - Chicago Blues Radio, Vol. 001 - 01-09 Whiskey and Midnight.flac
-46:John Mayer - Continuum - 01-09 Bold as Love.m4a
-47:043. Tapas Relia - The War Begins (Background Music).flac
-48:Cat Stevens - Father And Son.m4a
-49:Curtis Stigers - Let's Go Out Tonight - 01-10 Let's Go Out Tonight.m4a
-50:Jamie Cullum - Twentysomething - 01-10 It's About Time.m4a
-51:John Mayer - Continuum - 01-10 Dreaming with a Broken Heart.m4a
-52:Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-10 Aisa Bana Sanwarna Mubarik Tumhen.m4a
-53:Ghulam Ali - Musafir Chalte Chalte Thak Gaya Hai.m4a
-54:Nusrat Fateh Ali Khan - Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai.m4a
-55:Nusrat Fateh Ali Khan - Best Of Ustad Nusrat Fateh Ali Khan - 01-23 Ja Dil Tenoon De Chadya.m4a
-56:Surinder Kaur - Main Tenu.flac
-57:01. Jagjit Singh - Hothon Se Chhu Lo Tum (Live In India-2001).flac
-58:02. Jagjit Singh - Woh Kaghaz Ki Kashti.flac
-59:03. Jagjit Singh - Bahut Khoobsurat (Vadh - Soundtrack Version).flac
-60:04. Jagjit Singh - Tera Chehra Hai Aaeene Jaisa (Album Version).flac
-61:06. Jagjit Singh - Mujhko Yakeen Hai (Edited) (Live).flac
-62:07. Jagjit Singh - Ghar Se Nikle The Hausala Karke (Album Version).flac
-63:08. Jagjit Singh - Gum Soom Yeh Jahan Hai (Album Version).flac
-64:09. Jagjit Singh - Kanton Se Daaman Uljhana (Album Version).flac
-65:1. Ghulam Ali - Apni Dhun Mein Rehta Hoon Main Bhi Terey Jaisa Hoon.flac
-66:10. Jagjit Singh - Uski Baten To Phool Hon Jaise (Album Version).flac
-67:2. Ghulam Ali - Dil Waan Se Jo Kal Shataab Aaya Bar Ko Bohat Ataab Aaya.flac
-68:3. Ghulam Ali - Gham Ki Baarish Ne Bhi Terey Naqsh Ko Dhoya Nahin Tu Ne Mujh Ko Kho Diya.flac
-69:4. Ghulam Ali - Ham Ashk-e-Gham Hain Agar Tham Rahey Rahey Na Rahey.flac
-70:5. Ghulam Ali - Jagg Mein Koyi Na Tukk Hansa Hoga Ke Na Hansney Mein Ro Diya Hoga.flac
-71:6. Ghulam Ali - Khumaar-e-Shab Mein Ussey Main Salaam Kar Baitha Jo Kaam Karna Tha.flac
-72:7. Ghulam Ali - Wo Jo Merey Paas Se Ho Kar Kisi Kay Ghar Gaya Reshmi Malboos Ki Khushbu Se.flac
-73:8. Ghulam Ali - Yaad Kar Wo Din Ke Tera Koyi Saudaayi Na Tha Ba-Wujood-e-Husn Tu.flac
-74:Lata Mangeshkar - Luka Chuppi.flac
+0:Ustad Nusrat Fateh Ali Khan & Ustad Sultan Khan - Pukaar _ The Echo - 01-03 Main to piya se naina lagaa aayi re.m4a
+1:12. Teriyaki Boyz - Tokyo Drift Fast  FuriousThe Fast And The FuriousTokyo Drift Soundtrack.flac
 playlist_end
