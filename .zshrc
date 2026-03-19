@@ -109,6 +109,10 @@ function y() {
 }
 
 export ZOTERO_API_KEY="MAKZxlmcNDamICB3h5GBjYVt"
+
+programs.zsh.initExtra = ''
+  eval "$(/opt/homebrew/bin/brew shellenv)"
+'';
 #export ZOTERO_READER=zreader
 
 # open any Zotero attachment in zathura

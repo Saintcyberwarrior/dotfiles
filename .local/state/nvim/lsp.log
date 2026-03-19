@@ -2,3 +2,7 @@
 [ERROR][2025-09-04 16:16:23] ...lsp/handlers.lua:562	"Your workspace is set to `/Users/gravity`. Lua language server refused to load this directory. Please check your configuration.[learn more here](https://luals.github.io/wiki/faq#why-is-the-server-scanning-the-wrong-folder)"
 [START][2025-10-15 21:49:16] LSP logging initiated
 [WARN][2025-10-15 21:49:16] .../lua/vim/lsp.lua:52	"method textDocument/implementation is not supported by any of the servers registered for the current buffer"
+[START][2026-03-08 15:10:29] LSP logging initiated
+[WARN][2026-03-08 15:10:29] .../lua/vim/lsp.lua:52	"method textDocument/definition is not supported by any of the servers registered for the current buffer"
+[WARN][2026-03-08 15:10:31] .../lua/vim/lsp.lua:52	"method textDocument/definition is not supported by any of the servers registered for the current buffer"
+[WARN][2026-03-08 15:10:34] .../lua/vim/lsp.lua:52	"method textDocument/definition is not supported by any of the servers registered for the current buffer"

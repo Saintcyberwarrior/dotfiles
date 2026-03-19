@@ -1,6 +1,8 @@
 sw_volume: 100
 audio_device_state:1:LibAO
-state: stop
+state: pause
+current: 30
+time: 125.363
 random: 0
 repeat: 0
 single: 0
@@ -10,6 +12,37 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:Ustad Nusrat Fateh Ali Khan & Ustad Sultan Khan - Pukaar _ The Echo - 01-03 Main to piya se naina lagaa aayi re.m4a
-1:12. Teriyaki Boyz - Tokyo Drift Fast  FuriousThe Fast And The FuriousTokyo Drift Soundtrack.flac
+0:Italian_cafe/Cafe Aurora - Italia - 01-07 Флоренция.m4a
+1:Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-14 Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai.m4a
+2:007. B Praak - Dholna.flac
+3:032. Deep Jandu - Bombay To Punjab.flac
+4:Pritam, Amit Mishra & Shilpa Rao - Bulleya.m4a
+5:11. WARHALL - Dead Man Walking.flac
+6:071. Harrdy Sandhu - Naah.flac
+7:Paolo Conte - Jimmy, ballando.flac
+8:058. Imagine Dragons - Thunder.flac
+9:052. Darshan Raval - Ek Tarfa.flac
+10:032. Harrdy Sandhu - Backbone.flac
+11:04. Diljit Dosanjh - Thug Life.flac
+12:09. Indravathi Chauhan - Oo Antava Oo Oo Antava (From Pushpa - The Rise (Part - 01)).flac
+13:Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-38 Felice (Short Mix).m4a
+14:Black Pumas - Black Pumas (Deluxe Edition) - 02-11 Ain't No Love In The Heart of The City.m4a
+15:010. B Praak - Jhaanjar.flac
+16:Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-27 Ode al Vino Rosso.m4a
+17:Indeevar - Kasme Wade Pyar Wafa.flac
+18:John Mayer - Continuum - 01-01 Waiting On the World to Change.m4a
+19:Cat Stevens - Father And Son.m4a
+20:Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-39 Santa Clarita (Short Mix).m4a
+21:09. Jubin Nautiyal - Tum Hi Aana (Sad Version) [From Marjaavaan].flac
+22:Nusrat Fateh Ali Khan - Best Of Ustad Nusrat Fateh Ali Khan - 01-23 Ja Dil Tenoon De Chadya.m4a
+23:Kamaal Ho Gea (From Kamaal Ho Gea).opus
+24:Franco Battiato - L'Imboscata - 01-03 La Cura.m4a
+25:Pink Martini - Hang on Little Tomato - 01-12 Kikuchiyo To Mohshimasu.flac
+26:Pink Martini - Hang on Little Tomato - 01-12 Kikuchiyo To Mohshimasu.flac
+27:Pink Martini - Sympathique - 01-06 ¿Donde éstas, Yolanda_.flac
+28:004. RAHAT FATEH ALI KHAN - Zaroori Tha.flac
+29:11. RAHAT FATEH ALI KHAN - Meray Pass Tum Ho (Original Motion Picture Soundtrack).flac
+30:Sergio Endrigo - Collection_ Sergio Endrigo - 01-31 Lontano dagli occhi.m4a
+31:Stan Getz - カフェで愉しむジャズBGM（チル・リラックス・ボサノバ・コーヒータイム） - 01-13 The Girl From Ipanema.m4a
+32:12. Teriyaki Boyz - Tokyo Drift Fast  FuriousThe Fast And The FuriousTokyo Drift Soundtrack.flac
 playlist_end

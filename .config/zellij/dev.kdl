@@ -1,0 +1,13 @@
+layout {
+    pane size=70% {
+        command "nvim"
+    }
+    pane split_direction="vertical" {
+        pane {
+            command "zsh"
+        }
+        pane size=30% {
+            command "zsh"
+        }
+    }
+}

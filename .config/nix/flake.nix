@@ -73,7 +73,7 @@
             fastfetch
             yazi
             cmus
-            cava
+            #cava
             mpd
             rmpc
 
@@ -83,7 +83,7 @@
             lua
             lua-language-server
             stylua
-            gdb-dashboard
+            #gdb-dashboard
             codex
             gemini-cli
             android-tools
@@ -130,12 +130,15 @@
               "mas"
               "check"
               "media-control"
+              #"graph-tool"
+              "mole"
             ];
 
             casks = [
               # Browsers
               "firefox"
               "orion"
+              "brave-browser"
 
               # Terminal
               "ghostty"
@@ -175,7 +178,7 @@
               env = pkgs.buildEnv {
                 name = "system-applications";
                 paths = config.environment.systemPackages;
-                pathsToLink = "/Applications";
+                pathsToLink = [ "/Applications" ];
               };
             in
             pkgs.lib.mkForce ''

@@ -1029,6 +1029,19 @@ Format: 44100:24:2
 mtime: 1766779295
 added: 1766808271
 song_end
+song_begin: Lucio Dalla - 12000 lune - 01-01 Caruso.flac
+Time: 313.04
+Title: Caruso
+Artist: Lucio Dalla
+AlbumArtist: Lucio Dalla
+Album: 12000 lune
+Track: 1
+Disc: 1
+Date: 2008
+Format: 44100:16:2
+mtime: 1771508820
+added: 1772626143
+song_end
 song_begin: 002. Mahalakshmi Iyer - Khud Ko Tere.flac
 Time: 306.921
 Album: 1920 Evil Returns
@@ -1315,6 +1328,19 @@ Format: 44100:16:2
 mtime: 1766777040
 added: 1766808271
 song_end
+song_begin: Ornella Vanoni - Appuntamento Con Ornella Vanoni - 01-01 L'appuntamento.flac
+Time: 275.50600000000003
+Title: L'appuntamento
+Artist: Ornella Vanoni
+AlbumArtist: Ornella Vanoni
+Album: Appuntamento Con Ornella Vanoni
+Track: 1
+Disc: 1
+Date: 2008
+Format: 44100:16:2
+mtime: 1768485902
+added: 1770291425
+song_end
 song_begin: 03. Anirudh Ravichander - Arabic Kuthu - Halamithi Habibo (From Beast).flac
 Time: 279.677
 Album: Arabic Kuthu - Halamithi Habibo (From "Beast")
@@ -1593,6 +1619,32 @@ Format: 44100:f:2
 mtime: 1766681092
 added: 1766682184
 song_end
+song_begin: Chris Isaak - Wicked Game.flac
+Time: 286.88
+Title: Wicked Game
+Artist: Chris Isaak
+AlbumArtist: Chris Isaak
+Album: Best Of Chris Isaak
+Track: 3
+Disc: 1
+Date: 2021
+Format: 44100:16:2
+mtime: 1772112797
+added: 1772626142
+song_end
+song_begin: Paolo Conte - Best of Paolo Conte - 03-01 Via con me.m4a
+Time: 167.653
+Artist: Paolo Conte
+Album: Best of Paolo Conte
+Title: Via con me
+Track: 1
+Date: 2022
+Disc: 3
+AlbumArtist: Paolo Conte
+Format: 44100:f:2
+mtime: 1768487980
+added: 1770291425
+song_end
 song_begin: Nusrat Fateh Ali Khan - Best Of Ustad Nusrat Fateh Ali Khan - 01-23 Ja Dil Tenoon De Chadya.m4a
 Time: 1562.375
 Artist: Nusrat Fateh Ali Khan
@@ -1606,6 +1658,45 @@ Format: 44100:f:2
 mtime: 1767736265
 added: 1768312177
 song_end
+song_begin: Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-04 Tum Ek Gorakh Dhanda Ho.m4a
+Time: 1817.448
+Artist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Title: Tum Ek Gorakh Dhanda Ho
+Track: 4
+Date: 2024
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1767735828
+added: 1772626142
+song_end
+song_begin: Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-08 Ankh Uthi Mohabbat Ne.m4a
+Time: 1163.282
+Artist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Title: Ankh Uthi Mohabbat Ne
+Track: 8
+Date: 2024
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1767735848
+added: 1772626142
+song_end
+song_begin: Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-09 Kali Kali Zulfon Ke Phande Na.m4a
+Time: 859.345
+Artist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Title: Kali Kali Zulfon Ke Phande Na
+Track: 9
+Date: 2024
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1767735856
+added: 1772626143
+song_end
 song_begin: Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-10 Aisa Bana Sanwarna Mubarik Tumhen.m4a
 Time: 1043.529
 Artist: Nusrat Fateh Ali Khan
@@ -1616,8 +1707,21 @@ Date: 2024
 Disc: 1
 AlbumArtist: Nusrat Fateh Ali Khan
 Format: 44100:f:2
-mtime: 1766678784
+mtime: 1767735860
 added: 1766680097
+song_end
+song_begin: Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-14 Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai.m4a
+Time: 1731.131
+Artist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Title: Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai
+Track: 14
+Date: 2024
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1767735884
+added: 1772626142
 song_end
 song_begin: Nusrat Fateh Ali Khan - Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai.m4a
 Time: 1731.131
@@ -1631,6 +1735,71 @@ AlbumArtist: Nusrat Fateh Ali Khan
 Format: 44100:f:2
 mtime: 1766681865
 added: 1766682184
+song_end
+song_begin: Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-16 Kehte Ho Ishq Ka Afsana Chahiye.m4a
+Time: 1503.901
+Artist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Title: Kehte Ho Ishq Ka Afsana Chahiye
+Track: 16
+Date: 2024
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1767735898
+added: 1772626142
+song_end
+song_begin: Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-18 Kehna Ghalat Ghalat.m4a
+Time: 1603.695
+Artist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Title: Kehna Ghalat Ghalat
+Track: 18
+Date: 2024
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1767735908
+added: 1772626142
+song_end
+song_begin: Nusrat Fateh Ali Khan - Tere Darwaze Peh Chilman Nahin Dekhi Jati.flac
+Time: 1142.099
+Title: Tere Darwaze Peh Chilman Nahin Dekhi Jati
+Artist: Nusrat Fateh Ali Khan
+AlbumArtist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Track: 23
+Disc: 1
+Date: 2024
+Format: 44100:16:2
+mtime: 1770897802
+added: 1772626143
+song_end
+song_begin: Nusrat Fateh Ali Khan - Dil Pe Zakham Khate Hain.flac
+Time: 567.828
+Title: Dil Pe Zakham Khate Hain
+Artist: Nusrat Fateh Ali Khan
+AlbumArtist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Track: 24
+Disc: 1
+Date: 2024
+Format: 44100:16:2
+mtime: 1770897819
+added: 1772626142
+song_end
+song_begin: Nusrat Fateh Ali Khan - Best Urdu Qawwalies - 01-25 Aap Baithe Hain Balin Peh Meri.m4a
+Time: 941.1080000000001
+Artist: Nusrat Fateh Ali Khan
+Album: Best Urdu Qawwalies
+Title: Aap Baithe Hain Balin Peh Meri
+Track: 25
+Date: 2024
+Disc: 1
+AlbumArtist: Nusrat Fateh Ali Khan
+Format: 44100:f:2
+mtime: 1767735948
+added: 1772626142
 song_end
 song_begin: 008. Shankar Ehsaan Loy - Zinda.flac
 Time: 210.857
@@ -1806,6 +1975,19 @@ Track: 3
 Format: 44100:16:2
 mtime: 1767130721
 added: 1768312176
+song_end
+song_begin: Chiara Civello - Canzoni - Deluxe Edition - 01-14 Senza fine.m4a
+Time: 213.411
+Artist: Chiara Civello
+Album: Canzoni - Deluxe Edition
+Title: Senza fine
+Track: 14
+Date: 2024
+Disc: 1
+AlbumArtist: Chiara Civello
+Format: 44100:f:2
+mtime: 1768492093
+added: 1770291424
 song_end
 song_begin: 027. Gippy Grewal - Car Nachdi.flac
 Time: 205.30100000000002
@@ -2019,6 +2201,19 @@ Format: 44100:f:2
 mtime: 1766680664
 added: 1766682184
 song_end
+song_begin: Cigarettes After Sex - Cigarettes After Sex - 01-04 Apocalypse.flac
+Time: 290.146
+Title: Apocalypse
+Artist: Cigarettes After Sex
+AlbumArtist: Cigarettes After Sex
+Album: Cigarettes After Sex
+Track: 4
+Disc: 1
+Date: 2017
+Format: 44100:16:2
+mtime: 1770164449
+added: 1770291425
+song_end
 song_begin: 024. Sukh-E Muzical Doctorz - Coka.flac
 Time: 141.861
 Album: Coka
@@ -2046,6 +2241,19 @@ Track: 1
 Format: 44100:16:2
 mtime: 1767141931
 added: 1767383086
+song_end
+song_begin: Sergio Endrigo - Collection_ Sergio Endrigo - 01-31 Lontano dagli occhi.m4a
+Time: 225.81300000000002
+Artist: Sergio Endrigo
+Album: Collection: Sergio Endrigo
+Title: Lontano dagli occhi
+Track: 31
+Date: 2014
+Disc: 1
+AlbumArtist: Sergio Endrigo
+Format: 44100:f:2
+mtime: 1771509448
+added: 1772626143
 song_end
 song_begin: John Mayer - Continuum - 01-01 Waiting On the World to Change.m4a
 Time: 200.667
@@ -2203,6 +2411,19 @@ Format: 44100:f:2
 mtime: 1766297629
 added: 1766297787
 song_end
+song_begin: Julio Iglesias - Mammy Blue.flac
+Time: 255.693
+Title: Mammy Blue
+Artist: Julio Iglesias
+AlbumArtist: Julio Iglesias
+Album: Crazy
+Track: 3
+Disc: 1
+Date: 1994
+Format: 44100:16:2
+mtime: 1772112486
+added: 1772626143
+song_end
 song_begin: 021. Millind Gaba - Daaru Party.flac
 Time: 208.483
 Album: Daaru Party - Single
@@ -2271,6 +2492,19 @@ Format: 44100:16:2
 mtime: 1767039476
 added: 1767383086
 song_end
+song_begin: Nusrat Fateh Ali Khan - Ainwen Bol Na Banera Utte Kanwan (Live Version).flac
+Time: 2385.834
+Title: Ainwen Bol Na Banera Utte Kanwan
+Artist: Nusrat Fateh Ali Khan
+AlbumArtist: Nusrat Fateh Ali Khan
+Album: Digbeth Civic Hall UK Concert 1985, Vol. 145
+Track: 5
+Disc: 1
+Date: 2024
+Format: 44100:16:2
+mtime: 1770986206
+added: 1772626142
+song_end
 song_begin: 027. Anand Raaj Anand - Dil De Diya (From Thank God).flac
 Time: 274.088
 Album: Dil De Diya (From "Thank God")
@@ -2313,6 +2547,19 @@ Format: 48000:24:2
 mtime: 1766780298
 added: 1766808271
 song_end
+song_begin: Dean Martin - Dino_ The Essential Dean Martin - 01-08 Sway (Quien Sera).m4a
+Time: 162.347
+Artist: Dean Martin
+Album: Dino: The Essential Dean Martin
+Title: Sway (Quien Sera)
+Track: 8
+Date: 2013
+Disc: 1
+AlbumArtist: Dean Martin
+Format: 44100:f:2
+mtime: 1768488689
+added: 1770291425
+song_end
 song_begin: 004. Garry Sandhu - Do Gallan (Let's Talk).flac
 Time: 251.142
 Album: Do Gallan (Let's Talk)
@@ -2326,6 +2573,19 @@ Track: 1
 Format: 44100:16:2
 mtime: 1766779351
 added: 1766808271
+song_end
+song_begin: Domenico Modugno - Domenico Modugno - 01-07 Nel blu dipinto di blu (Aka_ Volare).m4a
+Time: 122.027
+Artist: Domenico Modugno
+Album: Domenico Modugno
+Title: Nel blu dipinto di blu
+Track: 7
+Date: 2009
+Disc: 1
+AlbumArtist: Domenico Modugno
+Format: 44100:f:2
+mtime: 1768487620
+added: 1770291424
 song_end
 song_begin: 13. Bruno Mars - Just the Way You Are.flac
 Time: 220.734
@@ -2366,6 +2626,19 @@ Track: 6
 Format: 44100:16:2
 mtime: 1766778212
 added: 1766808271
+song_end
+song_begin: Ornella Vanoni - E Poi... La Tua Bocca Da Baciare - 01-02 Estate (Album Version).m4a
+Time: 187.067
+Artist: Ornella Vanoni
+Album: E Poi... La Tua Bocca Da Baciare
+Title: Estate (Album Version)
+Track: 2
+Date: 2008
+Disc: 1
+AlbumArtist: Ornella Vanoni
+Format: 44100:f:2
+mtime: 1768491483
+added: 1770291424
 song_end
 song_begin: 061. Sanam - Ek Ladki Ko Dekha To Asia Laga.flac
 Time: 216
@@ -2541,6 +2814,19 @@ Track: 2
 Format: 44100:16:2
 mtime: 1767034872
 added: 1767383086
+song_end
+song_begin: Nusrat Fateh Ali Khan - Ranjha Mera Rab Warga (Live Version).flac
+Time: 1479.074
+Title: Ranjha Mera Rab Warga
+Artist: Nusrat Fateh Ali Khan
+AlbumArtist: Nusrat Fateh Ali Khan
+Album: Farcroft Birmingham UK Concert 1985, Vol. 148
+Track: 5
+Disc: 1
+Date: 2024
+Format: 44100:16:2
+mtime: 1770897747
+added: 1772626143
 song_end
 song_begin: 013. Sumit Goswami - Feelings.flac
 Time: 224.805
@@ -2738,6 +3024,19 @@ Format: 96000:24:2
 mtime: 1767131227
 added: 1767383086
 song_end
+song_begin: Gipsy Kings - Gipsy Kings - 01-07 A Mi Manera.m4a
+Time: 231.09300000000002
+Artist: Gipsy Kings
+Album: Gipsy Kings
+Title: A Mi Manera
+Track: 7
+Date: 2009
+Disc: 1
+AlbumArtist: Gipsy Kings
+Format: 44100:f:2
+mtime: 1768486702
+added: 1770291425
+song_end
 song_begin: 21. Joji - Glimpse of Us.flac
 Time: 233.453
 Album: Glimpse of Us
@@ -2834,20 +3133,6 @@ Format: 44100:16:2
 mtime: 1767130504
 added: 1767383086
 song_end
-song_begin: 035. Pemaram Jat - Juban Jaisi Mithi Jagat Marwadi Desi Bhajan.flac
-Time: 423.993
-Album: Guru Mahima Bhajan Marwadi Desi Bhajan
-AlbumArtist: Pemaram Jat
-Artist: Pemaram Jat
-Composer: Ganesh Puri Goswami
-Date: 2005-08-25
-Disc: 1
-Title: Juban Jaisi Mithi Jagat Marwadi Desi Bhajan
-Track: 1
-Format: 44100:16:2
-mtime: 1767134692
-added: 1767383086
-song_end
 song_begin: 084. Ammy Virk - Haaye Ve.flac
 Time: 215.59300000000002
 Album: Haaye Ve
@@ -2918,6 +3203,84 @@ Format: 44100:24:2
 mtime: 1767035726
 added: 1767383086
 song_end
+song_begin: Pink Martini - Hang on Little Tomato - 01-10 Clementine.flac
+Time: 230.4
+Title: Clementine
+Artist: Pink Martini
+AlbumArtist: Pink Martini
+Album: Hang on Little Tomato
+Track: 10
+Disc: 1
+Date: 2017
+Format: 44100:16:2
+mtime: 1771339940
+added: 1772626143
+song_end
+song_begin: Pink Martini - Hang on Little Tomato - 01-11 Una notte a Napoli.m4a
+Time: 282.547
+Artist: Pink Martini
+Album: Hang on Little Tomato
+Title: Una notte a Napoli
+Track: 11
+Date: 2017
+Disc: 1
+AlbumArtist: Pink Martini
+Format: 44100:f:2
+mtime: 1768489197
+added: 1770291424
+song_end
+song_begin: Pink Martini - Una notte a Napoli.flac
+Time: 282.546
+Title: Una notte a Napoli
+Artist: Pink Martini
+AlbumArtist: Pink Martini
+Album: Hang on Little Tomato
+Track: 11
+Disc: 1
+Date: 2017
+Format: 44100:16:2
+mtime: 1771364609
+added: 1772626142
+song_end
+song_begin: Pink Martini - Hang on Little Tomato - 01-12 Kikuchiyo To Mohshimasu.flac
+Time: 272.16
+Title: Kikuchiyo To Mohshimasu
+Artist: Pink Martini
+AlbumArtist: Pink Martini
+Album: Hang on Little Tomato
+Track: 12
+Disc: 1
+Date: 2017
+Format: 44100:16:2
+mtime: 1771340620
+added: 1772626143
+song_end
+song_begin: Pink Martini - Hang on Little Tomato - 01-13 Aspettami.flac
+Time: 218.48000000000002
+Title: Aspettami
+Artist: Pink Martini
+AlbumArtist: Pink Martini
+Album: Hang on Little Tomato
+Track: 13
+Disc: 1
+Date: 2017
+Format: 44100:16:2
+mtime: 1771340820
+added: 1772626143
+song_end
+song_begin: Pink Martini - Hang on Little Tomato - 01-14 Song of the Black Swan.flac
+Time: 130.866
+Title: Song of the Black Swan
+Artist: Pink Martini
+AlbumArtist: Pink Martini
+Album: Hang on Little Tomato
+Track: 14
+Disc: 1
+Date: 2017
+Format: 44100:16:2
+mtime: 1771341084
+added: 1772626143
+song_end
 song_begin: 043. Tapas Relia - The War Begins (Background Music).flac
 Time: 68
 Album: Hanuman (Original Motion Picture Soundtrack)
@@ -2958,6 +3321,32 @@ Track: 4
 Format: 44100:16:2
 mtime: 1766777716
 added: 1766808271
+song_end
+song_begin: Miss Pineda - Happy Italy (Jazzy Italian Lounge) - 01-07 Quando quando quando.m4a
+Time: 164.978
+Artist: Miss Pineda
+Album: Happy Italy (Jazzy Italian Lounge)
+Title: Quando quando quando
+Track: 7
+Date: 2015
+Disc: 1
+AlbumArtist: Miss Pineda
+Format: 44100:f:2
+mtime: 1768492710
+added: 1770291425
+song_end
+song_begin: Harry Styles - Sign of the Times.flac
+Time: 340.706
+Title: Sign of the Times
+Artist: Harry Styles
+AlbumArtist: Harry Styles
+Album: Harry Styles
+Track: 2
+Disc: 1
+Date: 2017
+Format: 44100:24:2
+mtime: 1770164509
+added: 1770291424
 song_end
 song_begin: 010. B Praak - Jhaanjar.flac
 Time: 235.264
@@ -3082,6 +3471,19 @@ Format: 44100:16:2
 mtime: 1767139951
 added: 1767383086
 song_end
+song_begin: Alessia Fontana - Il Modo In Cui Amavamo.flac
+Time: 185.806
+Title: Il Modo In Cui Amavamo
+Artist: Alessia Fontana
+AlbumArtist: Alessia Fontana
+Album: Il Modo In Cui Amavamo
+Track: 2
+Disc: 1
+Date: 2026
+Format: 44100:16:2
+mtime: 1772111730
+added: 1772626142
+song_end
 song_begin: 031. Garry Sandhu - Illegal Weapon.flac
 Time: 230
 Album: Illegal Weapon
@@ -3136,6 +3538,19 @@ Track: 1
 Format: 48000:24:2
 mtime: 1766778329
 added: 1766808271
+song_end
+song_begin: Jagjit Singh - Aaina Saamne Rakhoge To Yaad Aayonga.flac
+Time: 327.66700000000003
+Title: Aaina Saamne Rakhoge To Yaad Aayonga
+Artist: Jagjit Singh
+AlbumArtist: Jagjit Singh
+Album: Inteha
+Track: 1
+Disc: 1
+Date: 2009
+Format: 44100:16:2
+mtime: 1770584812
+added: 1772626143
 song_end
 song_begin: 049. Bassnectar - Speakerbox (feat. Lafa Taylor).flac
 Time: 282.272
@@ -3276,6 +3691,19 @@ Track: 1
 Format: 44100:16:2
 mtime: 1766778101
 added: 1766808271
+song_end
+song_begin: Jimmy Fontana - Jimmy Fontana - 01-01 Il mondo.m4a
+Time: 167.093
+Artist: Jimmy Fontana
+Album: Jimmy Fontana
+Title: Il mondo
+Track: 1
+Date: 2001
+Disc: 1
+AlbumArtist: Jimmy Fontana
+Format: 44100:f:2
+mtime: 1768488263
+added: 1770291425
 song_end
 song_begin: 101. Diljit Dosanjh - Jind Mahi.flac
 Time: 175
@@ -3500,6 +3928,45 @@ Format: 48000:24:2
 mtime: 1766779110
 added: 1766808271
 song_end
+song_begin: Franco Battiato - L'Imboscata - 01-03 La Cura.m4a
+Time: 243.333
+Artist: Franco Battiato
+Album: L'Imboscata
+Title: La Cura
+Track: 3
+Date: 2021
+Disc: 1
+AlbumArtist: Franco Battiato
+Format: 44100:f:2
+mtime: 1771515167
+added: 1772626142
+song_end
+song_begin: Alessia Fontana - La Ragazza della Riviera.flac
+Time: 226.046
+Title: La Ragazza della Riviera
+Artist: Alessia Fontana
+AlbumArtist: Alessia Fontana
+Album: La Ragazza della Riviera
+Track: 1
+Disc: 1
+Date: 2025
+Format: 44100:16:2
+mtime: 1772112313
+added: 1772626142
+song_end
+song_begin: Ornella Vanoni, Toquinho & Vinícius de Moraes - La voglia la pazzia l'incoscienza l'allegria - 01-03 Samba della rosa.m4a
+Time: 180.8
+Artist: Ornella Vanoni; Toquinho; Vinícius de Moraes
+Album: La voglia la pazzia l'incoscienza l'allegria
+Title: Samba della rosa
+Track: 3
+Date: 2025
+Disc: 1
+AlbumArtist: Ornella Vanoni
+Format: 44100:f:2
+mtime: 1768493449
+added: 1770291424
+song_end
 song_begin: 092. Akull - Laal Chunariya.flac
 Time: 199.578
 Album: Laal Chunariya
@@ -3581,6 +4048,32 @@ Track: 1
 Format: 44100:16:2
 mtime: 1767034948
 added: 1767383086
+song_end
+song_begin: Tony Renis - Le Canzoni di Tony Renis - 01-03 Perche, perche.m4a
+Time: 161.53300000000002
+Artist: Tony Renis
+Album: Le Canzoni di Tony Renis
+Title: Perche, perche
+Track: 3
+Date: 2022
+Disc: 1
+AlbumArtist: Tony Renis
+Format: 44100:f:2
+mtime: 1768491263
+added: 1770291425
+song_end
+song_begin: Françoise Hardy - Le temps des souvenirs - 02-12 Comment te dire adieu.m4a
+Time: 150.387
+Artist: Françoise Hardy
+Album: Le temps des souvenirs
+Title: Comment te dire adieu
+Track: 12
+Date: 2019
+Disc: 2
+AlbumArtist: Françoise Hardy
+Format: 44100:f:2
+mtime: 1768486850
+added: 1770291425
 song_end
 song_begin: Curtis Stigers - Let's Go Out Tonight - 01-02 Everyone Loves Lovers.m4a
 Time: 241.4
@@ -3674,6 +4167,19 @@ Format: 44100:f:2
 mtime: 1766681003
 added: 1766682184
 song_end
+song_begin: Luigi Tenco - Lontano, lontano nel tempo - 01-03 Ciao amore, ciao.m4a
+Time: 184.627
+Artist: Luigi Tenco
+Album: Lontano, lontano nel tempo
+Title: Ciao amore, ciao
+Track: 3
+Date: 2017
+Disc: 1
+AlbumArtist: Luigi Tenco
+Format: 44100:f:2
+mtime: 1771509242
+added: 1772626143
+song_end
 song_begin: 106. Arijit Singh - Dekh Lena (From Tum Bin 2).flac
 Time: 281.52500000000003
 Album: Loveholic Arijit Singh
@@ -3687,6 +4193,19 @@ Track: 20
 Format: 44100:16:2
 mtime: 1767144260
 added: 1768312176
+song_end
+song_begin: Tony Renis - Made In Italy - 01-01 Quando, Quando, Quando (2004 Remaster).m4a
+Time: 168.093
+Artist: Tony Renis
+Album: Made In Italy
+Title: Quando, Quando, Quando
+Track: 1
+Date: 2007
+Disc: 1
+AlbumArtist: Tony Renis
+Format: 44100:f:2
+mtime: 1768486428
+added: 1770291424
 song_end
 song_begin: 042. Ammy Virk - Main Suneya.flac
 Time: 248.59
@@ -3781,6 +4300,19 @@ Track: 1
 Format: 44100:16:2
 mtime: 1767138544
 added: 1767383086
+song_end
+song_begin: Sergio Cammariere - Mano nella mano - 01-08 Siedimi accanto.m4a
+Time: 183.387
+Artist: Sergio Cammariere
+Album: Mano nella mano
+Title: Siedimi accanto
+Track: 8
+Date: 2014
+Disc: 1
+AlbumArtist: Sergio Cammariere
+Format: 44100:f:2
+mtime: 1768494017
+added: 1770291424
 song_end
 song_begin: 025. Jubin Nautiyal - Tum Hi Aana (Sad Version).flac
 Time: 83.169
@@ -3974,6 +4506,19 @@ Track: 1
 Format: 44100:16:2
 mtime: 1767036251
 added: 1767383086
+song_end
+song_begin: Mina - MinaCantaLucio - 01-02 Il nostro caro angelo (2001 Remaster).m4a
+Time: 248.8
+Artist: Mina
+Album: MinaCantaLucio
+Title: Il nostro caro angelo (2001 Remaster)
+Track: 2
+Date: 2011
+Disc: 1
+AlbumArtist: Mina
+Format: 44100:f:2
+mtime: 1768494205
+added: 1770291424
 song_end
 song_begin: 011. Anuv Jain - Mishri.flac
 Time: 200.437
@@ -4214,6 +4759,19 @@ Format: 44100:24:2
 mtime: 1767035635
 added: 1767383086
 song_end
+song_begin: Fabrizio De Andre - Non Al Denaro, Non All'Amore, Ne Al Cielo - 01-01 La collina.m4a
+Time: 243.573
+Artist: Fabrizio De Andre
+Album: Non Al Denaro, Non All'Amore, Ne Al Cielo
+Title: La collina
+Track: 1
+Date: 2010
+Disc: 1
+AlbumArtist: Fabrizio De Andre
+Format: 44100:f:2
+mtime: 1771774958
+added: 1772626142
+song_end
 song_begin: 07. AJR - World's Smallest Violin.flac
 Time: 180.742
 Album: OK ORCHESTRA
@@ -4379,6 +4937,19 @@ Format: 44100:f:2
 mtime: 1766678600
 added: 1766680097
 song_end
+song_begin: Shirley Bassey - Pop Hits of the 70s - 01-60 (Where Do I Begin) Love Story.m4a
+Time: 197.44
+Artist: Shirley Bassey
+Album: Pop Hits of the 70s
+Title: (Where Do I Begin) Love Story
+Track: 60
+Date: 2025
+Disc: 1
+AlbumArtist: Shirley Bassey
+Format: 44100:f:2
+mtime: 1768488047
+added: 1770291424
+song_end
 song_begin: 039. Jass Manak - Prada.flac
 Time: 182.115
 Album: Prada
@@ -4406,6 +4977,19 @@ Track: 1
 Format: 48000:24:2
 mtime: 1767141779
 added: 1767383086
+song_end
+song_begin: Armando Trovajoli - Profumo di donna (Original Motion Picture Soundtrack) - 01-09 Che Vuole Questa Musica Stasera.m4a
+Time: 217.187
+Artist: Armando Trovajoli
+Album: Profumo di donna (Original Motion Picture Soundtrack)
+Title: Che Vuole Questa Musica Stasera
+Track: 9
+Date: 2020
+Disc: 1
+AlbumArtist: Armando Trovajoli
+Format: 44100:f:2
+mtime: 1768486174
+added: 1770291424
 song_end
 song_begin: 014. Harvi - Pta Mainu.flac
 Time: 164.666
@@ -4557,6 +5141,71 @@ Format: 44100:24:2
 mtime: 1766780625
 added: 1766808271
 song_end
+song_begin: Ghulam Ali - Radio Pakistan Hits By Ghulam Ali, Vol. 04 - 01-02 Eik Hee Sehr Mein.flac
+Time: 315.84000000000003
+Title: Eik Hee Sehr Mein
+Artist: Ghulam Ali
+AlbumArtist: Ghulam Ali
+Album: Radio Pakistan Hits By Ghulam Ali, Vol. 04
+Track: 2
+Disc: 1
+Date: 2026
+Format: 44100:16:2
+mtime: 1770561690
+added: 1772626142
+song_end
+song_begin: Ghulam Ali - Radio Pakistan Hits By Ghulam Ali, Vol. 04 - 01-06 Rikhsat Hova Jab.flac
+Time: 279.503
+Title: Rikhsat Hova Jab
+Artist: Ghulam Ali
+AlbumArtist: Ghulam Ali
+Album: Radio Pakistan Hits By Ghulam Ali, Vol. 04
+Track: 6
+Disc: 1
+Date: 2026
+Format: 44100:16:2
+mtime: 1770563329
+added: 1772626142
+song_end
+song_begin: Ghulam Ali - Radio Pakistan Hits By Ghulam Ali, Vol. 04 - 01-09 Tere Aane Ka Dhokha.flac
+Time: 362.976
+Title: Tere Aane Ka Dhokha
+Artist: Ghulam Ali
+AlbumArtist: Ghulam Ali
+Album: Radio Pakistan Hits By Ghulam Ali, Vol. 04
+Track: 9
+Disc: 1
+Date: 2026
+Format: 44100:16:2
+mtime: 1770564467
+added: 1772626143
+song_end
+song_begin: Ghulam Ali - Radio Pakistan Hits By Ghulam Ali, Vol.03 - 01-05 Ishq Ka Zarf Azma Tu Sahi.flac
+Time: 468.503
+Title: Ishq Ka Zarf Azma Tu Sahi
+Artist: Ghulam Ali
+AlbumArtist: Ghulam Ali
+Album: Radio Pakistan Hits By Ghulam Ali, Vol.03
+Track: 5
+Disc: 1
+Date: 2026
+Format: 44100:16:2
+mtime: 1770504786
+added: 1772626142
+song_end
+song_begin: Ghulam Ali - Radio Pakistan Hits By Ghulam Ali, Vol.03 - 01-07 Le Na Dobain Kahin Dumiya Kay Nazary.flac
+Time: 414.383
+Title: Le Na Dobain Kahin Dumiya Kay Nazary
+Artist: Ghulam Ali
+AlbumArtist: Ghulam Ali
+Album: Radio Pakistan Hits By Ghulam Ali, Vol.03
+Track: 7
+Disc: 1
+Date: 2026
+Format: 44100:16:2
+mtime: 1770505738
+added: 1772626142
+song_end
 song_begin: 030. Mohammed Rafi - DARD-E-DIL DARD-E-JIGAR.flac
 Time: 417.24
 Album: Rafi Saab - Bouncers
@@ -4610,6 +5259,19 @@ Track: 2
 Format: 44100:16:2
 mtime: 1767141450
 added: 1767383086
+song_end
+song_begin: Mario Biondi - Rio De Janeiro Blue (Live at Laima Rendezvous) - 01-01 Rio De Janeiro Blue (Live at Laima Rendezvous).m4a
+Time: 273.918
+Artist: Mario Biondi
+Album: Rio De Janeiro Blue (Live at Laima Rendezvous)
+Title: Rio De Janeiro Blue (Live at Laima Rendezvous)
+Track: 1
+Date: 2022
+Disc: 1
+AlbumArtist: Mario Biondi
+Format: 44100:f:2
+mtime: 1768494734
+added: 1770291424
 song_end
 song_begin: 04. Diljit Dosanjh - Thug Life.flac
 Time: 150.923
@@ -5023,6 +5685,19 @@ Format: 44100:24:2
 mtime: 1766777008
 added: 1768312176
 song_end
+song_begin: Sergio Cammariere - Sul sentiero - 01-06 Nessuna è come te.m4a
+Time: 337.943
+Artist: Sergio Cammariere
+Album: Sul sentiero
+Title: Nessuna è come te
+Track: 6
+Date: 2016
+Disc: 1
+AlbumArtist: Sergio Cammariere
+Format: 44100:f:2
+mtime: 1768492796
+added: 1770291425
+song_end
 song_begin: 102. Amrinder Gill - Supna.flac
 Time: 225.306
 Album: Supna
@@ -5036,6 +5711,45 @@ Track: 1
 Format: 44100:16:2
 mtime: 1767144161
 added: 1767383086
+song_end
+song_begin: Pink Martini - Sympathique - 01-01 Amado mio.flac
+Time: 291.546
+Title: Amado mio
+Artist: Pink Martini
+AlbumArtist: Pink Martini
+Album: Sympathique
+Track: 1
+Disc: 1
+Date: 2017
+Format: 44100:16:2
+mtime: 1771344969
+added: 1772626142
+song_end
+song_begin: Pink Martini - Sympathique - 01-05 La soledad.flac
+Time: 339.16
+Title: La soledad
+Artist: Pink Martini
+AlbumArtist: Pink Martini
+Album: Sympathique
+Track: 5
+Disc: 1
+Date: 2017
+Format: 44100:16:2
+mtime: 1771346203
+added: 1772626142
+song_end
+song_begin: Pink Martini - Sympathique - 01-06 ¿Donde éstas, Yolanda_.flac
+Time: 203.88
+Title: ¿Donde éstas, Yolanda?
+Artist: Pink Martini
+AlbumArtist: Pink Martini
+Album: Sympathique
+Track: 6
+Disc: 1
+Date: 2017
+Format: 44100:16:2
+mtime: 1771346356
+added: 1772626142
 song_end
 song_begin: 016. Kamal Khan - Taare.flac
 Time: 245.448
@@ -5225,6 +5939,19 @@ Track: 1
 Format: 44100:16:2
 mtime: 1767035485
 added: 1767383086
+song_end
+song_begin: Adriano Celentano - The World Is Big And Salvation Lurks Around The Corner - 01-11 Soli.flac
+Time: 244.042
+Artist: Adriano Celentano
+Album: The World Is Big And Salvation Lurks Around The Corner
+Title: Soli
+Track: 11
+Date: 2009
+Disc: 1
+AlbumArtist: Adriano Celentano
+Format: 44100:f:2
+mtime: 1772109281
+added: 1772626143
 song_end
 song_begin: 053. Silambarasan TR - Thee Thalapathy (From Varisu).flac
 Time: 258
@@ -5523,6 +6250,19 @@ Format: 44100:16:2
 mtime: 1767035024
 added: 1767383086
 song_end
+song_begin: Gino Paoli - Una Sera Con Gino Paoli - 01-08 La gatta.m4a
+Time: 143.6
+Artist: Gino Paoli
+Album: Una Sera Con Gino Paoli
+Title: La gatta
+Track: 8
+Date: 2009
+Disc: 1
+AlbumArtist: Gino Paoli
+Format: 44100:f:2
+mtime: 1771514505
+added: 1772626142
+song_end
 song_begin: Indeevar - Kasme Wade Pyar Wafa.flac
 Time: 208.927
 Album: Upkar
@@ -5690,6 +6430,19 @@ Format: 44100:16:2
 mtime: 1767140973
 added: 1767383086
 song_end
+song_begin: Cigarettes After Sex - X's - 01-01 X's.flac
+Time: 183.761
+Title: X's
+Artist: Cigarettes After Sex
+AlbumArtist: Cigarettes After Sex
+Album: X's
+Track: 1
+Disc: 1
+Date: 2024
+Format: 44100:16:2
+mtime: 1770831953
+added: 1772626143
+song_end
 song_begin: 097. nikk - Yaari.flac
 Time: 177.75
 Album: Yaari
@@ -5773,4 +6526,17 @@ Track: 6
 Format: 44100:16:2
 mtime: 1766777433
 added: 1766808271
+song_end
+song_begin: Stan Getz - カフェで愉しむジャズBGM（チル・リラックス・ボサノバ・コーヒータイム） - 01-13 The Girl From Ipanema.m4a
+Time: 320.253
+Artist: Stan Getz
+Album: カフェで愉しむジャズBGM（チル・リラックス・ボサノバ・コーヒータイム）
+Title: The Girl From Ipanema
+Track: 13
+Date: 2025
+Disc: 1
+AlbumArtist: Stan Getz
+Format: 44100:f:2
+mtime: 1768489651
+added: 1770291425
 song_end

@@ -50,3 +50,32 @@
 2026/01/23 (13:26:49) | ERROR: Stall in Runner thread, restarting!
 2026/01/23 (13:26:55) | ERROR: Stall in Runner thread, restarting!
 2026/01/23 (13:27:00) | ERROR: Stall in Runner thread, restarting!
+
+2026/02/10 (14:05:07) | ===> btop++ v.1.4.4
+2026/02/10 (14:05:07) | INFO: Logger set to INFO
+2026/02/10 (14:05:07) | INFO: Logger set to DEBUG
+2026/02/10 (14:05:09) | INFO: Logger set to DEBUG
+2026/02/11 (02:45:52) | DEBUG: Writing new config file
+2026/02/11 (02:45:52) | INFO: Quitting! Runtime: 12:43:07
+
+2026/02/12 (14:44:01) | ===> btop++ v.1.4.4
+2026/02/12 (14:44:01) | INFO: Logger set to DEBUG
+2026/02/12 (14:44:01) | DEBUG: Using locale en_US.UTF-8
+2026/02/12 (14:44:01) | INFO: Running on /dev/ttys004
+2026/02/12 (14:44:01) | DEBUG: get_sensors(): show_coretemp=1 check_temp=1
+2026/02/12 (14:44:01) | DEBUG: M1 sensors found
+
+2026/02/15 (16:45:19) | ===> btop++ v.1.4.4
+2026/02/15 (16:45:19) | INFO: Logger set to DEBUG
+2026/02/15 (16:45:19) | DEBUG: Using locale en_US.UTF-8
+2026/02/15 (16:45:19) | INFO: Running on /dev/ttys004
+2026/02/15 (16:45:19) | DEBUG: get_sensors(): show_coretemp=1 check_temp=1
+2026/02/15 (16:45:19) | DEBUG: M1 sensors found
+
+2026/03/10 (08:36:18) | ===> btop++ v.1.4.4
+2026/03/10 (08:36:18) | INFO: Logger set to DEBUG
+2026/03/10 (08:36:18) | DEBUG: Using locale en_US.UTF-8
+2026/03/10 (08:36:18) | INFO: Running on /dev/ttys004
+2026/03/10 (08:36:18) | DEBUG: get_sensors(): show_coretemp=1 check_temp=1
+2026/03/10 (08:36:18) | DEBUG: M1 sensors found
+2026/03/17 (10:50:51) | ERROR: failed getting network interfaces

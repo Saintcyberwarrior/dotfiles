@@ -107,4 +107,7 @@ lalt - t : /Applications/Ghostty.app/Contents/MacOS/ghostty > /dev/null 2>&1
 
 # Close current window
 lalt - q : yabai -m window --close
-
+# Toggle window float (lalt - d for "detach")
+lalt - d : yabai -m window --toggle float
+#Toggle float + center window
+shift + lalt - d : yabai -m window --toggle float; yabai -m window --grid 4:4:1:1:2:2

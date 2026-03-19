@@ -5,12 +5,14 @@ Use treesitter to **autoclose** and **autorename** html tag
 It works with:
 
 - astro
+- dot
 - glimmer
 - handlebars
 - html
 - javascript
 - jsx
 - liquid
+- vento
 - markdown
 - php
 - rescript

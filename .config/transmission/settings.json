@@ -1,0 +1,6 @@
+{
+  "dht-enabled": true,
+  "pex-enabled": true,
+  "lpd-enabled": false,
+  "peer-port-random-on-start": true
+}
