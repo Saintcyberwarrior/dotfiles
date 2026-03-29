@@ -61,6 +61,7 @@
             # Core
             neovim
             git
+            git-lfs
             ripgrep
             fd
             fzf
