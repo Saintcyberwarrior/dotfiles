@@ -50,24 +50,11 @@ return {
 		mason_tool_installer.setup({
 
 			ensure_installed = {
-				-- Language server
-				"gopls",
-				"rust-analyzer",
-				"typescript-language-server",
-				"tailwindcss-language-server",
-				"css-lsp",
-				"lua-language-server",
-
-				-- Formatters
-				"prettierd",
-				"stylua",
-				"gofumpt",
-				"goimports-reviser",
-				"golines",
-
-				-- Linters
-				"golangci-lint",
-				"eslint_d",
+				"pyright", -- python lsp
+				"ruff", -- python linter and Formatters
+				"tinymist", -- typst lsp
+				"texlab", -- latex lsp
+				"stylua", -- lua formatter
 			},
 		})
 	end,

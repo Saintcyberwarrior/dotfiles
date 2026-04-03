@@ -3,27 +3,29 @@
 #![enable(unwrap_variant_newtypes)]
 (
     address: "127.0.0.1:6600",
-    password: None,
-    theme: None,
     cache_dir: None,
-    on_song_change: None,
+    lyrics_dir: Some("~/Documents/mirror/Pleasure/Songs/lyrics"),
+    password: None,
+    theme: "catppuccin_mocha",
+
+
+
+
+
+    on_song_change: ["~/.config/rmpc/increment_play_count"], 
     volume_step: 5,
     max_fps: 30,
     scrolloff: 0,
     wrap_navigation: false,
     enable_mouse: true,
-    enable_config_hot_reload: true,
     status_update_interval_ms: 1000,
-    rewind_to_start_sec: None,
-    reflect_changes_to_playlist: false,
     select_current_song_on_change: false,
-    browser_song_sort: [Disc, Track, Artist, Title],
-    directories_sort: SortFormat(group_by_type: true, reverse: false),
+    browser_column_widths: [20, 38, 42],
     album_art: (
         method: Auto,
-        max_size_px: (width: 1200, height: 1200),
+        max_size_px: (width: 900, height: 900),
         disabled_protocols: ["http://", "https://"],
-        vertical_align: Center,
+        vertical_align: Top,
         horizontal_align: Center,
     ),
     keybinds: (
@@ -35,12 +37,11 @@
             "<Tab>":   NextTab,
             "<S-Tab>": PreviousTab,
             "1":       SwitchToTab("Queue"),
-            "2":       SwitchToTab("Directories"),
-            "3":       SwitchToTab("Artists"),
-            "4":       SwitchToTab("Album Artists"),
-            "5":       SwitchToTab("Albums"),
-            "6":       SwitchToTab("Playlists"),
-            "7":       SwitchToTab("Search"),
+            "2":       SwitchToTab("Artists"),
+            "3":       SwitchToTab("Albums"),
+            "4":       SwitchToTab("Search"),
+            "5":       SwitchToTab("Directories"),
+            "6":       SwitchToTab("Lyrics"),
             "q":       Quit,
             ">":       NextTrack,
             "p":       TogglePause,
@@ -52,12 +53,9 @@
             "v":       ToggleSingle,
             "b":       SeekBack,
             "~":       ShowHelp,
-            "u":       Update,
-            "U":       Rescan,
             "I":       ShowCurrentSongInfo,
             "O":       ShowOutputs,
             "P":       ShowDecoders,
-            "R":       AddRandom,
         },
         navigation: {
             "k":         Up,
@@ -91,7 +89,6 @@
             "<Esc>":     Close,
             "K":         MoveUp,
             "D":         Delete,
-            "B":         ShowInfo,
         },
         queue: {
             "D":       DeleteAll,
@@ -99,8 +96,8 @@
             "<C-s>":   Save,
             "a":       AddToPlaylist,
             "d":       Delete,
+            "i":       ShowInfo,
             "C":       JumpToCurrent,
-            "X":       Shuffle,
         },
     ),
     search: (
@@ -110,10 +107,10 @@
             (value: "any",         label: "Any Tag"),
             (value: "artist",      label: "Artist"),
             (value: "album",       label: "Album"),
-            (value: "albumartist", label: "Album Artist"),
             (value: "title",       label: "Title"),
             (value: "filename",    label: "Filename"),
             (value: "genre",       label: "Genre"),
+            (value: "albumartist", label: "Featured"),
         ],
     ),
     artists: (
@@ -125,32 +122,31 @@
             name: "Queue",
             pane: Split(
                 direction: Horizontal,
-                panes: [(size: "40%", pane: Pane(AlbumArt)), (size: "60%", pane: Pane(Queue))],
+                panes: [(size: "20%", pane: Pane(AlbumArt)), (size: "80%", pane: Pane(Queue))],
             ),
-        ),
-        (
-            name: "Directories",
-            pane: Pane(Directories),
         ),
         (
             name: "Artists",
             pane: Pane(Artists),
         ),
         (
-            name: "Album Artists",
-            pane: Pane(AlbumArtists),
-        ),
-        (
             name: "Albums",
             pane: Pane(Albums),
         ),
         (
-            name: "Playlists",
-            pane: Pane(Playlists),
-        ),
-        (
             name: "Search",
             pane: Pane(Search),
+        ),
+        (
+            name: "Directories",
+            pane: Pane(Directories),
+        ),
+        (
+            name: "Lyrics",
+            pane: Split(
+                direction: Vertical,
+                panes: [(size: "25%", pane: Pane(AlbumArt)), (size: "70%", pane: Pane(Lyrics), vertical_align: Bottom)],
+            ),
         ),
     ],
 )

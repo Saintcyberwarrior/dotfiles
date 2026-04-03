@@ -56,7 +56,7 @@ M.lsp = { signature = true }
 
 -- cheatsheet
 M.cheatsheet = {
-	theme = "grid",                                                  -- grid
+	theme = "grid", -- grid
 	excluded_groups = { "terminal (t)", "autopairs", "Nvim", "Opens" }, -- can add group name or with mode
 }
 

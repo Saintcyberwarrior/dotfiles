@@ -274,7 +274,7 @@ plugins {
 load_plugins {
 }
 web_client {
-    font "monospace"
+    font "JetBrainsMonoNL Nerd Font"
 }
  
 // Use a simplified UI without special fonts (arrow glyphs)

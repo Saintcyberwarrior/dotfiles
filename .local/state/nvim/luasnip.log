@@ -4312,3 +4312,192 @@ WARN | 02:29:03 | vscode-loader: Could not find package.json(c) in path  (expand
 WARN | 02:29:03 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
 WARN | 02:29:03 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
 WARN | 02:29:03 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:04:51 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 17:04:51 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 17:04:51 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:04:51 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:10:10 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 17:10:10 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 17:10:10 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:10:10 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:11:33 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 17:11:33 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 17:11:33 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:11:33 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:25:14 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:25:14 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:25:14 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:25:14 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:42:25 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:42:25 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:42:25 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:42:25 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:46:55 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:46:55 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:46:55 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:46:55 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:48:13 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:48:13 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:48:13 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:48:13 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:49:36 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:49:36 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:49:36 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:49:36 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:59:21 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:59:21 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:59:21 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:59:21 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:59:47 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:59:47 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:59:47 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:59:47 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 20:03:32 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 20:03:32 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 20:03:32 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 20:03:32 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 14:55:07 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 14:55:07 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 14:55:07 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 14:55:07 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 14:56:02 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 14:56:02 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 14:56:02 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 14:56:02 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 15:28:45 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 15:28:45 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 15:28:45 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 15:28:45 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 15:53:08 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 15:53:08 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 15:53:08 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 15:53:08 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 16:35:30 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 16:35:30 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 16:35:30 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 16:35:30 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:56:20 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 17:56:20 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 17:56:20 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:56:20 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:58:17 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 17:58:17 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 17:58:17 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:58:17 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:59:24 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 17:59:24 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 17:59:24 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 17:59:24 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 18:07:37 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 18:07:37 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 18:07:37 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 18:07:37 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 18:24:16 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 18:24:16 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 18:24:16 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 18:24:16 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 18:26:31 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 18:26:31 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 18:26:31 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 18:26:31 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:02:33 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:02:33 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:02:33 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:02:33 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:20:50 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:20:50 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:20:50 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:20:50 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:30:12 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:30:12 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:30:12 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:30:12 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:40:12 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 19:40:12 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 19:40:12 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 19:40:12 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 23:33:57 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 23:33:57 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 23:33:57 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 23:33:57 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 23:42:24 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 23:42:24 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 23:42:24 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 23:42:24 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 23:49:26 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 23:49:26 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 23:49:26 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 23:49:26 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:02:39 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:02:39 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:02:39 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:02:39 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:08:00 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:08:00 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:08:00 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:08:00 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:08:43 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:08:43 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:08:43 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:08:43 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:13:23 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:13:23 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:13:23 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:13:23 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:20:03 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:20:03 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:20:03 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:20:03 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:30:58 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:30:58 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:30:58 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:30:58 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:33:47 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:33:47 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:33:47 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:33:47 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:38:06 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:38:06 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:38:06 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:38:06 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:38:19 | main: Removing snippet for_i: Removing snippet `for_i` due to error ...are/nvim/lazy/LuaSnip/lua/luasnip/nodes/functionNode.lua:49: Refusing to update inside a snippet with invalid extmarks
+WARN | 00:40:02 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:40:02 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:40:02 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:40:02 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:42:35 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:42:35 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:42:35 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:42:35 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:45:48 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:45:48 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:45:48 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:45:48 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:49:46 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:49:46 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:49:46 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:49:46 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:50:53 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:50:53 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:50:53 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:50:53 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:53:04 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 00:53:04 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 00:53:04 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 00:53:04 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 01:15:25 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 01:15:25 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 01:15:25 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 01:15:25 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 01:19:12 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 01:19:12 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 01:19:12 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 01:19:12 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 01:25:31 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 01:25:31 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 01:25:31 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 01:25:31 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 01:19:18 | vscode-loader: Could not find package.json(c) in path  (expanded to nil).
+WARN | 01:19:18 | vscode-loader: Could not resolve all manifests for paths `{ "" }`: only found `{}`
+WARN | 01:19:18 | snipmate-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`
+WARN | 01:19:18 | lua-loader: Could not resolve all collection-roots for paths `{ "" }`: only found `{}`

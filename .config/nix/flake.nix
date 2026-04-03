@@ -67,6 +67,7 @@
             fzf
             zoxide
             stow
+            ncdu
 
             # Terminal / TUI
             zellij
@@ -79,20 +80,24 @@
             rmpc
 
             # Dev
-            go
-            nodejs
+            #go
+            #nodejs
             lua
             lua-language-server
             stylua
             #gdb-dashboard
-            codex
+            #codex
             gemini-cli
             android-tools
+            ollama
+            opencode
+            claude-code
 
             # Python Stack (clean)
             python312
-            poetry
-            pipx
+            uv
+            #poetry
+            #pipx
 
             # Media / Docs (CLI)
             ffmpeg
@@ -101,9 +106,9 @@
             typst
             zathura
             gnuplot
-            gsl
+            # gsl
             transmission_4
-            hugo
+            #hugo
 
             # Utils
             mkalias
@@ -129,7 +134,7 @@
 
             brews = [
               "mas"
-              "check"
+              #"check"
               "media-control"
               #"graph-tool"
               "mole"
@@ -138,28 +143,29 @@
             casks = [
               # Browsers
               "firefox"
-              "orion"
+              #"orion"
               "brave-browser"
 
               # Terminal
               "ghostty"
 
               # Automation / tiling-safe
-              "hammerspoon"
+              #"hammerspoon"
 
               # Productivity
-              "raycast"
+              #"raycast"
               "zotero"
 
               # Media / GUI
               "darktable"
-              "transmission"
+              #"transmission"
 
               # Editors (GUI)
-              "zed"
+              #"zed"
 
               # System
-              "mactex"
+              #"mactex"
+              "basictex"
               "nordvpn"
 
               # Fonts

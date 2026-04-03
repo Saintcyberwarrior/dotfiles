@@ -353,3 +353,15 @@ Require stack:
 
 Node.js v24.13.0
 
+2026-03-31 17:58:30[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: 
+ - unexpected token `"typst"` (12:5 to 12:12), expected a field
+ - unexpected token `(` (7:43 to 7:44), expected `)` to close function call
+ - unexpected token `=` (7:3 to 20:13), expected `end` to close function body block
+ - unexpected token `=` (20:14 to 20:15), expected `}` after last field
+ - unexpected token `=` (20:14 to 20:15), unexpected token, this needs to be a statement
+ - unexpected token `enable` (20:18 to 20:24), unexpected statement after last statement
+ - unexpected token `}` (20:32 to 20:33), unexpected token, this needs to be a statement
+ - unexpected token `,` (21:30 to 21:31), trailing commas are not allowed
+ - unexpected token `indent` (21:4 to 21:10), unexpected statement after last statement
+ - unexpected token `}` (22:3 to 22:4), unexpected token, this needs to be a statement
+
