@@ -1,30 +1,41 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
-source "$HOME/.config/themes/current/shellcolors.sh"
+PERCENT=$(pmset -g batt | grep -Eo "\d+%" | cut -d% -f1)
+CHARGING=$(pmset -g batt | grep 'AC Power')
 
-PERCENTAGE="$(pmset -g batt | grep -Eo "\d+%" | cut -d% -f1)"
-CHARGING="$(pmset -g batt | grep 'AC Power')"
-
-if [ "$PERCENTAGE" = "" ]; then
+if [ "$PERCENT" = "" ]; then
   exit 0
 fi
 
-case "${PERCENTAGE}" in
-  9[0-9]|100) ICON="􀛨" COLOR=$BATTERY_FULL
-  ;;
-  [6-8][0-9]) ICON="􀺸" COLOR=$BATTERY_HIGH
-  ;;
-  [3-5][0-9]) ICON="􀺶" COLOR=$BATTERY_MID
-  ;;
-  [1-2][0-9]) ICON="􀛩" COLOR=$BATTERY_LOW
-  ;;
-  *) ICON="􀛪" COLOR=$BATTERY_EMPTY
+# Default colors (adjust if you have specific theme variables)
+COLOR=0xffffffff
+case ${PERCENT} in
+  9[0-9]|100) 
+    ICON="󰁹"
+    COLOR=0xffa6da95 # Green
+    ;;
+  [7-8][0-9]) 
+    ICON="󰂄"
+    COLOR=0xffa6da95 # Green
+    ;;
+  [4-6][0-9]) 
+    ICON="󰁾"
+    COLOR=0xffeed49f # Yellow
+    ;;
+  [1-3][0-9]) 
+    ICON="󰁼"
+    COLOR=0xfff5a97f # Orange
+    ;;
+  *) 
+    ICON="󰂃"
+    COLOR=0xffed8796 # Red
 esac
 
-if [[ "$CHARGING" != "" ]]; then
-  ICON="􀢋"
+if [ "$CHARGING" != "" ]; then
+  ICON="󰂄"
+  COLOR=0xff8aadf4 # Blue/Charging
 fi
 
-# The item invoking this script (name $NAME) will get its icon and label
-# updated with the current battery status
-sketchybar --set "$NAME" icon="$ICON" label="${PERCENTAGE}%" icon.color="$COLOR" padding_right=10
+sketchybar --set "$NAME" icon="$ICON" \
+                         label="${PERCENT}%" \
+                         icon.color="$COLOR"

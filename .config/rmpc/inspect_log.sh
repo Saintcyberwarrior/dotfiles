@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-LOGFILE="$HOME/.mpd/log"
+LOGFILE="$HOME/dotfiles/.config/mpd/log"
 OUTFILE="$HOME/.config/rmpc/genre_counts.txt"
 TMPFILE="$(mktemp)"
 

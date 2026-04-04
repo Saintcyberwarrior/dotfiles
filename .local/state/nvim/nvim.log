@@ -1,2 +1,204 @@
 WRN 2026-04-03T23:57:13.757 ui.10054   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
 WRN 2026-04-04T01:19:16.138 ui.60106   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T03:49:57.020 ui.69969   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T03:49:57.020 ui.69969   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T03:49:57.021 ui.69969   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T03:49:57.021 ui.69969   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T03:49:57.021 ui.69969   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T03:50:04.866 ui.70078   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T03:50:04.866 ui.70078   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T03:50:04.866 ui.70078   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T03:50:04.866 ui.70078   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T03:50:04.866 ui.70078   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T03:50:32.458 ui.70373   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T03:50:32.459 ui.70373   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T03:50:32.459 ui.70373   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T03:50:32.459 ui.70373   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T03:50:32.459 ui.70373   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T04:24:13.148 ui.5116    tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T04:24:13.149 ui.5116    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T04:24:13.149 ui.5116    tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T04:24:13.149 ui.5116    tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T04:24:13.149 ui.5116    tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T04:26:03.859 ui.6404    tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T04:26:03.859 ui.6404    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T04:26:03.859 ui.6404    tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T04:26:03.859 ui.6404    tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T04:26:03.860 ui.6404    tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T04:26:39.526 ui.6926    tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T04:26:39.526 ui.6926    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T04:26:39.526 ui.6926    tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T04:26:39.526 ui.6926    tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T04:26:39.526 ui.6926    tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T04:33:43.903 ui.12523   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T04:33:43.904 ui.12523   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T04:33:43.904 ui.12523   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T04:33:43.904 ui.12523   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T04:33:43.904 ui.12523   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T04:43:28.420 ui.19360   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T04:43:28.420 ui.19360   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T04:43:28.420 ui.19360   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T04:43:28.420 ui.19360   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T04:43:28.420 ui.19360   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T05:26:04.716 ui.52101   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T05:26:04.716 ui.52101   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T05:26:04.716 ui.52101   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T05:26:04.716 ui.52101   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T05:26:04.716 ui.52101   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T05:26:39.133 ui.52526   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T05:26:39.133 ui.52526   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T05:26:39.133 ui.52526   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T05:26:39.133 ui.52526   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T05:26:39.133 ui.52526   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T05:26:49.838 ui.52721   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T05:26:49.839 ui.52721   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T05:26:49.839 ui.52721   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T05:26:49.839 ui.52721   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T05:26:49.839 ui.52721   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T05:40:40.441 ui.62009   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T05:40:40.442 ui.62009   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T05:40:40.442 ui.62009   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T05:40:40.442 ui.62009   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T05:40:40.442 ui.62009   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T05:43:05.964 ui.64244   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T05:43:05.965 ui.64244   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T05:43:05.965 ui.64244   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T05:43:05.965 ui.64244   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T05:43:05.965 ui.64244   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T05:45:08.238 ui.65356   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T05:45:08.239 ui.65356   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T05:45:08.239 ui.65356   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T05:45:08.239 ui.65356   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T05:45:08.239 ui.65356   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T05:45:32.161 ui.65624   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T05:45:32.161 ui.65624   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T05:45:32.161 ui.65624   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T05:45:32.161 ui.65624   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T05:45:32.161 ui.65624   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T06:00:50.846 ui.73168   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T06:00:50.847 ui.73168   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T06:00:50.847 ui.73168   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T06:00:50.847 ui.73168   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T06:00:50.847 ui.73168   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T15:46:45.292 ui.22142   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T15:46:45.292 ui.22142   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T15:46:45.292 ui.22142   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T15:46:45.292 ui.22142   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T15:46:45.292 ui.22142   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T15:48:22.983 ui.22990   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T15:48:22.983 ui.22990   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T15:48:22.983 ui.22990   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T15:48:22.983 ui.22990   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T15:48:22.983 ui.22990   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T15:49:19.912 ui.23537   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T15:49:19.912 ui.23537   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T15:49:19.913 ui.23537   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T15:49:19.913 ui.23537   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T15:49:19.913 ui.23537   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T15:50:59.590 ui.24381   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T15:50:59.591 ui.24381   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T15:50:59.591 ui.24381   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T15:50:59.591 ui.24381   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T15:50:59.591 ui.24381   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T15:51:23.160 ui.24620   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T15:51:23.160 ui.24620   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T15:51:23.160 ui.24620   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T15:51:23.160 ui.24620   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T15:51:23.161 ui.24620   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T15:51:43.531 ui.24846   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T15:51:43.532 ui.24846   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T15:51:43.532 ui.24846   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T15:51:43.532 ui.24846   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T15:51:43.532 ui.24846   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T16:11:54.494 ui.35217   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T16:11:54.495 ui.35217   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T16:11:54.495 ui.35217   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T16:11:54.495 ui.35217   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T16:11:54.495 ui.35217   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+ERR 2026-04-04T16:11:54.632 nvim.35218.0 decor_provider_error:29: Error in decoration provider "start" (ns=nvim.treesitter.highlighter):
+Lua: ...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	[C]: in function 'f'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: in function 'tcall'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:596: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:580: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:557>
+ERR 2026-04-04T16:12:00.980 nvim.35218.0 decor_provider_error:29: Error in decoration provider "start" (ns=nvim.treesitter.highlighter):
+Lua: ...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	[C]: in function 'f'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: in function 'tcall'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:596: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:580: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:557>
+	[C]: at 0x010253ea54
+	[C]: in function 'pcall'
+	.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:321: in function '_advance_win_state'
+	.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:181: in function '_update_window'
+	.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:37: in function <.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:30>
+	[C]: in function 'pcall'
+	.../share/nvim/lazy/nvim-notify/lua/notify/service/init.lua:33: in function '_run'
+	.../share/nvim/lazy/nvim-notify/lua/notify/service/init.lua:57: in function 'push'
+	...ocal/share/nvim/lazy/nvim-notify/lua/notify/instance.lua:132: in function 'notify'
+	...on-tool-installer.nvim/lua/mason-tool-installer/init.lua:130: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-04T16:16:24.471 ui.37160   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T16:16:24.471 ui.37160   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T16:16:24.471 ui.37160   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T16:16:24.471 ui.37160   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T16:16:24.471 ui.37160   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+ERR 2026-04-04T16:16:24.588 nvim.37161.0 decor_provider_error:29: Error in decoration provider "start" (ns=nvim.treesitter.highlighter):
+Lua: ...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	[C]: in function 'f'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: in function 'tcall'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:596: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:580: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:557>
+WRN 2026-04-04T16:17:06.553 ui.37504   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T16:17:06.553 ui.37504   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T16:17:06.553 ui.37504   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T16:17:06.553 ui.37504   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T16:17:06.553 ui.37504   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+ERR 2026-04-04T16:17:06.670 nvim.37505.0 decor_provider_error:29: Error in decoration provider "start" (ns=nvim.treesitter.highlighter):
+Lua: ...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	[C]: in function 'f'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: in function 'tcall'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:596: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:580: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:557>
+ERR 2026-04-04T16:17:07.453 nvim.37505.0 decor_provider_error:29: Error in decoration provider "start" (ns=nvim.treesitter.highlighter):
+Lua: ...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	[C]: in function 'f'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: in function 'tcall'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:596: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:580: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:557>
+	[C]: at 0x0102f4aa54
+	[C]: in function 'pcall'
+	.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:321: in function '_advance_win_state'
+	.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:181: in function '_update_window'
+	.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:37: in function <.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:30>
+	[C]: in function 'pcall'
+	.../share/nvim/lazy/nvim-notify/lua/notify/service/init.lua:33: in function '_run'
+	.../share/nvim/lazy/nvim-notify/lua/notify/service/init.lua:57: in function 'push'
+	...ocal/share/nvim/lazy/nvim-notify/lua/notify/instance.lua:132: in function 'notify'
+	...on-tool-installer.nvim/lua/mason-tool-installer/init.lua:130: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-04T16:17:32.839 ui.37756   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T16:17:32.840 ui.37756   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T16:17:32.840 ui.37756   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T16:17:32.840 ui.37756   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T16:17:32.840 ui.37756   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T16:23:08.282 ui.40249   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T16:23:08.283 ui.40249   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T16:23:08.283 ui.40249   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T16:23:08.283 ui.40249   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T16:23:08.283 ui.40249   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T16:58:47.802 ui.55172   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T16:58:47.802 ui.55172   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T16:58:47.802 ui.55172   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T16:58:47.802 ui.55172   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T16:58:47.802 ui.55172   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T17:01:26.310 ui.57356   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T17:01:26.311 ui.57356   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T17:01:26.311 ui.57356   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T17:01:26.311 ui.57356   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T17:01:26.311 ui.57356   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2

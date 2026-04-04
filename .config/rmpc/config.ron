@@ -4,7 +4,7 @@
 (
     address: "127.0.0.1:6600",
     cache_dir: None,
-    lyrics_dir: Some("~/Documents/mirror/Pleasure/Songs/lyrics"),
+    lyrics_dir: Some("/Users/gravity/Documents/mirror/Pleasure/Songs/lyrics_flat"),
     password: None,
     theme: "catppuccin_mocha",
 
@@ -12,7 +12,7 @@
 
 
 
-    on_song_change: ["~/.config/rmpc/increment_play_count"], 
+    on_song_change: ["/Users/gravity/.config/rmpc/increment_play_count"], 
     volume_step: 5,
     max_fps: 30,
     scrolloff: 0,
@@ -23,9 +23,9 @@
     browser_column_widths: [20, 38, 42],
     album_art: (
         method: Auto,
-        max_size_px: (width: 900, height: 900),
+        max_size_px: (width: 1000, height: 1000),
         disabled_protocols: ["http://", "https://"],
-        vertical_align: Top,
+        vertical_align: Center,
         horizontal_align: Center,
     ),
     keybinds: (
@@ -122,7 +122,7 @@
             name: "Queue",
             pane: Split(
                 direction: Horizontal,
-                panes: [(size: "20%", pane: Pane(AlbumArt)), (size: "80%", pane: Pane(Queue))],
+                panes: [(size: "40%", pane: Pane(AlbumArt)),(size: "55%", pane: Pane(Queue))],
             ),
         ),
         (

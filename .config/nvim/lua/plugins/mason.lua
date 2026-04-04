@@ -50,8 +50,8 @@ return {
 		mason_tool_installer.setup({
 
 			ensure_installed = {
-				"pyright", -- python lsp
-				"ruff", -- python linter and Formatters
+				"python-lsp-server", -- python lsp (pylsp)
+				"ruff", -- python linter and Formatters (Insanely fast)
 				"tinymist", -- typst lsp
 				"texlab", -- latex lsp
 				"stylua", -- lua formatter

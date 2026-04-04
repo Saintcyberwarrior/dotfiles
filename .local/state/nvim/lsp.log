@@ -1616,3 +1616,35 @@
 [ERROR][2026-04-01 23:24:55] ...p/_transport.lua:36	"rpc"	"tinymist"	"stderr"	'[2026-04-01T21:24:55Z INFO  tinymist::project] Project: emit compilation again for ProjectInsId("primary"), reason: CompileSignal { by_mem_events: false, by_fs_events: true, by_entry_update: false }\n'
 [ERROR][2026-04-01 23:24:55] ...p/_transport.lua:36	"rpc"	"tinymist"	"stderr"	'[2026-04-01T21:24:55Z INFO  tinymist::project] Project: skip compilation for ProjectInsId("primary") due to harmless vfs changes\n'
 [START][2026-04-03 23:59:24] LSP logging initiated
+[START][2026-04-04 01:20:47] LSP logging initiated
+[START][2026-04-04 03:50:17] LSP logging initiated
+[START][2026-04-04 03:50:32] LSP logging initiated
+[ERROR][2026-04-04 03:50:32] ...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/log.lua:151	'invalid "pylsp" config: ...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:476: cmd: expected expected function or table with executable command, got table: 0x01076127d8. Info: pylsp is not executable'
+[ERROR][2026-04-04 03:50:32] ...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/log.lua:151	"rpc"	"ruff"	"stderr"	"2026-04-04 03:50:32.618993000  INFO No workspace options found for file:///Users/gravity/Documents/mirror/Work/Chalmers_QAproj/QAOA_practice/Maxcut_practice, using default options\n"
+[ERROR][2026-04-04 03:50:32] ...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/log.lua:151	"rpc"	"ruff"	"stderr"	"2026-04-04 03:50:32.637510000  INFO Registering workspace: /Users/gravity/Documents/mirror/Work/Chalmers_QAproj/QAOA_practice/Maxcut_practice\n"
+[ERROR][2026-04-04 03:50:32] ...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/log.lua:151	"rpc"	"ruff"	"stderr"	"2026-04-04 03:50:32.671383000  INFO Configuration file watcher successfully registered\n"
+[START][2026-04-04 04:25:51] LSP logging initiated
+[START][2026-04-04 04:26:21] LSP logging initiated
+[START][2026-04-04 04:26:41] LSP logging initiated
+[START][2026-04-04 04:36:00] LSP logging initiated
+[START][2026-04-04 04:49:18] LSP logging initiated
+[START][2026-04-04 05:26:30] LSP logging initiated
+[START][2026-04-04 05:26:43] LSP logging initiated
+[START][2026-04-04 05:34:59] LSP logging initiated
+[START][2026-04-04 05:41:35] LSP logging initiated
+[START][2026-04-04 05:43:48] LSP logging initiated
+[START][2026-04-04 05:56:08] LSP logging initiated
+[START][2026-04-04 05:56:17] LSP logging initiated
+[START][2026-04-04 06:00:55] LSP logging initiated
+[START][2026-04-04 15:48:13] LSP logging initiated
+[START][2026-04-04 15:48:35] LSP logging initiated
+[START][2026-04-04 15:50:43] LSP logging initiated
+[START][2026-04-04 15:51:15] LSP logging initiated
+[START][2026-04-04 15:51:37] LSP logging initiated
+[START][2026-04-04 15:51:52] LSP logging initiated
+[START][2026-04-04 16:16:22] LSP logging initiated
+[START][2026-04-04 16:16:34] LSP logging initiated
+[START][2026-04-04 16:17:22] LSP logging initiated
+[START][2026-04-04 16:18:35] LSP logging initiated
+[START][2026-04-04 16:23:19] LSP logging initiated
+[START][2026-04-04 16:59:03] LSP logging initiated

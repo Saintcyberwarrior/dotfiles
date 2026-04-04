@@ -1157,3 +1157,207 @@
 [ERROR Fri Apr  3 23:57:14 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
 [ERROR Fri Apr  3 23:57:14 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
 
+[INFO  Sat Apr  4 03:50:32 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 03:50:32 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 03:50:32 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 04:24:13 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 04:24:13 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 04:24:13 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 04:26:04 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 04:26:04 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 04:26:04 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 04:26:39 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 04:26:39 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 04:26:39 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 04:33:44 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 04:33:44 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 04:33:44 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 04:43:28 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 04:43:28 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 04:43:28 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 05:26:04 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 05:26:04 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 05:26:04 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 05:26:39 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 05:26:39 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 05:26:39 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 05:26:49 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 05:26:49 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 05:26:49 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 05:40:40 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 05:40:40 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 05:40:40 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 05:43:06 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 05:43:06 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 05:43:06 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 05:45:08 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 05:45:08 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 05:45:08 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 05:45:32 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 05:45:32 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 05:45:32 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 06:00:51 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 06:00:51 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 06:00:51 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 15:46:45 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 15:46:45 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 15:46:45 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 15:48:23 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 15:48:23 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 15:48:23 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 15:49:20 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 15:49:20 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 15:49:20 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 15:50:59 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 15:50:59 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 15:50:59 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 15:51:23 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 15:51:23 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 15:51:23 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 15:51:43 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 15:51:43 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 15:51:43 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 16:11:54 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 16:12:10 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 16:12:10 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 16:16:24 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 16:16:27 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 16:16:27 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 16:17:06 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 16:17:08 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 16:17:08 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 16:17:32 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 16:17:32 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Sat Apr  4 16:17:32 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[INFO  Sat Apr  4 16:23:08 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=python-lsp-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Sat Apr  4 16:23:19 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=python-lsp-server) error="Installation was aborted."
+[INFO  Sat Apr  4 16:58:47 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=python-lsp-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Sat Apr  4 16:58:54 2026] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=python-lsp-server)

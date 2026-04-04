@@ -6,9 +6,12 @@
 
     nix-darwin.url = "github:nix-darwin/nix-darwin/master";
     nix-darwin.inputs.nixpkgs.follows = "nixpkgs";
+
+    home-manager.url = "github:nix-community/home-manager";
+    home-manager.inputs.nixpkgs.follows = "nixpkgs";
   };
 
-  outputs = inputs@{ self, nixpkgs, nix-darwin, ... }:
+  outputs = inputs@{ self, nixpkgs, nix-darwin, home-manager, ... }:
   let
     system = "aarch64-darwin";
     username = "gravity";
@@ -16,9 +19,16 @@
   {
     darwinConfigurations."air" = nix-darwin.lib.darwinSystem {
       inherit system;
-      specialArgs = { inherit self; };
+      specialArgs = { inherit self inputs; };
 
       modules = [
+        home-manager.darwinModules.home-manager
+        {
+          home-manager.useGlobalPkgs = true;
+          home-manager.useUserPackages = true;
+          home-manager.backupFileExtension = "backup";
+          home-manager.users.${username} = import ./home.nix;
+        }
         ({ pkgs, config, ... }: {
 
           ############################
@@ -62,6 +72,7 @@
             neovim
             git
             git-lfs
+            lazygit
             ripgrep
             fd
             fzf
@@ -119,10 +130,10 @@
           ############################
 
           fonts.packages = with pkgs; [
-            nerd-fonts.jetbrains-mono
-            nerd-fonts.hack
-            nerd-fonts.droid-sans-mono
-            sketchybar-app-font
+            # nerd-fonts.jetbrains-mono
+            # nerd-fonts.hack
+            # nerd-fonts.droid-sans-mono
+            # sketchybar-app-font
           ];
 
           ############################
@@ -141,6 +152,12 @@
             ];
 
             casks = [
+              # Fonts (Native Casks)
+              "font-jetbrains-mono-nerd-font"
+              "font-hack-nerd-font"
+              "font-droid-sans-mono-nerd-font"
+              "font-sketchybar-app-font"
+
               # Browsers
               "firefox"
               #"orion"
@@ -208,9 +225,48 @@
           services.yabai = {
             enable = true;
             enableScriptingAddition = true; # SA on (managed declaratively)
+            config = {
+              external_bar = "all:37:0";
+              mouse_follows_focus = "on";
+              focus_follows_mouse = "autoraise";
+              window_zoom_persist = "off";
+              window_placement = "second_child";
+              window_shadow = "float";
+              window_opacity = "on";
+              window_opacity_duration = "0.2";
+              active_window_opacity = "1.0";
+              normal_window_opacity = "1.0";
+              window_animation_duration = "0.2";
+              window_animation_easing = "ease_out_quint";
+              insert_feedback_color = "0xff9dd274";
+              split_ratio = "0.50";
+              auto_balance = "off";
+              mouse_modifier = "fn";
+              mouse_action1 = "move";
+              mouse_action2 = "resize";
+              mouse_drop_action = "swap";
+              top_padding = 9;
+              bottom_padding = 9;
+              left_padding = 9;
+              right_padding = 9;
+              window_gap = 9;
+              layout = "bsp";
+            };
+            extraConfig = ''
+              yabai -m signal --add event=window_created app="Zen" action='yabai -m window --space "$(yabai -m query --spaces --space | jq ".index")"'
+              yabai -m rule --add app="^(Calculator|Software Update|Dictionary|VLC|System Preferences|System Settings|Photo Booth|Archive Utility|Python|LibreOffice|App Store|Activity Monitor)$" manage=off
+              yabai -m rule --add label="Finder" app="^Finder$" title="(Co(py|nnect)|Move|Info|Pref)" manage=off
+              yabai -m rule --add label="Safari" app="^Safari$" title="^(General|(Tab|Password|Website|Extension)s|AutoFill|Se(arch|curity)|Privacy|Advance)$" manage=off
+              yabai -m rule --add label="About This Mac" app="System Information" title="About This Mac" manage=off
+              yabai -m rule --add label="Select file to save to" app="^Inkscape$" title="Select file to save to" manage=off
+              yabai -m signal --add event=display_changed action="sketchybar --restart; yabai --restart-service"
+            '';
           };
 
-          services.skhd.enable = true;
+          services.skhd = {
+            enable = true;
+            skhdConfig = builtins.readFile ../skhd/skhdrc;
+          };
 
         })
       ];

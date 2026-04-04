@@ -136,3 +136,20 @@
 2026/04/03 (19:50:56) | DEBUG: M1 sensors found
 2026/04/04 (01:18:17) | DEBUG: Writing new config file
 2026/04/04 (01:18:17) | INFO: Quitting! Runtime: 05:27:21
+
+2026/04/04 (03:49:14) | ===> btop++ v.1.4.6
+2026/04/04 (03:49:14) | INFO: Logger set to DEBUG
+2026/04/04 (03:49:14) | DEBUG: Using locale C
+2026/04/04 (03:49:14) | INFO: Running on /dev/ttys029
+2026/04/04 (03:49:14) | DEBUG: TTY mode enabled: false
+2026/04/04 (03:49:14) | DEBUG: get_sensors(): show_coretemp=1 check_temp=1
+2026/04/04 (03:49:14) | DEBUG: M1 sensors found
+2026/04/04 (03:49:37) | INFO: Quitting! Runtime: 00:00:23
+
+2026/04/04 (05:56:42) | ===> btop++ v.1.4.6
+2026/04/04 (05:56:42) | INFO: Logger set to DEBUG
+2026/04/04 (05:56:42) | DEBUG: Using locale C
+2026/04/04 (05:56:42) | INFO: Running on /dev/ttys072
+2026/04/04 (05:56:42) | DEBUG: TTY mode enabled: false
+2026/04/04 (05:56:42) | DEBUG: get_sensors(): show_coretemp=1 check_temp=1
+2026/04/04 (05:56:42) | DEBUG: M1 sensors found

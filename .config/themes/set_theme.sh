@@ -1,7 +1,7 @@
 #!/bin/bash
 
-THEME_DIR="/Users/camerondixon/.config/themes"
-WALLPAPER_DIR="/Users/camerondixon/.config/wallpapers"
+THEME_DIR="$HOME/.config/themes"
+WALLPAPER_DIR="$HOME/.config/wallpapers"
 
 setwall() {
   local WALLPAPER="$1"
@@ -37,12 +37,12 @@ EOF
 case "$1" in
   "Catppuccin")
     echo "Switching to Catppuccin!"
-    cp $THEME_DIR/catppuccin/* $THEME_DIR/current
+    ln -sf $THEME_DIR/catppuccin/* $THEME_DIR/current
     setwall $WALLPAPER_DIR/catppuccin1.jpeg
     ;;
   "Gruvbox")
     echo "Switching to Gruvbox!"
-    cp $THEME_DIR/gruvbox/* $THEME_DIR/current
+    ln -sf $THEME_DIR/gruvbox/* $THEME_DIR/current
     setwall $WALLPAPER_DIR/gruvbox1.jpeg
     ;;
   *)
@@ -51,6 +51,13 @@ case "$1" in
     ;;
 esac
 
-/opt/homebrew/bin/sketchybar --reload
-/opt/homebrew/bin/brew services restart borders
+if command -v sketchybar >/dev/null; then
+  sketchybar --reload
+fi
+
+# Borders might be installed via homebrew
+if brew services list | grep -q borders; then
+  brew services restart borders
+fi
+
 touch $HOME/.wezterm.lua

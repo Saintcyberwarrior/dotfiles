@@ -1,28 +1,31 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
-# The volume_change event supplies a $INFO variable in which the current volume
-# percentage is passed to the script.
+# The $INFO variable contains the volume percentage
+VOLUME="$INFO"
 
-M1DDC="/usr/local/bin/m1ddc"
-
-if [ "$SENDER" = "volume_change" ]; then
-  VOLUME="$INFO"
-else
-  VOLUME=$(osascript -e 'output volume of (get volume settings)' 2>/dev/null)
-
-  if ! echo "$VOLUME" | grep -qE '^[0-9]+$'; then
-    VOLUME=$("$M1DDC" display 1 get volume 2>/dev/null | grep -o '[0-9]\+')
-  fi
+if [ "$VOLUME" = "" ]; then
+  VOLUME=$(osascript -e "output volume of (get volume settings)")
 fi
 
 case "$VOLUME" in
-  [6-9][0-9]|100) ICON="􀊨"
-  ;;
-  [3-5][0-9]) ICON="􀊦"
-  ;;
-  [1-9]|[1-2][0-9]) ICON="􀊤"
-  ;;
-  *) ICON="􀊢"
+  [6-9][0-9]|100) 
+    ICON="󰕾" 
+    COLOR=0xff8aadf4 # Blue
+    ;;
+  [3-5][0-9]) 
+    ICON="󰖀" 
+    COLOR=0xffffffff 
+    ;;
+  [1-9]|[1-2][0-9]) 
+    ICON="󰕿" 
+    COLOR=0xffffffff 
+    ;;
+  *) 
+    ICON="󰝟" 
+    COLOR=0xffed8796 # Red/Muted
 esac
 
-sketchybar --set "$NAME" icon="$ICON" label="$VOLUME%" padding_left=10
+sketchybar --set "$NAME" icon="" \
+                         icon="$ICON" \
+                         label="$VOLUME%" \
+                         icon.color="$COLOR"
